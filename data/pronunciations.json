@@ -1,0 +1,297 @@
+{
+  "VIC": {
+    "Melbourne CBD": {
+      "phonetic": "MEL-buhn see-bee-dee",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/most-mispronounced-australian-place-names",
+      "speechOverride": null,
+      "audioUrl": null,
+      "variants": [
+        {
+          "phonetic": "MAL-buhn see-bee-dee",
+          "source": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/"
+        }
+      ]
+    },
+    "Reservoir": {
+      "phonetic": "rez-uh-VOR",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Lalor": {
+      "phonetic": "LAY-luh",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Beaumaris": {
+      "phonetic": "boh-MOR-iss",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Maidstone": {
+      "phonetic": "MAYD-stohn",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Moorabbin": {
+      "phonetic": "mor-AB-in",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Prahran": {
+      "phonetic": "PRAN",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "speechOverride": null,
+      "audioUrl": null,
+      "variants": [
+        {
+          "phonetic": "puh-RAN",
+          "source": "https://www.realestate.com.au/news/can-you-pronounce-these-aussie-cities-and-suburbs/"
+        }
+      ]
+    },
+    "St Albans": {
+      "phonetic": "sənt-AWL-bənz",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Malvern": {
+      "phonetic": "MOL-vuhn",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "speechOverride": null,
+      "audioUrl": null,
+      "variants": [
+        {
+          "phonetic": "MAWL-vuhn",
+          "source": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/"
+        },
+        {
+          "phonetic": "MAL-vuhn",
+          "source": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/"
+        }
+      ]
+    },
+    "Werribee": {
+      "phonetic": "WEH-ri-bee",
+      "verificationSource": "https://forvo.com/word/werribee/",
+      "verificationStatus": "provisional"
+    },
+    "Murrumbeena": {
+      "phonetic": "murr-um-BEE-nuh",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "verificationStatus": "verified"
+    },
+    "Doncaster": {
+      "phonetic": "don-KAH-stuh",
+      "verificationSource": "https://www.domain.com.au/news/how-to-pronounce-melbourne-suburb-names-prahran-st-albans-malvern-berwick-20180606-h111jv/",
+      "verificationStatus": "verified"
+    }
+  },
+  "WA": {
+    "Perth": {
+      "phonetic": "PURTH",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.abc.net.au/education/learn-english/how-to-pronounce-australian-place-names/13462024",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Coogee": {
+      "phonetic": "KOO-jee",
+      "verificationSource": "https://www.parliament.wa.gov.au/parliament/library/MPHistoricalData.nsf/32e457f9ba7d7c5148257b5500242416/aef21c6b50b5cf33482577e50028a7db/%24FILE/Stephens%2C%20Thomas%20Gregory%2C%20Oral%20History.pdf",
+      "verificationStatus": "verified"
+    }
+  },
+  "QLD": {
+    "Brisbane City": {
+      "phonetic": "BRIZ-buhn SIT-ee",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/most-mispronounced-australian-place-names",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Woolloongabba": {
+      "phonetic": "WUUL-un-GAB-uh",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Kangaroo Point": {
+      "phonetic": "KANG-guh-roo POINT",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Indooroopilly": {
+      "phonetic": "in-druh-PIL-ee",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Toowong": {
+      "phonetic": "too-WONG",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Taringa": {
+      "phonetic": "tuh-REEN-guh",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Lutwyche": {
+      "phonetic": "LUT-wich",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Wacol": {
+      "phonetic": "WAY-kol",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Morningside": {
+      "phonetic": "MAW-ning-side",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Nundah": {
+      "phonetic": "NUN-duh",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Kedron": {
+      "phonetic": "KED-ruhn",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Wavell Heights": {
+      "phonetic": "WAY-vuhl HEIGHTS",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Wynnum": {
+      "phonetic": "WIN-um",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Annerley": {
+      "phonetic": "AN-uh-lee",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Mitchelton": {
+      "phonetic": "MITCH-uhl-tuhn",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "provisional"
+    },
+    "Bardon": {
+      "phonetic": "BAH-duhn",
+      "verificationSource": "https://brisbanista.com.au/20-brisbane-places-youve-been-saying-wrong-how-to-say-them/",
+      "verificationStatus": "verified",
+      "audioUrl": "./audio/verified/bardon.wav",
+      "recordingSource": "https://commons.wikimedia.org/wiki/File:EN-AU_ck1_Bardon.ogg"
+    },
+    "Ascot": {
+      "phonetic": "AS-kuht",
+      "verificationSource": "https://www.youtube.com/watch?v=C1Xwagc2GQ4",
+      "verificationStatus": "provisional"
+    }
+  },
+  "SA": {
+    "Adelaide": {
+      "phonetic": "AD-uh-layd",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/most-mispronounced-australian-place-names",
+      "speechOverride": null,
+      "audioUrl": "./audio/verified/adelaide.wav",
+      "recordingSource": "https://commons.wikimedia.org/wiki/File:En-au-Adelaide.oga"
+    },
+    "Thebarton": {
+      "phonetic": "THEB-uh-tuhn",
+      "verificationSource": "https://cleaningease.com.au/pages/house-cleaner-thebarton",
+      "verificationStatus": "provisional"
+    }
+  },
+  "NSW": {
+    "Sydney": {
+      "phonetic": "SID-nee",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.abc.net.au/education/learn-english/how-to-pronounce-australian-place-names/13462024",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Woolloomooloo": {
+      "phonetic": "wul-uh-muh-LOO",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/how-to-pronounce-sydney-suburbs",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Parramatta": {
+      "phonetic": "pa-ruh-MAT-uh",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/how-to-pronounce-sydney-suburbs",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Coogee": {
+      "phonetic": "KUJ-ee",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/how-to-pronounce-sydney-suburbs",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Bondi": {
+      "phonetic": "BON-dye",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/most-mispronounced-australian-place-names",
+      "speechOverride": null,
+      "audioUrl": "./audio/verified/bondi.wav",
+      "recordingSource": "https://commons.wikimedia.org/wiki/File:EN-AU_ck1_Bondi_cigar.ogg"
+    },
+    "Balmain": {
+      "phonetic": "BAL-mayn",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/how-to-pronounce-sydney-suburbs",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Cronulla": {
+      "phonetic": "kruh-NUL-uh",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/how-to-pronounce-sydney-suburbs",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Pyrmont": {
+      "phonetic": "PEER-mont",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/how-to-pronounce-sydney-suburbs",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Glebe": {
+      "phonetic": "GLEEB",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/how-to-pronounce-sydney-suburbs",
+      "speechOverride": null,
+      "audioUrl": null
+    },
+    "Greenwich": {
+      "phonetic": "GREN-itch",
+      "verificationStatus": "verified",
+      "verificationSource": "https://www.aussietalk.com/learn/how-to-pronounce-sydney-suburbs",
+      "speechOverride": null,
+      "audioUrl": null
+    }
+  }
+}

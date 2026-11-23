@@ -1,0 +1,1371 @@
+[
+  {
+    "id": "name-sr-001",
+    "name": "Djordje",
+    "nativeSpelling": "Ђорђе",
+    "language": "Serbian",
+    "locale": "sr-RS",
+    "phonetic": "JOR-jeh",
+    "aliases": [
+      "Đorđe",
+      "Dorde"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%C4%91or%C4%91e/",
+    "fallbackLocale": "hr-HR",
+    "fallbackText": "Đorđe",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Djordje spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-sr-002",
+    "name": "Dušan",
+    "nativeSpelling": "Душан",
+    "language": "Serbian",
+    "locale": "sr-RS",
+    "phonetic": "DOO-shahn",
+    "aliases": [
+      "Dusan"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/du%C5%A1an/",
+    "fallbackLocale": "hr-HR",
+    "fallbackText": "Dušan",
+    "australianUsage": {
+      "label": "SA birth registrations, 2010 · Dusan spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-sr-003",
+    "name": "Miloš",
+    "nativeSpelling": "Милош",
+    "language": "Serbian",
+    "locale": "sr-RS",
+    "phonetic": "MEE-losh",
+    "aliases": [
+      "Milos"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/milo%C5%A1/",
+    "fallbackLocale": "hr-HR",
+    "fallbackText": "Miloš",
+    "australianUsage": {
+      "label": "Socceroos player Milos Degenek",
+      "url": "https://socceroos.com.au/player/milos-degenek?page=1"
+    }
+  },
+  {
+    "id": "name-sr-004",
+    "name": "Jelena",
+    "nativeSpelling": "Јелена",
+    "language": "Serbian",
+    "locale": "sr-RS",
+    "phonetic": "YEH-leh-nah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/jelena/",
+    "fallbackLocale": "hr-HR",
+    "fallbackText": "Jelena",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Jelena spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-sr-005",
+    "name": "Jovana",
+    "nativeSpelling": "Јована",
+    "language": "Serbian",
+    "locale": "sr-RS",
+    "phonetic": "YOH-vah-nah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/jovana/",
+    "fallbackLocale": "hr-HR",
+    "fallbackText": "Jovana",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Jovana spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-sr-006",
+    "name": "Željko",
+    "nativeSpelling": "Жељко",
+    "language": "Serbian",
+    "locale": "sr-RS",
+    "phonetic": "ZHELY-koh",
+    "aliases": [
+      "Zeljko"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%C5%BEeljko/",
+    "fallbackLocale": "hr-HR",
+    "fallbackText": "Željko",
+    "australianUsage": {
+      "label": "SA birth registrations, 2010 · Zeljko spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-sr-007",
+    "name": "Nemanja",
+    "nativeSpelling": "Немања",
+    "language": "Serbian",
+    "locale": "sr-RS",
+    "phonetic": "NEH-mah-nyah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/nemanja/",
+    "fallbackLocale": "hr-HR",
+    "fallbackText": "Nemanja",
+    "australianUsage": {
+      "label": "SA birth registrations, 2011 · Nemanja spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ru-008",
+    "name": "Dmitry",
+    "nativeSpelling": "Дмитрий",
+    "language": "Russian",
+    "locale": "ru-RU",
+    "phonetic": "DMEE-tree",
+    "aliases": [
+      "Dmitri",
+      "Dmitriy"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9/",
+    "australianUsage": {
+      "label": "Dmitriy spelling documented by SBS in regional NSW",
+      "url": "https://www.sbs.com.au/language/russian/en/article/the-volodins-found-bliss-in-regional-nsw-after-fleeing-ukraine-theyre-asking-for-a-chance-to-stay/qkm065v4b"
+    }
+  },
+  {
+    "id": "name-ru-009",
+    "name": "Yekaterina",
+    "nativeSpelling": "Екатерина",
+    "language": "Russian",
+    "locale": "ru-RU",
+    "phonetic": "yeh-kuh-tee-REE-nuh",
+    "aliases": [
+      "Ekaterina"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2001 · Yekaterina spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ru-010",
+    "name": "Sergei",
+    "nativeSpelling": "Сергей",
+    "language": "Russian",
+    "locale": "ru-RU",
+    "phonetic": "syehr-GYEY",
+    "aliases": [
+      "Sergey"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9/",
+    "australianUsage": {
+      "label": "SA birth registrations, 1970 · Sergei spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ru-011",
+    "name": "Yevgeny",
+    "nativeSpelling": "Евгений",
+    "language": "Russian",
+    "locale": "ru-RU",
+    "phonetic": "yev-GYEH-nee",
+    "aliases": [
+      "Evgeny",
+      "Evgenii"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9/",
+    "australianUsage": {
+      "label": "Yevgeny spelling documented by the University of Queensland",
+      "url": "https://eecs.uq.edu.au/about/our-people"
+    }
+  },
+  {
+    "id": "name-ru-012",
+    "name": "Tatyana",
+    "nativeSpelling": "Татьяна",
+    "language": "Russian",
+    "locale": "ru-RU",
+    "phonetic": "taht-YAH-nuh",
+    "aliases": [
+      "Tatiana"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Tatyana spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ru-013",
+    "name": "Alexei",
+    "nativeSpelling": "Алексей",
+    "language": "Russian",
+    "locale": "ru-RU",
+    "phonetic": "ah-leek-SYEY",
+    "aliases": [
+      "Alexey",
+      "Aleksei"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9/",
+    "australianUsage": {
+      "label": "Australian tennis player Alexei Popyrin",
+      "url": "https://www.tennis.com.au/fan-zone/australian-players/alexei-popyrin"
+    }
+  },
+  {
+    "id": "name-ru-014",
+    "name": "Olga",
+    "nativeSpelling": "Ольга",
+    "language": "Russian",
+    "locale": "ru-RU",
+    "phonetic": "OHL-guh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2010 · Olga spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-uk-015",
+    "name": "Oleksandr",
+    "nativeSpelling": "Олександр",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "oh-lek-SAHNDR",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%BE%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80/",
+    "australianUsage": {
+      "label": "Documented by SBS in regional NSW",
+      "url": "https://www.sbs.com.au/language/russian/en/article/the-volodins-found-bliss-in-regional-nsw-after-fleeing-ukraine-theyre-asking-for-a-chance-to-stay/qkm065v4b"
+    }
+  },
+  {
+    "id": "name-uk-016",
+    "name": "Dmytro",
+    "nativeSpelling": "Дмитро",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "dmih-TROH",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE/",
+    "australianUsage": {
+      "label": "Ukrainian Australian writer Dmytro Nytchenko",
+      "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CN%5CY%5CNytchenkoDmytro.htm"
+    }
+  },
+  {
+    "id": "name-uk-017",
+    "name": "Olha",
+    "nativeSpelling": "Ольга",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "OHL-hah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%BE%D0%BB%D1%8C%D0%B3%D0%B0/",
+    "australianUsage": {
+      "label": "SA birth registrations, 1961 · Olha spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-uk-018",
+    "name": "Olena",
+    "nativeSpelling": "Олена",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "oh-LEH-nah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0/",
+    "australianUsage": {
+      "label": "Ukrainian Australian Olena Lima",
+      "url": "https://www.sbs.com.au/language/russian/en/article/nothing-to-fight-over-russians-and-ukrainians-in-australia-watch-in-disbelief-as-border-tensions-grow/gn9qjwn9f"
+    }
+  },
+  {
+    "id": "name-uk-019",
+    "name": "Yevhen",
+    "nativeSpelling": "Євген",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "yev-HEHN",
+    "aliases": [
+      "Evhen"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D1%94%D0%B2%D0%B3%D0%B5%D0%BD/",
+    "australianUsage": {
+      "label": "Yevhen spelling documented in Australia by SBS",
+      "url": "https://www.sbs.com.au/news/article/displaced-ukrainians-stuck-without-access-to-medicare-rental-assistance-or-right-to-work-on-visitor-visas/6ee08avek"
+    }
+  },
+  {
+    "id": "name-uk-020",
+    "name": "Svitlana",
+    "nativeSpelling": "Світлана",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "sveet-LAH-nah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D1%81%D0%B2%D1%96%D1%82%D0%BB%D0%B0%D0%BD%D0%B0/",
+    "australianUsage": {
+      "label": "SA birth registrations, 1987 · Svitlana spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-uk-021",
+    "name": "Andrii",
+    "nativeSpelling": "Андрій",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "ahn-DREEY",
+    "aliases": [
+      "Andriy",
+      "Andrij"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2010 · Andriy spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ga-022",
+    "name": "Aoife",
+    "nativeSpelling": "Aoife",
+    "language": "Irish",
+    "locale": "ga-IE",
+    "phonetic": "EE-fuh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://irishready.ie/irish-names",
+    "fallbackLocale": "en-AU",
+    "fallbackText": "Eefa",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Aoife spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ga-023",
+    "name": "Niamh",
+    "nativeSpelling": "Niamh",
+    "language": "Irish",
+    "locale": "ga-IE",
+    "phonetic": "NEEV",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://irishready.ie/irish-names",
+    "fallbackLocale": "en-AU",
+    "fallbackText": "Neeve",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Niamh spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ga-024",
+    "name": "Siobhán",
+    "nativeSpelling": "Siobhán",
+    "language": "Irish",
+    "locale": "ga-IE",
+    "phonetic": "shih-VAWN",
+    "aliases": [
+      "Siobhan"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://irishready.ie/irish-names",
+    "fallbackLocale": "en-AU",
+    "fallbackText": "Shivawn",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Siobhan spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ga-025",
+    "name": "Saoirse",
+    "nativeSpelling": "Saoirse",
+    "language": "Irish",
+    "locale": "ga-IE",
+    "phonetic": "SEER-shuh / SAIR-shuh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://irishready.ie/irish-names",
+    "fallbackLocale": "en-AU",
+    "fallbackText": "Seersha",
+    "australianUsage": {
+      "label": "SA birth registrations, 2012 · Saoirse spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ga-026",
+    "name": "Cillian",
+    "nativeSpelling": "Cillian",
+    "language": "Irish",
+    "locale": "ga-IE",
+    "phonetic": "KIL-ee-uhn",
+    "aliases": [
+      "Killian"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/cillian/",
+    "fallbackLocale": "en-AU",
+    "fallbackText": "Killian",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Cillian spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-pl-027",
+    "name": "Łukasz",
+    "nativeSpelling": "Łukasz",
+    "language": "Polish",
+    "locale": "pl-PL",
+    "phonetic": "WOO-kash",
+    "aliases": [
+      "Lukasz"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%C5%82ukasz/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2012 · Lukasz spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-pl-028",
+    "name": "Wojciech",
+    "nativeSpelling": "Wojciech",
+    "language": "Polish",
+    "locale": "pl-PL",
+    "phonetic": "VOY-chehkh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/wojciech/",
+    "australianUsage": {
+      "label": "SA birth registrations, 1988 · Wojciech spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-pl-029",
+    "name": "Zofia",
+    "nativeSpelling": "Zofia",
+    "language": "Polish",
+    "locale": "pl-PL",
+    "phonetic": "ZAW-fyah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/zofia/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2010 · Zofia spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-vi-030",
+    "name": "Ngọc",
+    "nativeSpelling": "Ngọc",
+    "language": "Vietnamese",
+    "locale": "vi-VN",
+    "phonetic": "ngawk",
+    "aliases": [
+      "Ngoc"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/ng%E1%BB%8Dc/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2011 · Ngoc spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-vi-031",
+    "name": "Thảo",
+    "nativeSpelling": "Thảo",
+    "language": "Vietnamese",
+    "locale": "vi-VN",
+    "phonetic": "taow",
+    "aliases": [
+      "Thao"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/th%E1%BA%A3o/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Thao spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-vi-032",
+    "name": "Phương",
+    "nativeSpelling": "Phương",
+    "language": "Vietnamese",
+    "locale": "vi-VN",
+    "phonetic": "fuh-ung",
+    "aliases": [
+      "Phuong"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/ph%C6%B0%C6%A1ng/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2011 · Phuong spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ar-033",
+    "name": "Khalid",
+    "nativeSpelling": "خالد",
+    "language": "Arabic",
+    "locale": "ar",
+    "phonetic": "KHAA-lid",
+    "aliases": [
+      "Khaled"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D8%AE%D8%A7%D9%84%D8%AF/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Khalid spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ar-034",
+    "name": "Aisha",
+    "nativeSpelling": "عائشة",
+    "language": "Arabic",
+    "locale": "ar",
+    "phonetic": "AA-ee-shah",
+    "aliases": [
+      "Ayesha",
+      "Aysha",
+      "Aishah"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D8%B9%D8%A7%D8%A6%D8%B4%D8%A9/",
+    "australianUsage": {
+      "label": "NSW Top 100, 2016 · Aisha spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-ar-035",
+    "name": "Omar",
+    "nativeSpelling": "عمر",
+    "language": "Arabic",
+    "locale": "ar",
+    "phonetic": "OO-mar",
+    "aliases": [
+      "Umar"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%D8%B9%D9%85%D8%B1/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Omar spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-hi-036",
+    "name": "Aarav",
+    "nativeSpelling": "आरव",
+    "language": "Hindi",
+    "locale": "hi-IN",
+    "phonetic": "AA-ruhv",
+    "aliases": [
+      "Arav"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%E0%A4%86%E0%A4%B0%E0%A4%B5/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Aarav spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-hi-037",
+    "name": "Saanvi",
+    "nativeSpelling": "सान्वी",
+    "language": "Hindi",
+    "locale": "hi-IN",
+    "phonetic": "SAAN-vee",
+    "aliases": [
+      "Sanvi"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%E0%A4%B8%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%B5%E0%A5%80/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Saanvi spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-hi-038",
+    "name": "Shreya",
+    "nativeSpelling": "श्रेया",
+    "language": "Hindi",
+    "locale": "hi-IN",
+    "phonetic": "SHRAY-yaa",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%AF%E0%A4%BE/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2012 · Shreya spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-zh-039",
+    "name": "Xiǎomíng",
+    "nativeSpelling": "小明",
+    "language": "Mandarin",
+    "locale": "zh-CN",
+    "phonetic": "shyaow-ming",
+    "aliases": [
+      "Xiaoming",
+      "Xiao Ming"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%E5%B0%8F%E6%98%8E/",
+    "australianUsage": {
+      "label": "Xiaoming spelling documented by Deakin University",
+      "url": "https://experts.deakin.edu.au/74631-xiaoming-hu"
+    }
+  },
+  {
+    "id": "name-zh-040",
+    "name": "Jìng",
+    "nativeSpelling": "静",
+    "language": "Mandarin",
+    "locale": "zh-CN",
+    "phonetic": "jeeng",
+    "aliases": [
+      "Jing"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%E9%9D%99/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2006 · Jing spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-zh-041",
+    "name": "Wěi",
+    "nativeSpelling": "伟",
+    "language": "Mandarin",
+    "locale": "zh-CN",
+    "phonetic": "way",
+    "aliases": [
+      "Wei",
+      "偉"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%E4%BC%9F/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Wei spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-el-042",
+    "name": "Ioannis",
+    "nativeSpelling": "Ιωάννης",
+    "language": "Greek",
+    "locale": "el-GR",
+    "phonetic": "ee-oh-AH-nees",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%CE%B9%CF%89%CE%AC%CE%BD%CE%BD%CE%B7%CF%82/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Ioannis spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-el-043",
+    "name": "Dimitris",
+    "nativeSpelling": "Δημήτρης",
+    "language": "Greek",
+    "locale": "el-GR",
+    "phonetic": "dhee-MEE-trees",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%CE%B4%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B7%CF%82/",
+    "australianUsage": {
+      "label": "SA birth registrations, 1995 · Dimitris spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-el-044",
+    "name": "Eleni",
+    "nativeSpelling": "Ελένη",
+    "language": "Greek",
+    "locale": "el-GR",
+    "phonetic": "eh-LEH-nee",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%CE%B5%CE%BB%CE%AD%CE%BD%CE%B7/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Eleni spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ja-045",
+    "name": "Ryō",
+    "nativeSpelling": "りょう",
+    "language": "Japanese",
+    "locale": "ja-JP",
+    "phonetic": "ryoh",
+    "aliases": [
+      "Ryo",
+      "Ryou"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%E3%82%8A%E3%82%87%E3%81%86/",
+    "australianUsage": {
+      "label": "SA birth registrations, 2009 · Ryo spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ja-046",
+    "name": "Kyōko",
+    "nativeSpelling": "きょうこ",
+    "language": "Japanese",
+    "locale": "ja-JP",
+    "phonetic": "kyoh-koh",
+    "aliases": [
+      "Kyoko",
+      "Kyouko"
+    ],
+    "verificationStatus": "provisional",
+    "verificationSource": "https://forvo.com/word/%E3%81%8D%E3%82%87%E3%81%86%E3%81%93/",
+    "australianUsage": {
+      "label": "Kyoko spelling documented by the National Gallery of Victoria",
+      "url": "https://www.ngv.vic.gov.au/explore/collection/artist/30405/"
+    }
+  },
+  {
+    "id": "name-sr-047",
+    "name": "Aleksandar",
+    "nativeSpelling": "Александар",
+    "language": "Serbian",
+    "locale": "sr-RS",
+    "phonetic": "ah-lek-SAHN-dar",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "fallbackLocale": "hr-HR",
+    "fallbackText": "Aleksandar",
+    "australianUsage": {
+      "label": "Australian tennis player Aleksandar Vukic",
+      "url": "https://www.tennis.com.au/fan-zone/news/2026/04/21/kokkinakis-among-aussies-at-roland-garros"
+    }
+  },
+  {
+    "id": "name-hr-048",
+    "name": "Ajla",
+    "nativeSpelling": "Ajla",
+    "language": "Croatian",
+    "locale": "hr-HR",
+    "phonetic": "EYE-lah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Australian Olympian Ajla Tomljanović",
+      "url": "https://www.olympics.com.au/sports-teams/tennis-team-paris-2024/"
+    }
+  },
+  {
+    "id": "name-ru-049",
+    "name": "Daria",
+    "nativeSpelling": "Дарья",
+    "language": "Russian",
+    "locale": "ru-RU",
+    "phonetic": "DAHR-yuh",
+    "aliases": [
+      "Darya"
+    ],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Australian Olympian Daria Saville",
+      "url": "https://www.olympics.com.au/sports-teams/tennis-team-paris-2024/"
+    }
+  },
+  {
+    "id": "name-uk-050",
+    "name": "Iryna",
+    "nativeSpelling": "Ірина",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "ih-RIH-nah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Sydney volunteer profiled by SBS Ukrainian",
+      "url": "https://www.sbs.com.au/language/ukrainian/en/podcast-episode/interview-with-dreams-branch-of-ukrainian-womans-association-australia/d8iyse60i"
+    }
+  },
+  {
+    "id": "name-uk-051",
+    "name": "Nataliia",
+    "nativeSpelling": "Наталія",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "nah-tah-LEE-yah",
+    "aliases": [
+      "Nataliya"
+    ],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Sydney volunteer profiled by SBS Ukrainian",
+      "url": "https://www.sbs.com.au/language/ukrainian/en/podcast-episode/interview-with-dreams-branch-of-ukrainian-womans-association-australia/d8iyse60i"
+    }
+  },
+  {
+    "id": "name-uk-052",
+    "name": "Kateryna",
+    "nativeSpelling": "Катерина",
+    "language": "Ukrainian",
+    "locale": "uk-UA",
+    "phonetic": "kah-teh-RIH-nah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Australian Federation of Ukrainian Organisations chair profiled by SBS",
+      "url": "https://www.sbs.com.au/news/article/after-four-years-of-war-ukrainians-in-australia-are-stuck-between-hope-and-heartbreak/a0r6misaf"
+    }
+  },
+  {
+    "id": "name-ga-053",
+    "name": "Sinéad",
+    "nativeSpelling": "Sinéad",
+    "language": "Irish",
+    "locale": "ga-IE",
+    "phonetic": "shih-NAYD",
+    "aliases": [
+      "Sinead"
+    ],
+    "verificationStatus": "provisional",
+    "fallbackLocale": "en-AU",
+    "fallbackText": "Shinade",
+    "australianUsage": {
+      "label": "Australian Olympian Sinead Diver",
+      "url": "https://www.olympics.com.au/olympians/sinead-diver/"
+    }
+  },
+  {
+    "id": "name-el-054",
+    "name": "Thanasi",
+    "nativeSpelling": "Θανάση",
+    "language": "Greek",
+    "locale": "el-GR",
+    "phonetic": "thah-NAH-see",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Australian tennis player Thanasi Kokkinakis",
+      "url": "https://www.tennis.com.au/fan-zone/australian-players/thanasi-kokkinakis"
+    }
+  },
+  {
+    "id": "name-ko-055",
+    "name": "Minjee",
+    "nativeSpelling": "민지",
+    "language": "Korean",
+    "locale": "ko-KR",
+    "phonetic": "min-jee",
+    "aliases": [
+      "Minji"
+    ],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Australian Olympian Minjee Lee",
+      "url": "https://www.olympics.com.au/olympians/minjee-lee/"
+    }
+  },
+  {
+    "id": "name-ja-056",
+    "name": "Saya",
+    "nativeSpelling": "さや",
+    "language": "Japanese",
+    "locale": "ja-JP",
+    "phonetic": "sah-yah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Australian Olympian Saya Sakakibara",
+      "url": "https://www.olympics.com.au/olympians/saya-sakakibara/"
+    }
+  },
+  {
+    "id": "name-bs-057",
+    "name": "Ajdin",
+    "nativeSpelling": "Ajdin",
+    "language": "Bosnian",
+    "locale": "bs-BA",
+    "phonetic": "EYE-deen",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "fallbackLocale": "hr-HR",
+    "fallbackText": "Ajdin",
+    "australianUsage": {
+      "label": "Socceroos player Ajdin Hrustic",
+      "url": "https://socceroos.com.au/news/seven-uncapped-players-selected-commbank-socceroos-squad-soccer-ashes"
+    }
+  },
+  {
+    "id": "name-tr-058",
+    "name": "Aziz",
+    "nativeSpelling": "Aziz",
+    "language": "Turkish",
+    "locale": "tr-TR",
+    "phonetic": "ah-ZEEZ",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Socceroos player Aziz Behich",
+      "url": "https://socceroos.com.au/teams"
+    }
+  },
+  {
+    "id": "name-en-059",
+    "name": "Ezi",
+    "nativeSpelling": "Ezi",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "EH-zee",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Australian Olympian Ezi Magbegor",
+      "url": "https://www.olympics.com.au/olympians/ezi-magbegor/"
+    }
+  },
+  {
+    "id": "name-en-060",
+    "name": "Taliqua",
+    "nativeSpelling": "Taliqua",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "tuh-LEE-kwuh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Australian Olympian Taliqua Clancy",
+      "url": "https://www.olympics.com.au/olympians/taliqua-clancy/"
+    }
+  },
+  {
+    "id": "name-en-061",
+    "name": "Rinky",
+    "nativeSpelling": "Rinky",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "RING-kee",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "Australian Olympian Rinky Hijikata",
+      "url": "https://www.olympics.com.au/sports-teams/tennis-team-paris-2024/"
+    }
+  },
+  {
+    "id": "name-en-062",
+    "name": "Isla",
+    "nativeSpelling": "Isla",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "EYE-luh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Isla spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-063",
+    "name": "Chloe",
+    "nativeSpelling": "Chloe",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "KLOH-ee",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Chloe spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-064",
+    "name": "Elijah",
+    "nativeSpelling": "Elijah",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "ih-LYE-juh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Elijah spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-065",
+    "name": "Levi",
+    "nativeSpelling": "Levi",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "LEE-vye",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Levi spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-066",
+    "name": "Sienna",
+    "nativeSpelling": "Sienna",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "see-EN-uh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Sienna spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-067",
+    "name": "Freya",
+    "nativeSpelling": "Freya",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "FRAY-uh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Freya spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-068",
+    "name": "Aaliyah",
+    "nativeSpelling": "Aaliyah",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "uh-LEE-yuh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Aaliyah spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-069",
+    "name": "Aria",
+    "nativeSpelling": "Aria",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "AH-ree-uh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Aria spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-070",
+    "name": "Rory",
+    "nativeSpelling": "Rory",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "RAW-ree",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Rory spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-071",
+    "name": "Micah",
+    "nativeSpelling": "Micah",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "MY-kuh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Micah spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-072",
+    "name": "Celine",
+    "nativeSpelling": "Celine",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "suh-LEEN",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Celine spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-en-073",
+    "name": "Xavier",
+    "nativeSpelling": "Xavier",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "ZAY-vee-uh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Xavier spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-074",
+    "name": "Kiara",
+    "nativeSpelling": "Kiara",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "kee-AH-ruh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Kiara spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-075",
+    "name": "Mila",
+    "nativeSpelling": "Mila",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "MEE-luh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Mila spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-076",
+    "name": "Maya",
+    "nativeSpelling": "Maya",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "MY-uh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Maya spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-077",
+    "name": "Zayn",
+    "nativeSpelling": "Zayn",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "ZAYN",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2023 · Zayn spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-078",
+    "name": "Kieran",
+    "nativeSpelling": "Kieran",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "KEER-uhn",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 1995 · Kieran spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-079",
+    "name": "Amara",
+    "nativeSpelling": "Amara",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "uh-MAH-ruh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Amara spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-080",
+    "name": "Lainey",
+    "nativeSpelling": "Lainey",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "LAY-nee",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Lainey spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-en-081",
+    "name": "Luca",
+    "nativeSpelling": "Luca",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "LOO-kuh",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Luca spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-ar-082",
+    "name": "Amira",
+    "nativeSpelling": "أميرة",
+    "language": "Arabic",
+    "locale": "ar",
+    "phonetic": "ah-MEE-rah",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Amira spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-ar-083",
+    "name": "Ibrahim",
+    "nativeSpelling": "إبراهيم",
+    "language": "Arabic",
+    "locale": "ar",
+    "phonetic": "ib-rah-HEEM",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Ibrahim spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-ar-084",
+    "name": "Muhammad",
+    "nativeSpelling": "محمد",
+    "language": "Arabic",
+    "locale": "ar",
+    "phonetic": "moo-HAM-mad",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Muhammad spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-ar-085",
+    "name": "Maryam",
+    "nativeSpelling": "مريم",
+    "language": "Arabic",
+    "locale": "ar",
+    "phonetic": "MAR-yam",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "NSW Top 100, 2025 · Maryam spelling",
+      "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
+    }
+  },
+  {
+    "id": "name-ar-086",
+    "name": "Zain",
+    "nativeSpelling": "زين",
+    "language": "Arabic",
+    "locale": "ar",
+    "phonetic": "ZAYN",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Zain spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  },
+  {
+    "id": "name-ar-087",
+    "name": "Yusuf",
+    "nativeSpelling": "يوسف",
+    "language": "Arabic",
+    "locale": "ar",
+    "phonetic": "YOO-soof",
+    "aliases": [],
+    "verificationStatus": "provisional",
+    "australianUsage": {
+      "label": "SA birth registrations, 2013 · Yusuf spelling",
+      "url": "https://zenodo.org/records/11580348"
+    }
+  }
+]

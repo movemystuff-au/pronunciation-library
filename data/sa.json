@@ -1,0 +1,3890 @@
+[
+  {
+    "id": "SA-5000-c004fb95d3df6d84",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5000",
+    "suburb": "Adelaide",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "SA-5069-6365c56179c2667b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5069",
+    "suburb": "Maylands",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "SA-5081-056bf30d3d060a12",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5081",
+    "suburb": "Collinswood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "SA-5001-d3b634469c2f0de4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5001",
+    "suburb": "Adelaide",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "SA-5031-22c3299f1bd27a6e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5031",
+    "suburb": "Mile End",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "SA-5064-f504eb2e2e9ffba8",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5064",
+    "suburb": "Myrtle Bank",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "SA-5800-77249debfb6c43b8",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5800",
+    "suburb": "Adelaide",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "SA-5065-0984e49703e9bea2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5065",
+    "suburb": "Toorak Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "SA-5041-2aaaabc0bcb15a99",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5041",
+    "suburb": "Westbourne Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "SA-5810-e25d9f599653e58a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5810",
+    "suburb": "Adelaide",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "SA-5081-c3669f51e59f9ae6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5081",
+    "suburb": "Walkerville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "SA-5065-7fb3ac3f57fe4021",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5065",
+    "suburb": "Linden Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "SA-5839-59afa2cd63f3d901",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5839",
+    "suburb": "Adelaide",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "SA-5070-f0ab35c2c579364b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Joslin",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "SA-5082-e826a5b9b2854bd3",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5082",
+    "suburb": "Prospect West",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "SA-5000-0dbe26eb13f5251f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5000",
+    "suburb": "Rundle Mall",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "SA-5007-0342cdd3265454ae",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5007",
+    "suburb": "Brompton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "SA-5068-dadcbccaaf8dfa82",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5068",
+    "suburb": "St Morris",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "SA-5000-d4e946cf5228223e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5000",
+    "suburb": "Parliament House",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "SA-5063-3ab8fcb1c9cabbd5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5063",
+    "suburb": "Fullarton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "SA-5032-27c43e1eb92621ed",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5032",
+    "suburb": "Brooklyn Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "SA-5000-844ae28e83b50eb4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5000",
+    "suburb": "Station Arcade",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "SA-5061-4b568cdae5403379",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5061",
+    "suburb": "Hyde Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "SA-5037-4982dd3e1fe87817",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5037",
+    "suburb": "Netley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "SA-5005-77b0de708ba40ff7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5005",
+    "suburb": "Adelaide University",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "SA-5061-4d12450480bd8adb",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5061",
+    "suburb": "Malvern",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "SA-5008-b4a8debfd476d295",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5008",
+    "suburb": "Croydon Park South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "SA-5005-6007416299acd6f9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5005",
+    "suburb": "The University Of Adelaide",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "SA-5081-fb87bb203f5125a0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5081",
+    "suburb": "Medindie Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "SA-5008-1587f6bb232ae3e8",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5008",
+    "suburb": "Dudley Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "SA-5005-80bb634a07f03724",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5005",
+    "suburb": "University Of Adelaide",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "SA-5069-ce0d27f490a996d8",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5069",
+    "suburb": "Evandale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "SA-5025-d6358bc19014f4ff",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5025",
+    "suburb": "Flinders Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "SA-5000-44fd8c88ebb6ca9a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5000",
+    "suburb": "City West Campus",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "SA-5035-3ca1bf768a0b0c2d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5035",
+    "suburb": "Everard Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "SA-5062-71603f90c708a915",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Kingswood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "SA-5000-51352c323b7611ea",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5000",
+    "suburb": "Sturt Street",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "SA-5033-df2f6f788944ac8a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5033",
+    "suburb": "Marleston Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "SA-5064-d5fc177d458048fe",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5064",
+    "suburb": "Glen Osmond",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "SA-5000-b2a18509ce0f7d0b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5000",
+    "suburb": "Adelaide Bc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "SA-5061-dc7032ee66a7a25f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5061",
+    "suburb": "Unley Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "SA-5066-a8c573e6f7581b17",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5066",
+    "suburb": "Hazelwood Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "SA-5000-cd6c82c479f8d007",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5000",
+    "suburb": "Halifax Street",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "SA-5033-5d41655b2032af25",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5033",
+    "suburb": "Cowandilla",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "SA-5037-cb182b0210f489e4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5037",
+    "suburb": "North Plympton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "SA-5000-120fb827090c8abc",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5000",
+    "suburb": "Hutt Street",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "SA-5031-7dec4349ced5f565",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5031",
+    "suburb": "Torrensville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "SA-5082-1af6b636d2b59164",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5082",
+    "suburb": "Prospect East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "SA-5067-24169d5946aca9bb",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5067",
+    "suburb": "Kent Town",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "SA-5067-62c5119fe9a83ec6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5067",
+    "suburb": "Beulah Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "SA-5083-6b1379ccfc0353c4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5083",
+    "suburb": "Sefton Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "SA-5071-90ba37922323273c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5071",
+    "suburb": "Kent Town",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "SA-5065-a9bc5a2b1bbe39c0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5065",
+    "suburb": "Glenside",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "SA-5064-65c7fbcc8490b657",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5064",
+    "suburb": "St Georges",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "SA-5069-48c25f84f5a741e0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5069",
+    "suburb": "Hackney",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "SA-5068-498572e7e3116819",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5068",
+    "suburb": "Kensington",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "SA-5039-e382607a9ca24750",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5039",
+    "suburb": "Clarence Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "SA-5006-69dd0074df2fb4fd",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5006",
+    "suburb": "North Adelaide Melbourne St",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "SA-5037-03d9860cdf230f1d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5037",
+    "suburb": "Kurralta Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "SA-5008-efdb4d80552f3395",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5008",
+    "suburb": "West Croydon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "SA-5035-815548f036c29850",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5035",
+    "suburb": "Keswick Terminal",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "SA-5008-ebcddb16f5c1eae4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5008",
+    "suburb": "Renown Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "SA-5066-f970ba07536b6f35",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5066",
+    "suburb": "Burnside",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "SA-5063-b690e9090a0fe4e2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5063",
+    "suburb": "Parkside",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "SA-5007-34a8e2192387e4b6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5007",
+    "suburb": "West Hindmarsh",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "SA-5070-8d47b4d037170fd3",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Felixstow",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "SA-5034-2e4d44c2187d467c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5034",
+    "suburb": "Wayville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "SA-5034-421738635cc55948",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5034",
+    "suburb": "Kings Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "SA-5062-bfcd5ae0f63bc3ec",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Mitcham Shopping Centre",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "SA-5069-35d2f453d0731e13",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5069",
+    "suburb": "College Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "SA-5033-cd7bdc65cac8fb19",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5033",
+    "suburb": "Marleston",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "SA-5064-8bb3520ae6dcee6b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5064",
+    "suburb": "Urrbrae",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "SA-5006-172a9e1bc16be541",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5006",
+    "suburb": "North Adelaide",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "SA-5034-baa59f0f73f4d9dd",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5034",
+    "suburb": "Clarence Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "SA-5066-73c65b5ede0a640d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5066",
+    "suburb": "Erindale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "SA-5067-0f73afdc43acc819",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5067",
+    "suburb": "Norwood South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "SA-5068-77c39d229262f1ea",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5068",
+    "suburb": "Marryatville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "SA-5070-c27adaa1c64faa34",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Firle",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "SA-5061-31caf00a2b9167c1",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5061",
+    "suburb": "Unley Bc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "SA-5008-d2ef3dc09add96d2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5008",
+    "suburb": "Ridleyton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "SA-5068-2e4fa3409926107c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5068",
+    "suburb": "Kensington Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "SA-5067-04dee29d47ca5b28",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5067",
+    "suburb": "Rose Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "SA-5068-7cc03bc060c02ce4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5068",
+    "suburb": "Heathpool",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "SA-5062-8b91b0d05d8375de",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Netherby",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "SA-5063-c4d2b30218b82e6a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5063",
+    "suburb": "Eastwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "SA-5063-b2872e8dd42a6187",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5063",
+    "suburb": "Highgate",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "SA-5086-16b546dea21a0c8a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5086",
+    "suburb": "Manningham",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "SA-5065-3624537916af43b9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5065",
+    "suburb": "Dulwich",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "SA-5083-9fa2871402e33073",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5083",
+    "suburb": "Nailsworth",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "SA-5008-9fcc93d0f4fa3ff9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5008",
+    "suburb": "Croydon Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "SA-5033-d9778a0d1f85292f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5033",
+    "suburb": "Hilton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "SA-5070-ade5fad9093f7558",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Royston Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "SA-5038-ca141d03679e54ff",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5038",
+    "suburb": "Plympton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "SA-5031-651d666bbc64a2af",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5031",
+    "suburb": "Thebarton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "SA-5008-44ecdc7de2a88409",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5008",
+    "suburb": "Croydon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "SA-5083-14f22ec28cec9846",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5083",
+    "suburb": "Broadview",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "SA-5061-6d4d54523d0f814e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5061",
+    "suburb": "Unley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "SA-5064-781b957cca33ade2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5064",
+    "suburb": "Glenunga",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "SA-5087-14dda3bd8d92284e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5087",
+    "suburb": "Klemzig",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "SA-5034-874d5393e8c2ad81",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5034",
+    "suburb": "Goodwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "SA-5068-a5f87401b7554b91",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5068",
+    "suburb": "Trinity Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "SA-5062-6a2c262014ef831a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Lower Mitcham",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "SA-5031-b21e0ac4efd23132",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5031",
+    "suburb": "Mile End South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "SA-5008-c4ad3e6eb38ebe34",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5008",
+    "suburb": "Devon Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "SA-5009-d71e81e0fa53a639",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5009",
+    "suburb": "Beverley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "SA-5035-2eb23137ba735a1e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5035",
+    "suburb": "Keswick",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "SA-5009-3c87972498a5ac18",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5009",
+    "suburb": "Allenby Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "SA-5066-57f340dbd964505c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5066",
+    "suburb": "Beaumont",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "SA-5007-3bf83526cb0024c8",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5007",
+    "suburb": "Bowden",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "SA-5035-85454c694484e832",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5035",
+    "suburb": "Black Forest",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "SA-5041-be2cbad3e5b2a34b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5041",
+    "suburb": "Daw Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "SA-5081-204d3ef5db3a14ce",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5081",
+    "suburb": "Gilberton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "SA-5041-df2f29ae41916c6d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5041",
+    "suburb": "Cumberland Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "SA-5032-3bbcc977ec9227f4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5032",
+    "suburb": "Lockleys",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "SA-5069-a4caf25b44ebb4d9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5069",
+    "suburb": "Stepney",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "SA-5070-433cf7a8f4482efe",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Glynde Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "SA-5073-624b31d54710dcbc",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5073",
+    "suburb": "Tranmere",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "SA-5035-72d3cf9a33981167",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5035",
+    "suburb": "Forestville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "SA-5062-c4dcfb58877aec3b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Hawthorn",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "SA-5070-45fc5e01abf46cf3",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Glynde",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "SA-5069-d916fa2b12cb547f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5069",
+    "suburb": "St Peters",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "SA-5068-2f7f14164216ea02",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5068",
+    "suburb": "Kensington Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "SA-5070-bc578e2d4b980b0e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Glynde Plaza",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "SA-5081-15303f74fee88776",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5081",
+    "suburb": "Medindie",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "SA-5068-d93e0d717e014b20",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5068",
+    "suburb": "Leabrook",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "SA-5039-d682915664156f2c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5039",
+    "suburb": "Melrose Park Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "SA-5082-efd3d98978b785d3",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5082",
+    "suburb": "Thorngate",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "SA-5070-db8784d94ece4b1d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Payneham",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "SA-5062-3447e3f126c36e8a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Springfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "SA-5061-01db6020abd1f031",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5061",
+    "suburb": "Unley Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "SA-5082-dc736ef7465b2963",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5082",
+    "suburb": "Prospect",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "SA-5041-79b1a403e336bec8",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5041",
+    "suburb": "Colonel Light Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "SA-5082-95aae6e2ba158a7c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5082",
+    "suburb": "Fitzroy",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "SA-5032-47d53ac8a357a2b5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5032",
+    "suburb": "Underdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "SA-5039-e743cd7c4e023944",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5039",
+    "suburb": "Edwardstown",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "SA-5063-50771dd86865d611",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5063",
+    "suburb": "Frewville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "SA-5033-f3d51d8a88c5d179",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5033",
+    "suburb": "West Richmond",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "SA-5023-1c745baa4bac3c3a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5023",
+    "suburb": "Findon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "SA-5034-384c70235e1d67b2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5034",
+    "suburb": "Millswood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "SA-5234-70b810d18905b840",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5234",
+    "suburb": "Birdwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "SA-5086-3aa4187b7bda6fef",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5086",
+    "suburb": "Hampstead Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "SA-5067-7994e30de84dba2b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5067",
+    "suburb": "Norwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "SA-5070-fd2741b189d6a1cd",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Marden",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "SA-5062-f6924c039f310d8a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Torrens Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "SA-5082-fd1977b2eaffa424",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5082",
+    "suburb": "Ovingham",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "SA-5070-b18d1f2c807520de",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5070",
+    "suburb": "Payneham South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "SA-5950-9f72ee82e189cff7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5950",
+    "suburb": "Adelaide Airport",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "SA-5033-9555f55cf469e067",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5033",
+    "suburb": "Richmond",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "SA-5037-fd735a2d1acf2bb4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5037",
+    "suburb": "Glandore",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "SA-5084-587074f94aa626e5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5084",
+    "suburb": "Blair Athol West",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "SA-5031-0434d17441940e62",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5031",
+    "suburb": "Torrensville Plaza",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 55"
+  },
+  {
+    "id": "SA-5065-0482665326f016d5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5065",
+    "suburb": "Tusmore",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 55"
+  },
+  {
+    "id": "SA-5025-7c274baedb1bcbf9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5025",
+    "suburb": "Kidman Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 55"
+  },
+  {
+    "id": "SA-5035-6475dc6067d8f983",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5035",
+    "suburb": "Ashford",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 56"
+  },
+  {
+    "id": "SA-5081-b18c5b98e4eea9e0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5081",
+    "suburb": "Vale Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 56"
+  },
+  {
+    "id": "SA-5064-3ab1e6a29aa424ce",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5064",
+    "suburb": "Mount Osmond",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 56"
+  },
+  {
+    "id": "SA-5007-649b693be6fa4894",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5007",
+    "suburb": "Hindmarsh",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 57"
+  },
+  {
+    "id": "SA-5007-5d029e8a31610e82",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5007",
+    "suburb": "Welland",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 57"
+  },
+  {
+    "id": "SA-5073-656629a7f731c0a7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5073",
+    "suburb": "Tranmere North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 57"
+  },
+  {
+    "id": "SA-5084-5e1e34baf04496d6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5084",
+    "suburb": "Kilburn",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "SA-5072-0f001dfd14e619d4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5072",
+    "suburb": "Skye",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "SA-5048-7c1baa869ce2c54f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5048",
+    "suburb": "North Brighton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "SA-5011-7ed7f7b9b1203302",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5011",
+    "suburb": "Woodville Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "SA-5024-4b9444bf372c4552",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5024",
+    "suburb": "West Beach",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "SA-5136-c00d16f09ea281f2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5136",
+    "suburb": "Norton Summit",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "SA-5086-7a9af15d4349c676",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5086",
+    "suburb": "Greenacres",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "SA-5014-9a06a8e84c3781ee",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5014",
+    "suburb": "Albert Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "SA-5046-dbee86aedaa18b90",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5046",
+    "suburb": "Oaklands Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "SA-5038-728e8e295dbbaa6a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5038",
+    "suburb": "South Plympton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "SA-5043-b4e646e8a670c109",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5043",
+    "suburb": "Morphettville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "SA-5013-62516d65906a87cc",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5013",
+    "suburb": "Ottoway",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "SA-5038-df1a013917d27b6f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5038",
+    "suburb": "Camden Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "SA-5085-d50d1ee15a1bf1e7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5085",
+    "suburb": "Northfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "SA-5013-9c905d595cdca45d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5013",
+    "suburb": "Rosewater",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "SA-5072-34e4293a0036b93b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5072",
+    "suburb": "Magill South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "SA-5086-10b400f335093d87",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5086",
+    "suburb": "Oakden",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "SA-5013-a44ab7334a5d9c7f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5013",
+    "suburb": "Rosewater East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "SA-5072-e4e6a01f225c496d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5072",
+    "suburb": "Rosslyn Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "SA-5022-5aa89d35f6d3185a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5022",
+    "suburb": "Henley Beach South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "SA-5044-09596daa66e5f0ca",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5044",
+    "suburb": "Somerton Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "SA-5066-6cef56bd1492789c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5066",
+    "suburb": "Wattle Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "SA-5073-e522e375b4abe4c9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5073",
+    "suburb": "Rostrevor",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "SA-5022-2e6384a2c52c69f5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5022",
+    "suburb": "Tennyson",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "SA-5073-e104e819a7a0e9f5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5073",
+    "suburb": "Hectorville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "SA-5012-a4845735d1e2ccd7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5012",
+    "suburb": "Woodville North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "SA-5093-894c3fa2ac6d6a52",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5093",
+    "suburb": "Valley View",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "SA-5062-a412c62cb4070301",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Clapham",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "SA-5045-7859fe75937344d4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5045",
+    "suburb": "Glenelg North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "SA-5046-89f47c57858f971e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5046",
+    "suburb": "Warradale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "SA-5072-747d7b0dfbf60c10",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5072",
+    "suburb": "Magill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "SA-5042-7acb55be3d2ad61c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5042",
+    "suburb": "St Marys",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "SA-5050-0b33a0df663ce760",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5050",
+    "suburb": "Bellevue Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "SA-5062-88a5b58811b02272",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Mitcham",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "SA-5087-6dca1656c7fb9488",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5087",
+    "suburb": "Windsor Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "SA-5152-7b395bdc6424bfac",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5152",
+    "suburb": "Crafers",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "SA-5066-f49ca9c89d91d71d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5066",
+    "suburb": "Stonyfell",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "SA-5012-e614f357bb86d74c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5012",
+    "suburb": "Athol Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "SA-5051-0945a92098297ca6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5051",
+    "suburb": "Craigburn Farm",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "SA-5072-b26a6929c07e832d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5072",
+    "suburb": "Magill North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "SA-5014-2b5cd01d6e627c08",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5014",
+    "suburb": "Cheltenham",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "SA-5047-6b99b9dab85ed72f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5047",
+    "suburb": "Darlington",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "SA-5039-80cac7feee33bd1f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5039",
+    "suburb": "Melrose Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "SA-5044-d321aef060bd0950",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5044",
+    "suburb": "Glengowrie",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "SA-5048-31774a85d232dff6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5048",
+    "suburb": "Dover Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "SA-5043-8cd743d489030925",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5043",
+    "suburb": "Ascot Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "SA-5023-10a9db17ee9d5324",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5023",
+    "suburb": "Seaton North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "SA-5042-47bc98a3bafd939b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5042",
+    "suburb": "Flinders University",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "SA-5084-da457b5912bf585d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5084",
+    "suburb": "Blair Athol",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "SA-5072-63dea889d08b3406",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5072",
+    "suburb": "Teringie",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "SA-5013-cace82bb62b54ec5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5013",
+    "suburb": "Gillman",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "SA-5009-6ceb926a10b8de94",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5009",
+    "suburb": "Kilkenny",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "SA-5140-6fc31860089291c6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5140",
+    "suburb": "Greenhill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "SA-5089-0aa968a9a383e48a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5089",
+    "suburb": "Highbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "SA-5246-e40b82710e0218ae",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5246",
+    "suburb": "Woodhouse",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "SA-5022-2e33941706fbea65",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5022",
+    "suburb": "Kirkcaldy",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "SA-5048-120397cdd65ab9d2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5048",
+    "suburb": "Hove",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "SA-5085-4374ff15cf3d3c55",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5085",
+    "suburb": "Clearview",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "SA-5043-548b233cbd8d90c6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5043",
+    "suburb": "Marion",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "SA-5098-d721271caf04d369",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5098",
+    "suburb": "Ingle Farm",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "SA-5085-9e5f2e8ed8720b8b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5085",
+    "suburb": "Enfield Plaza",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "SA-5094-8b0b705818eeb914",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5094",
+    "suburb": "Gepps Cross",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "SA-5095-d8accb1f139f659f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5095",
+    "suburb": "Mawson Lakes",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "SA-5066-90db235d52ab3545",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5066",
+    "suburb": "Waterfall Gully",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "SA-5086-acb74752fc42cba4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5086",
+    "suburb": "Gilles Plains",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "SA-5152-85a7a63b964d2357",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5152",
+    "suburb": "Mount Lofty",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "SA-5072-b3ba6aafc53824dc",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5072",
+    "suburb": "Auldana",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "SA-5074-cd9ab95417f6f08e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5074",
+    "suburb": "Newton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "SA-5093-28c1637b0f7f352a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5093",
+    "suburb": "Para Vista",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "SA-5084-bac2a0b803b562e5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5084",
+    "suburb": "Kilburn North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "SA-5052-26c83bad8adf008b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5052",
+    "suburb": "Glenalta",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "SA-5015-6243cd43c85d690d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5015",
+    "suburb": "Port Adelaide",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "SA-5040-24d224b2b5d28dbe",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5040",
+    "suburb": "Novar Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "SA-5045-f5fd6881883344bf",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5045",
+    "suburb": "Glenelg",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "SA-5015-075b1fa630c4c182",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5015",
+    "suburb": "Port Adelaide Bc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "SA-5038-921c3d11ca6b8faa",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5038",
+    "suburb": "Plympton Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "SA-5012-216b5def7dbb774d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5012",
+    "suburb": "Mansfield Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "SA-5047-7b89c0280bc59339",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5047",
+    "suburb": "Seacombe Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "SA-5011-fb2ab9ccb7236477",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5011",
+    "suburb": "Woodville South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "SA-5045-9a93e699a57175f9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5045",
+    "suburb": "Glenelg East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "SA-5047-a2a846e3b64f3b96",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5047",
+    "suburb": "Sturt",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "SA-5238-0156d771292c7c0a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5238",
+    "suburb": "Bonython",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "SA-5022-3f89ba7b1d4990a3",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5022",
+    "suburb": "Henley Beach",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "SA-5021-248ffb200d490d2f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5021",
+    "suburb": "West Lakes",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "SA-5041-e21d2f57fa4ad2c3",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5041",
+    "suburb": "Panorama",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "SA-5045-56afd7e09b81b629",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5045",
+    "suburb": "Glenelg Jetty Road",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "SA-5020-488e3a59f0d7e046",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5020",
+    "suburb": "West Lakes Shore",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "SA-5010-792f244c8b0d43de",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5010",
+    "suburb": "Regency Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "SA-5014-bf959e74db089e5c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5014",
+    "suburb": "Hendon",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "SA-5137-982671823ade947f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5137",
+    "suburb": "Ashton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "SA-5942-66bf949b43a16c72",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5942",
+    "suburb": "Regency Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "SA-5141-246e2ef8f8753de0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5141",
+    "suburb": "Horsnell Gully",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "SA-5015-5ee55429bcc84f6f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5015",
+    "suburb": "Birkenhead",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "SA-5010-fb27fa789b69ef31",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5010",
+    "suburb": "Regency Park Bc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "SA-5013-1476c9e9e6825d18",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5013",
+    "suburb": "Wingfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "SA-5048-a2426915dec4fb30",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5048",
+    "suburb": "Brighton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "SA-5011-a574d1e36b5a815f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5011",
+    "suburb": "Woodville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "SA-5014-81746874b503ca0d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5014",
+    "suburb": "Alberton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "SA-5015-07e292541244920e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5015",
+    "suburb": "Ethelton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "SA-5074-bcada4a0f6954c41",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5074",
+    "suburb": "Campbelltown",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "SA-5152-4ab4c617fd1290b2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5152",
+    "suburb": "Cleland",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "SA-5015-5cf5267029b1ef0d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5015",
+    "suburb": "Glanville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "SA-5010-efffc26a50117715",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5010",
+    "suburb": "Ferryden Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "SA-5075-6a53dba876ba4029",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5075",
+    "suburb": "Dernancourt",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "SA-5090-6e5941aad483907a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5090",
+    "suburb": "Hope Valley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "SA-5024-7e4248fc26881311",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5024",
+    "suburb": "Fulham",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 40"
+  },
+  {
+    "id": "SA-5094-7c49762a273fff77",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5094",
+    "suburb": "Dry Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 40"
+  },
+  {
+    "id": "SA-5150-f81949de5462f0f0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5150",
+    "suburb": "Leawood Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 40"
+  },
+  {
+    "id": "SA-5024-786380ba5e972e80",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5024",
+    "suburb": "Fulham Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 41"
+  },
+  {
+    "id": "SA-5045-90ff86b5c0b3c0bf",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5045",
+    "suburb": "Glenelg South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 41"
+  },
+  {
+    "id": "SA-5092-7b5839b127b6be31",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5092",
+    "suburb": "Modbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 41"
+  },
+  {
+    "id": "SA-5062-2e40036f00b14a8c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Lynton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 42"
+  },
+  {
+    "id": "SA-5088-726f9b455d1bfd4c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5088",
+    "suburb": "Holden Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 42"
+  },
+  {
+    "id": "SA-5092-03626a235f9c45ba",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5092",
+    "suburb": "Modbury North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 42"
+  },
+  {
+    "id": "SA-5012-bbdcc194c571b0fc",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5012",
+    "suburb": "Woodville Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 43"
+  },
+  {
+    "id": "SA-5043-a364bdfc52bbd7b4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5043",
+    "suburb": "Mitchell Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 43"
+  },
+  {
+    "id": "SA-5151-06a7d1485c2d0b74",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5151",
+    "suburb": "Piccadilly",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 43"
+  },
+  {
+    "id": "SA-5010-2854575a889d01d0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5010",
+    "suburb": "Angle Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 44"
+  },
+  {
+    "id": "SA-5013-9b19647af7128e6a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5013",
+    "suburb": "Pennington",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 44"
+  },
+  {
+    "id": "SA-5015-6016c5e8434c4202",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5015",
+    "suburb": "Port Adelaide Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 44"
+  },
+  {
+    "id": "SA-5085-13e64e934caa4037",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5085",
+    "suburb": "Enfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 45"
+  },
+  {
+    "id": "SA-5095-8be5b7dc3351239e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5095",
+    "suburb": "Pooraka",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 45"
+  },
+  {
+    "id": "SA-5049-de6faf177a7101e5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5049",
+    "suburb": "Seacliff Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 45"
+  },
+  {
+    "id": "SA-5085-508ba812bec49911",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5085",
+    "suburb": "Northgate",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 46"
+  },
+  {
+    "id": "SA-5014-1816adbd812cd070",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5014",
+    "suburb": "Queenstown",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 46"
+  },
+  {
+    "id": "SA-5047-4614666d56bb43d2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5047",
+    "suburb": "Seacombe Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 46"
+  },
+  {
+    "id": "SA-5052-5c1e2d281db18f14",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5052",
+    "suburb": "Belair",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 47"
+  },
+  {
+    "id": "SA-5014-aceabccbd5f133d9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5014",
+    "suburb": "Royal Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 47"
+  },
+  {
+    "id": "SA-5049-f27b3af9724bb30a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5049",
+    "suburb": "Seaview Downs",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 47"
+  },
+  {
+    "id": "SA-5062-e5a987fd16092f63",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5062",
+    "suburb": "Brown Hill Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 48"
+  },
+  {
+    "id": "SA-5098-e48b7bea7e50adff",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5098",
+    "suburb": "Walkley Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 48"
+  },
+  {
+    "id": "SA-5019-a1356341618256f7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5019",
+    "suburb": "Semaphore Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 48"
+  },
+  {
+    "id": "SA-5011-479acf9a54efc96c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5011",
+    "suburb": "Woodville West",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 49"
+  },
+  {
+    "id": "SA-5046-8378c9554534de45",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5046",
+    "suburb": "Warradale North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 49"
+  },
+  {
+    "id": "SA-5048-770f9f08fa24daf5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5048",
+    "suburb": "South Brighton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 49"
+  },
+  {
+    "id": "SA-5086-224cd3073ad0d0f7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5086",
+    "suburb": "Hillcrest",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 50"
+  },
+  {
+    "id": "SA-5076-b7bd59182aa079d9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5076",
+    "suburb": "Athelstone",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 50"
+  },
+  {
+    "id": "SA-5141-6e93bea5de773a20",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5141",
+    "suburb": "Summertown",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 50"
+  },
+  {
+    "id": "SA-5023-0ff85d0cb2e5cc78",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5023",
+    "suburb": "Seaton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 51"
+  },
+  {
+    "id": "SA-5042-53f0fe24bff0fa54",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5042",
+    "suburb": "Bedford Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 51"
+  },
+  {
+    "id": "SA-5156-4daad5904c21fab9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5156",
+    "suburb": "Upper Sturt",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 51"
+  },
+  {
+    "id": "SA-5043-e466db3928ffaaae",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5043",
+    "suburb": "Park Holme",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 52"
+  },
+  {
+    "id": "SA-5051-c5eab85c5576f822",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5051",
+    "suburb": "Blackwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 52"
+  },
+  {
+    "id": "SA-5157-73f910a57737cffc",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5157",
+    "suburb": "Coromandel East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 52"
+  },
+  {
+    "id": "SA-5072-3ad83113fec7bfe5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5072",
+    "suburb": "Woodforde",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 53"
+  },
+  {
+    "id": "SA-5094-95e488c40b6bcd3a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5094",
+    "suburb": "Cavan",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 53"
+  },
+  {
+    "id": "SA-5051-defbb90922e38ba9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5051",
+    "suburb": "Coromandel Valley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 53"
+  },
+  {
+    "id": "SA-5042-af57578e53c2c779",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5042",
+    "suburb": "Clovelly Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 54"
+  },
+  {
+    "id": "SA-5152-ed083084af8efaac",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5152",
+    "suburb": "Crafers West",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 54"
+  },
+  {
+    "id": "SA-5019-4ddcd78cc6023633",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5019",
+    "suburb": "Exeter",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 54"
+  },
+  {
+    "id": "SA-5150-b0644c5a8d673b09",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5150",
+    "suburb": "Eagle On The Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 55"
+  },
+  {
+    "id": "SA-5050-d6fdd91c9cad6ac8",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5050",
+    "suburb": "Eden Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 55"
+  },
+  {
+    "id": "SA-5159-acf0f056d8a4b66d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5159",
+    "suburb": "Flagstaff Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 55"
+  },
+  {
+    "id": "SA-5075-d2292325a07cd4c2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5075",
+    "suburb": "Paradise",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 56"
+  },
+  {
+    "id": "SA-5022-f07f2000aa7cbe68",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5022",
+    "suburb": "Grange",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 56"
+  },
+  {
+    "id": "SA-5137-266dd005c1cb7516",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5137",
+    "suburb": "Marble Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 56"
+  },
+  {
+    "id": "SA-5042-5cfd67e316d1b5bd",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5042",
+    "suburb": "Pasadena",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 57"
+  },
+  {
+    "id": "SA-5051-ae7967d0070db858",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5051",
+    "suburb": "Hawthorndene",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 57"
+  },
+  {
+    "id": "SA-5092-3bf1b026a4628a05",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5092",
+    "suburb": "Modbury North Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 57"
+  },
+  {
+    "id": "SA-5134-05925f1d800263c1",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5134",
+    "suburb": "Montacute",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 5"
+  },
+  {
+    "id": "SA-5127-821ea50a995e164d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5127",
+    "suburb": "Wynn Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 5"
+  },
+  {
+    "id": "SA-5109-5f1ee15420a1d3f1",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5109",
+    "suburb": "Salisbury Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 5"
+  },
+  {
+    "id": "SA-5096-3d1b72a6797e099c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5096",
+    "suburb": "Para Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 6"
+  },
+  {
+    "id": "SA-5159-7423378ca370f61f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5159",
+    "suburb": "Aberfoyle Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 6"
+  },
+  {
+    "id": "SA-5108-12a2e0c9d9721a6c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5108",
+    "suburb": "Salisbury North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 6"
+  },
+  {
+    "id": "SA-5096-495d5e9d7d953519",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5096",
+    "suburb": "Para Hills West",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 7"
+  },
+  {
+    "id": "SA-5091-df560251a1ad72f5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5091",
+    "suburb": "Banksia Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 7"
+  },
+  {
+    "id": "SA-5109-e290e52ba79827e9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5109",
+    "suburb": "Salisbury Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 7"
+  },
+  {
+    "id": "SA-5016-abdef461ee8a15e9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5016",
+    "suburb": "Peterhead",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 8"
+  },
+  {
+    "id": "SA-5110-d7e88ff902a646b6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5110",
+    "suburb": "Bolivar",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 8"
+  },
+  {
+    "id": "SA-5245-6564e776adaf6caf",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5245",
+    "suburb": "Verdun",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 8"
+  },
+  {
+    "id": "SA-5049-7c0db4054277779a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5049",
+    "suburb": "Seacliff",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 9"
+  },
+  {
+    "id": "SA-5155-82be347954076971",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5155",
+    "suburb": "Bridgewater",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 9"
+  },
+  {
+    "id": "SA-5126-aa1701bb472d14c5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5126",
+    "suburb": "Yatala Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 9"
+  },
+  {
+    "id": "SA-5019-73ee096ef8bb7794",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5019",
+    "suburb": "Semaphore",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 10"
+  },
+  {
+    "id": "SA-5126-0645768ba7d0061a",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5126",
+    "suburb": "Fairview Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 10"
+  },
+  {
+    "id": "SA-5125-b1d0d7df04811f65",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5125",
+    "suburb": "Greenwith",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 10"
+  },
+  {
+    "id": "SA-5019-8ac5d8c37907e0ea",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5019",
+    "suburb": "Semaphore South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 11"
+  },
+  {
+    "id": "SA-5125-d5dabce68f5b32de",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5125",
+    "suburb": "Golden Grove Village",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 11"
+  },
+  {
+    "id": "SA-5133-4e9b1c371957601d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5133",
+    "suburb": "Inglewood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 11"
+  },
+  {
+    "id": "SA-5152-6ca56a908c163b1c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5152",
+    "suburb": "Stirling",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 12"
+  },
+  {
+    "id": "SA-5096-911e31b5bff1f8dc",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5096",
+    "suburb": "Gulfview Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 12"
+  },
+  {
+    "id": "SA-5131-27a1b05b9f2ea8ae",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5131",
+    "suburb": "Lower Hermitage",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 12"
+  },
+  {
+    "id": "SA-5095-86798e0c13fca8c8",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5095",
+    "suburb": "The Levels",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 13"
+  },
+  {
+    "id": "SA-5153-dd032943d77bd19c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5153",
+    "suburb": "Heathfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 13"
+  },
+  {
+    "id": "SA-5153-e231d0bf89f95273",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5153",
+    "suburb": "Mylor",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 13"
+  },
+  {
+    "id": "SA-5142-239c2d8ba841bb3b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5142",
+    "suburb": "Uraidla",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 14"
+  },
+  {
+    "id": "SA-5155-d7306602161cd1ba",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5155",
+    "suburb": "Mount George",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 14"
+  },
+  {
+    "id": "SA-5108-6f81a2dd1a5222d6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5108",
+    "suburb": "Salisbury North Whites Road",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 14"
+  },
+  {
+    "id": "SA-5138-62afab108d108ee6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5138",
+    "suburb": "Basket Range",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 15"
+  },
+  {
+    "id": "SA-5158-23557a36847952a4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5158",
+    "suburb": "O'halloran Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 15"
+  },
+  {
+    "id": "SA-5110-66013afbdb92253f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5110",
+    "suburb": "Burton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 15"
+  },
+  {
+    "id": "SA-5144-0c2aa80346fe6b0d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5144",
+    "suburb": "Carey Gully",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 16"
+  },
+  {
+    "id": "SA-5158-856fe22638cd54e3",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5158",
+    "suburb": "O'halloran Hill Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 16"
+  },
+  {
+    "id": "SA-5157-bee19d716251acce",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5157",
+    "suburb": "Clarendon",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 16"
+  },
+  {
+    "id": "SA-5076-750a31d3a8e487df",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5076",
+    "suburb": "Castambul",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 17"
+  },
+  {
+    "id": "SA-5017-5b0a444db0f8b9aa",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5017",
+    "suburb": "Osborne",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 17"
+  },
+  {
+    "id": "SA-5157-686c06f74921e2e0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5157",
+    "suburb": "Dorset Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 17"
+  },
+  {
+    "id": "SA-5134-4b4c174cb8dcd2b2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5134",
+    "suburb": "Cherryville",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 18"
+  },
+  {
+    "id": "SA-5126-1e6e984cfac907a7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5126",
+    "suburb": "Surrey Downs",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 18"
+  },
+  {
+    "id": "SA-5112-95a0f97f3c7ea450",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5112",
+    "suburb": "Elizabeth Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 18"
+  },
+  {
+    "id": "SA-5107-3cc3289e5ad90cca",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5107",
+    "suburb": "Green Fields",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 19"
+  },
+  {
+    "id": "SA-5091-234f8c927a660a17",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5091",
+    "suburb": "Tea Tree Gully",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 19"
+  },
+  {
+    "id": "SA-5112-501ef3418981aef7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5112",
+    "suburb": "Hillbank",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 19"
+  },
+  {
+    "id": "SA-5153-7c4d46df579ab0e6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5153",
+    "suburb": "Ironbank",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 20"
+  },
+  {
+    "id": "SA-5109-9c9370735e7413b6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5109",
+    "suburb": "Brahma Lodge",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 20"
+  },
+  {
+    "id": "SA-5240-485f687bef225859",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5240",
+    "suburb": "Lenswood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 20"
+  },
+  {
+    "id": "SA-5049-c2b1fff769eafa47",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5049",
+    "suburb": "Kingston Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 21"
+  },
+  {
+    "id": "SA-5139-d0abf6ac3d6cfcbb",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5139",
+    "suburb": "Forest Range",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 21"
+  },
+  {
+    "id": "SA-5160-fe555b2566679b3c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5160",
+    "suburb": "Lonsdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 21"
+  },
+  {
+    "id": "SA-5016-763e14c21f6f1183",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5016",
+    "suburb": "Largs Bay",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 22"
+  },
+  {
+    "id": "SA-5125-6f697cbb605d4efc",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5125",
+    "suburb": "Golden Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 22"
+  },
+  {
+    "id": "SA-5162-75aca7769d9c44fe",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5162",
+    "suburb": "Woodcroft",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 22"
+  },
+  {
+    "id": "SA-5016-f370bfb70a593da3",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5016",
+    "suburb": "Largs North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 23"
+  },
+  {
+    "id": "SA-5158-4a4b960019875bf0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5158",
+    "suburb": "Hallett Cove",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 23"
+  },
+  {
+    "id": "SA-5242-9354363e7bb8cca0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5242",
+    "suburb": "Balhannah",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 23"
+  },
+  {
+    "id": "SA-5049-112c28c7c788b5a5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5049",
+    "suburb": "Marino",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 24"
+  },
+  {
+    "id": "SA-5159-573013fd5533d2b5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5159",
+    "suburb": "Happy Valley",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 24"
+  },
+  {
+    "id": "SA-5110-72ff9bf7204b49f1",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5110",
+    "suburb": "Direk",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 24"
+  },
+  {
+    "id": "SA-5092-7f7cd027697b42e2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5092",
+    "suburb": "Modbury Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 25"
+  },
+  {
+    "id": "SA-5131-4eed2a76b994ca76",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5131",
+    "suburb": "Houghton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 25"
+  },
+  {
+    "id": "SA-5112-bdbfb957178e3304",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5112",
+    "suburb": "Elizabeth Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 25"
+  },
+  {
+    "id": "SA-5106-3c6b80dcd7a34f99",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5106",
+    "suburb": "Parafield",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 26"
+  },
+  {
+    "id": "SA-5153-572116cd350bb24f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5153",
+    "suburb": "Longwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 26"
+  },
+  {
+    "id": "SA-5112-4eea2a842a722c9d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5112",
+    "suburb": "Elizabeth South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 26"
+  },
+  {
+    "id": "SA-5106-591cfde594660427",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5106",
+    "suburb": "Parafield Airport",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 27"
+  },
+  {
+    "id": "SA-5018-c2d26cbbc2626db2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5018",
+    "suburb": "North Haven",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 27"
+  },
+  {
+    "id": "SA-5245-d65d0713f33676f5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5245",
+    "suburb": "Hahndorf",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 27"
+  },
+  {
+    "id": "SA-5107-49833f35831c0515",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5107",
+    "suburb": "Parafield Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 28"
+  },
+  {
+    "id": "SA-5243-b12aa366fcc4eda7",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5243",
+    "suburb": "Oakbank",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 28"
+  },
+  {
+    "id": "SA-5160-578be7b53f3ba682",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5160",
+    "suburb": "Lonsdale Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 28"
+  },
+  {
+    "id": "SA-5097-b6b6d8b48d38c2fa",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5097",
+    "suburb": "Redwood Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 29"
+  },
+  {
+    "id": "SA-5018-2ab94239c4d5430f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5018",
+    "suburb": "Outer Harbor",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 29"
+  },
+  {
+    "id": "SA-5110-bf1378428d50ccb9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5110",
+    "suburb": "St Kilda",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 29"
+  },
+  {
+    "id": "SA-5097-cbcc55b7573ccd2e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5097",
+    "suburb": "Ridgehaven",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 30"
+  },
+  {
+    "id": "SA-5132-8d5247193f68eb24",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5132",
+    "suburb": "Paracombe",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 30"
+  },
+  {
+    "id": "SA-5131-cd3b0654724374a5",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5131",
+    "suburb": "Upper Hermitage",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 30"
+  },
+  {
+    "id": "SA-5106-b61f1934aff09181",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5106",
+    "suburb": "Salisbury South Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 31"
+  },
+  {
+    "id": "SA-5108-e01d2d3b3d948fab",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5108",
+    "suburb": "Paralowie",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 31"
+  },
+  {
+    "id": "SA-5153-01348e9073ed1dd6",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5153",
+    "suburb": "Biggs Flat",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 31"
+  },
+  {
+    "id": "SA-5091-9303720b9915766d",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5091",
+    "suburb": "Vista",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 32"
+  },
+  {
+    "id": "SA-5108-35ea5fda9d428b03",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5108",
+    "suburb": "Salisbury Downs",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 32"
+  },
+  {
+    "id": "SA-5241-70d1d63677d9d04b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5241",
+    "suburb": "Lobethal",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 32"
+  },
+  {
+    "id": "SA-5154-e2717fd9cd17ecd0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5154",
+    "suburb": "Aldgate",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 33"
+  },
+  {
+    "id": "SA-5109-50f51b98c8916e5b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5109",
+    "suburb": "Salisbury Plain",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 33"
+  },
+  {
+    "id": "SA-5162-46c38103ef797af0",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5162",
+    "suburb": "Morphett Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 33"
+  },
+  {
+    "id": "SA-5159-dd5712349822713e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5159",
+    "suburb": "Chandlers Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 34"
+  },
+  {
+    "id": "SA-5153-434212d98b7af9d4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5153",
+    "suburb": "Scott Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 34"
+  },
+  {
+    "id": "SA-5232-08eaba782d908e59",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5232",
+    "suburb": "Cudlee Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 34"
+  },
+  {
+    "id": "SA-5157-76e7ce21ca29cb75",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5157",
+    "suburb": "Cherry Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 35"
+  },
+  {
+    "id": "SA-5158-e05808600f046660",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5158",
+    "suburb": "Sheidow Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 35"
+  },
+  {
+    "id": "SA-5111-ea22fbc686faaedf",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5111",
+    "suburb": "Edinburgh",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 35"
+  },
+  {
+    "id": "SA-5110-87fb93f617205063",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5110",
+    "suburb": "Globe Derby Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 36"
+  },
+  {
+    "id": "SA-5158-619b861ab9921fc4",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5158",
+    "suburb": "Trott Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 36"
+  },
+  {
+    "id": "SA-5112-6fc2ba52bc38dfdc",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5112",
+    "suburb": "Elizabeth",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 36"
+  },
+  {
+    "id": "SA-5109-7cd921d7b7847862",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5109",
+    "suburb": "Salisbury East",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 37"
+  },
+  {
+    "id": "SA-5211-1d780a9f8a2b6315",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5211",
+    "suburb": "Yilki",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 37"
+  },
+  {
+    "id": "SA-5112-11e3fbf788644be2",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5112",
+    "suburb": "Elizabeth East",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 37"
+  },
+  {
+    "id": "SA-5109-0fb8272a414e041c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5109",
+    "suburb": "Salisbury East Northbri Ave",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 38"
+  },
+  {
+    "id": "SA-5153-539594620354288b",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5153",
+    "suburb": "Bradbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 38"
+  },
+  {
+    "id": "SA-5114-ccbb1c52d04cc5a9",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5114",
+    "suburb": "Gould Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 38"
+  },
+  {
+    "id": "SA-5106-a79c8fa70a9c6288",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5106",
+    "suburb": "Salisbury South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 39"
+  },
+  {
+    "id": "SA-5161-3668ceca7e62c7fa",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5161",
+    "suburb": "Old Reynella",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 39"
+  },
+  {
+    "id": "SA-5163-10808b354ceeec1f",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5163",
+    "suburb": "Hackham",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 39"
+  },
+  {
+    "id": "SA-5106-bd6b93b8e2e4ffdd",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5106",
+    "suburb": "Salisbury South Bc",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 40"
+  },
+  {
+    "id": "SA-5161-6dd865c602bb51cb",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5161",
+    "suburb": "Reynella",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 40"
+  },
+  {
+    "id": "SA-5166-8906b4a1c48a7f72",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5166",
+    "suburb": "O'sullivan Beach",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 40"
+  },
+  {
+    "id": "SA-5097-1ff4256cb3ab4844",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5097",
+    "suburb": "St Agnes",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 41"
+  },
+  {
+    "id": "SA-5161-863771292c6d4d76",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5161",
+    "suburb": "Reynella East",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 41"
+  },
+  {
+    "id": "SA-5160-13c071ab43674c1e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5160",
+    "suburb": "Port Stanvac",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 41"
+  },
+  {
+    "id": "SA-5017-54200eab9bc15d7c",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5017",
+    "suburb": "Taperoo",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 42"
+  },
+  {
+    "id": "SA-5108-53cc4f343fbdbb0e",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5108",
+    "suburb": "Salisbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 42"
+  },
+  {
+    "id": "SA-5110-5274047f60e31149",
+    "state": "SA",
+    "zone": "A",
+    "postcode": "5110",
+    "suburb": "Waterloo Corner",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 42"
+  }
+]

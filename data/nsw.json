@@ -1,0 +1,4612 @@
+[
+  {
+    "id": "NSW-2143-8fa9dfaaa9868dc9",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2143",
+    "suburb": "Regents Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 6",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2162-807e5e91385f191f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2162",
+    "suburb": "Chester Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 7",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2162-02ec0808ade4e938",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2162",
+    "suburb": "Sefton",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 8",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2163-c28eb4b82860d5fc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2163",
+    "suburb": "Carramar",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 9",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2163-f9e1d9b4d8c1f330",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2163",
+    "suburb": "Lansdowne",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 10",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2163-5fdddd90065a0ed6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2163",
+    "suburb": "Villawood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 11",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2166-ba1867ee978ca0c6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2166",
+    "suburb": "Cabramatta",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 12",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2166-cac6780e6f21fd8f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2166",
+    "suburb": "Canley Vale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 13",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2166-b064e86e261da3d5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2166",
+    "suburb": "Lansvale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 14",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2170-0d05e7347ec86485",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2170",
+    "suburb": "Chipping Norton",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 15",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2170-7fe75b29dcb50968",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2170",
+    "suburb": "Hammondville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 16",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2170-4a0b199af4946ba4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2170",
+    "suburb": "Moorebank",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 17",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2172-0a20ea84e13ab07d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2172",
+    "suburb": "Pleasure Point",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 18",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2172-5c4436ffad17b91e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2172",
+    "suburb": "Voyager Point",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 19",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2173-63485961cb81e221",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2173",
+    "suburb": "Holsworthy",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 20",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2173-b552ec564d3432ce",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2173",
+    "suburb": "Wattle Grove",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 21",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2197-a2efe723cc360138",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2197",
+    "suburb": "Bass Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 22",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2198-8173c707e86528f7",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2198",
+    "suburb": "Georges Hall",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 23",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2200-d32f3ca352ce66c4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2200",
+    "suburb": "Bankstown",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 24",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2200-34ba293eabffe119",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2200",
+    "suburb": "Bankstown Aerodrome",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 25",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2200-c11d1dbcbb8d6991",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2200",
+    "suburb": "Condell Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 26",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2212-592c7ee35e6922a2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2212",
+    "suburb": "Revesby",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 27",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2212-7336a41716ea7b87",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2212",
+    "suburb": "Revesby Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 28",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2213-027618839cc6b3b1",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2213",
+    "suburb": "East Hills",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 29",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2213-518effd85fd61adb",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2213",
+    "suburb": "Panania",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 30",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2214-20dd90b1e0067b7c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2214",
+    "suburb": "Milperra",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 31",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2234-dd5649af2cd0e68f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2234",
+    "suburb": "Barden Ridge",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 32",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2234-fd387795cd4458c6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2234",
+    "suburb": "Lucas Heights",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 33",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2234-026cf556a6ac4baf",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2234",
+    "suburb": "Menai",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 34",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2084-4d559aa65ce29c66",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2084",
+    "suburb": "Cottage Point",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 35",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2084-94f820ffe5a14555",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2084",
+    "suburb": "Duffys Forest",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 36",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2084-9c246c1d8172aef3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2084",
+    "suburb": "Terrey Hills",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 37",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2085-76010ea6cf482413",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2085",
+    "suburb": "Belrose",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 38",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2085-0c6bacd0551422b1",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2085",
+    "suburb": "Davidson",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 39",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2101-06b455c58be15382",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2101",
+    "suburb": "Elanora Heights",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 40",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2101-e7e75a703ad12cfe",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2101",
+    "suburb": "Ingleside",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 41",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2104-e0841ddb97777de1",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2104",
+    "suburb": "Bayview",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 42",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2105-3cb3729f605d5794",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2105",
+    "suburb": "Elvina Bay",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 43",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2105-bc25b8a2d4934a69",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2105",
+    "suburb": "Lovett Bay",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 44",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2205-b486e24d4b8f8547",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2205",
+    "suburb": "Arncliffe",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 45",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2207-6ece5e4e5b678983",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2207",
+    "suburb": "Bexley",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 46",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2210-8de83cca3a34c3f8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2210",
+    "suburb": "Lugarno",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 47",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2210-c8045176b33a9f43",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2210",
+    "suburb": "Peakhurst",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 48",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2210-26a41b9cc1dc5895",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2210",
+    "suburb": "Peakhurst Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 49",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2213-37b4dbc28b822d4f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2213",
+    "suburb": "Picnic Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 50",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2216-d83ec727badcfb3f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2216",
+    "suburb": "Banksia",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 51",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2216-4e56bb450e490cbc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2216",
+    "suburb": "Brighton-Le-Sands",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 52",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2216-43eb3cacbbe2f8db",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2216",
+    "suburb": "Rockdale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 53",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2217-2a7f552097b4d37a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2217",
+    "suburb": "Beverley Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 54",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2217-edcc17c250776a86",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2217",
+    "suburb": "Kogarah",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 55",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2217-d92ff80bed04b0fe",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2217",
+    "suburb": "Kogarah Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 56",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2217-135c646528862586",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2217",
+    "suburb": "Monterey",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 57",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2217-6beb11515351c8ac",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2217",
+    "suburb": "Ramsgate",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 58",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2217-1e611eb31d518651",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2217",
+    "suburb": "Ramsgate Beach",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 59",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2218-643a21dbc445c7a4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2218",
+    "suburb": "Allawah",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 60",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2218-1b5720697d2e3b15",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2218",
+    "suburb": "Carlton",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 61",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2219-a83d756085578769",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2219",
+    "suburb": "Dolls Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 62",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2219-e66f8b57f1bb0da4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2219",
+    "suburb": "Sandringham",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 63",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2219-a78c4ba3ac8adc15",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2219",
+    "suburb": "Sans Souci",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 64",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2220-56150051ff66895f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2220",
+    "suburb": "Hurstville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 65",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2220-5728ca282b7f1d02",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2220",
+    "suburb": "Hurstville Grove",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 66",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2221-8160ecfffc3fe99e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2221",
+    "suburb": "Blakehurst",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 67",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2221-43e6ae940271a1ac",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2221",
+    "suburb": "Carss Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 68",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2221-72b956bff4ffbcf3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2221",
+    "suburb": "Connells Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 69",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2221-594ba6ae1c79f66b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2221",
+    "suburb": "Kyle Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 70",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2221-c0ae4f32dd0a3014",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2221",
+    "suburb": "South Hurstville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 71",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2222-326b8c6991262898",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2222",
+    "suburb": "Penshurst",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 72",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2223-4f1f6313fe98ec69",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2223",
+    "suburb": "Mortdale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 73",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2223-898e5b31effdf469",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2223",
+    "suburb": "Oatley",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 74",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2224-26a4b52432c0cb38",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2224",
+    "suburb": "Kangaroo Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 75",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2224-4cb5cc10e189371b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2224",
+    "suburb": "Sylvania",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 76",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2224-dbd204aebb23bfb4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2224",
+    "suburb": "Sylvania Waters",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 77",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2229-16b16fe72abf2734",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2229",
+    "suburb": "Taren Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 78",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2234-8e158915d0e58257",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2234",
+    "suburb": "Alfords Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 79",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2234-92bc267d65101430",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2234",
+    "suburb": "Illawong",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 80",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2148-7e0dd9841b2ba034",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2148",
+    "suburb": "Arndell Park",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 81",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2148-70787b4004bd6ef4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2148",
+    "suburb": "Blacktown",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 82",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2148-728a4fb9945a197d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2148",
+    "suburb": "Kings Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 83",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2148-9556f4f1b9956b0f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2148",
+    "suburb": "Marayong",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 84",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2147-05fd9e972d2d74ed",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2147",
+    "suburb": "Kings Langley",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 85",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2153-521fa860c8e138c9",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2153",
+    "suburb": "Bella Vista",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 86",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2153-5d8331ebf5904edd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2153",
+    "suburb": "Norwest",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 87",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2154-ad5384226e66e8a5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2154",
+    "suburb": "Castle Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 88",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2155-94252dc40981ac16",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2155",
+    "suburb": "North Kellyville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 89",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2156-b74f21ea0b9f82a0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2156",
+    "suburb": "Glenhaven",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 90",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2156-754b15b87cceadaf",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2156",
+    "suburb": "Kenthurst",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 91",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2763-18934302e122de0f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2763",
+    "suburb": "Acacia Gardens",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 92",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2768-0c7c6faa2ef0c392",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2768",
+    "suburb": "Glenwood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 93",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2768-93a22fb850419d18",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2768",
+    "suburb": "Parklea",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 94",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2768-a64be05406c66efc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2768",
+    "suburb": "Stanhope Gardens",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 95",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2067-4c152eb8b86e81cc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2067",
+    "suburb": "Chatswood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 96",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2071-06f45bdaba1d7220",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2071",
+    "suburb": "Killara",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 97",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2072-af25a501a03b86fc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2072",
+    "suburb": "Gordon",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 98",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2073-15739e7f2c9d9ac4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2073",
+    "suburb": "Pymble",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 99",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2073-d7531c1a240abe99",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2073",
+    "suburb": "West Pymble",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 100",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2074-090754dc765af09b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2074",
+    "suburb": "North Turramurra",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 101",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2074-8c22dadb8182be42",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2074",
+    "suburb": "South Turramurra",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 102",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2074-916e23ef6cd168a0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2074",
+    "suburb": "Turramurra",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 103",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2074-0ed711fd6737dda1",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2074",
+    "suburb": "Warrawee",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 104",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2075-cc5545f0a473c12c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2075",
+    "suburb": "St Ives",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 105",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2075-5008ea6aae5699a4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2075",
+    "suburb": "St Ives Chase",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 106",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2076-f39d55afbf9d31b0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2076",
+    "suburb": "North Wahroonga",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 107",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2076-f31a32f4dee332f9",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2076",
+    "suburb": "Wahroonga",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 108",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2086-eb37336f03451946",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2086",
+    "suburb": "Frenchs Forest",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 109",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2100-e1456c12ead8a231",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2100",
+    "suburb": "Oxford Falls",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 110",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2113-dc391093b4be395b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2113",
+    "suburb": "East Ryde",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 111",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2110-d457ae561166ddbb",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2110",
+    "suburb": "Hunters Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 112",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2110-7bbd691faf6576f5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2110",
+    "suburb": "Woolwich",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 113",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2111-640327981d35c2a0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2111",
+    "suburb": "Gladesville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 114",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2111-2a49feb751e5a6ed",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2111",
+    "suburb": "Henley",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 115",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2111-56b62dbc6fa6fe04",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2111",
+    "suburb": "Huntleys Cove",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 116",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2111-7fa9e00b178fb484",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2111",
+    "suburb": "Huntleys Point",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 117",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2111-4c7447f23798b7cd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2111",
+    "suburb": "Tennyson Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 118",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2112-5afb46ef4e521be2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2112",
+    "suburb": "Putney",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 119",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2112-23185b306d90f15a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2112",
+    "suburb": "Ryde",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 120",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2114-3376429ca98c0cd1",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2114",
+    "suburb": "Meadowbank",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 121",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2127-50b534f70d77e522",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2127",
+    "suburb": "Newington",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 122",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2127-9f4e081c4eae95b5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2127",
+    "suburb": "Sydney Olympic Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 123",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2127-a86e6c17cdcce56e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2127",
+    "suburb": "Wentworth Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 124",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2128-850c0a31f876100d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2128",
+    "suburb": "Silverwater",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 125",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2132-c94586e3cb2a1792",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2132",
+    "suburb": "Croydon",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 126",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2133-0ef01a343d52d71f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2133",
+    "suburb": "Croydon Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 127",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2134-00ae0452320d91b7",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2134",
+    "suburb": "Burwood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 128",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2135-55f093a18731d33d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2135",
+    "suburb": "Strathfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 129",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2136-955fb49778360a4a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2136",
+    "suburb": "Burwood Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 130",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2136-bf48f6d1ab4abfb0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2136",
+    "suburb": "Enfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 131",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2136-68a3710331d5f4eb",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2136",
+    "suburb": "Strathfield South",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 132",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2137-c445953d4e69e2a3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2137",
+    "suburb": "Breakfast Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 133",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2137-4c3e267bc62c68ad",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2137",
+    "suburb": "Cabarita",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 134",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2137-5ad7ddd709c6dfe3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2137",
+    "suburb": "Concord",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 135",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2137-096873a0011f1657",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2137",
+    "suburb": "North Strathfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 136",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2138-6fc88c857287807f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2138",
+    "suburb": "Concord West",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 137",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2138-4813001efb7efcd1",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2138",
+    "suburb": "Liberty Grove",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 138",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2138-49938635135b7503",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2138",
+    "suburb": "Rhodes",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 139",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2140-d3d3dd4fa6f852f2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2140",
+    "suburb": "Homebush",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 140",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2140-1da5131d48a59956",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2140",
+    "suburb": "Homebush West",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 141",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2141-ba2c7be334afe1ad",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2141",
+    "suburb": "Berala",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 142",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2141-a85d7cd15ac60bd6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2141",
+    "suburb": "Lidcombe",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 143",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2141-c61f2df716cb72e8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2141",
+    "suburb": "Rookwood",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 144",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2142-a2897e0b734a155f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2142",
+    "suburb": "Camellia",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 145",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2142-afd60c8e28737e9f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2142",
+    "suburb": "Clyde",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 146",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2142-f1c7b5952980657f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2142",
+    "suburb": "Rosehill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 147",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2143-9fd51953ccd207f5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2143",
+    "suburb": "Birrong",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 148",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2143-d0013caa929c555a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2143",
+    "suburb": "Potts Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 149",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2144-2195e20b167edfc8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2144",
+    "suburb": "Auburn",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 150",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2150-cf7f9f4ff9f948d4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2150",
+    "suburb": "Harris Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 151",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2190-934b5fea9292c651",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2190",
+    "suburb": "Chullora",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 152",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2190-0e2f0d2ab18d6ec8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2190",
+    "suburb": "Greenacre",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 153",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2190-ee2dab1e6638f12b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2190",
+    "suburb": "Mount Lewis",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 154",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2191-ac3030e8dda51486",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2191",
+    "suburb": "Belfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 155",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2192-a97befe2776bc9d4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2192",
+    "suburb": "Belmore",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 156",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2193-c49166ead4581770",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2193",
+    "suburb": "Ashbury",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 157",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2193-81770a545671fa90",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2193",
+    "suburb": "Canterbury",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 158",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2194-222b91d2063ad2b7",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2194",
+    "suburb": "Campsie",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 159",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2195-a591da6501becbb3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2195",
+    "suburb": "Lakemba",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 160",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2195-150c47cfe8d19147",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2195",
+    "suburb": "Wiley Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 161",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2196-cd873f74f214994e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2196",
+    "suburb": "Punchbowl",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 162",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2196-4fffa0e974b5ad3f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2196",
+    "suburb": "Roselands",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 163",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2199-e7583c38b3ca2226",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2199",
+    "suburb": "Yagoona",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 164",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2200-c4295606102ec236",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2200",
+    "suburb": "Mount Lewis",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 165",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2205-0d9d6a47d3721797",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2205",
+    "suburb": "Turrella",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 166",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2205-5ab3fcf56014aefc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2205",
+    "suburb": "Wolli Creek",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 167",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2206-8a94f8ea1a43c5bd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2206",
+    "suburb": "Clemton Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 168",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2206-877f195942e01c53",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2206",
+    "suburb": "Earlwood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 169",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2207-28a95cd93644d4e3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2207",
+    "suburb": "Bardwell Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 170",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2207-7bd0cff7bc77d04c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2207",
+    "suburb": "Bardwell Valley",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 171",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2207-a7a70c6efa570a80",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2207",
+    "suburb": "Bexley North",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 172",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2208-7c270aa0745feb0c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2208",
+    "suburb": "Kingsgrove",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 173",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2209-9137f76d412f56fe",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2209",
+    "suburb": "Beverly Hills",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 174",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2209-b8d1007eefc5fc38",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2209",
+    "suburb": "Narwee",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 175",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2210-1ac6c6b433fd9cb3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2210",
+    "suburb": "Riverwood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 176",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2211-afe4b04eaae1533f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2211",
+    "suburb": "Padstow",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 177",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2211-3fcff85034bf9c92",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2211",
+    "suburb": "Padstow Heights",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 178",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2076-0595ddf0cd0f5a95",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2076",
+    "suburb": "Normanhurst",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 179",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2112-56c224daf337751e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2112",
+    "suburb": "Denistone East",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 180",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2114-d76bbf1f0e6b5e2e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2114",
+    "suburb": "Denistone",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 181",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2114-dd92fa28f965daf6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2114",
+    "suburb": "Denistone West",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 182",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2114-0609961125b0cdcc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2114",
+    "suburb": "Melrose Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 183",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2114-350087785500ce6b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2114",
+    "suburb": "West Ryde",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 184",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2115-e8be5e3d578db00c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2115",
+    "suburb": "Ermington",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 185",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2116-3b77d1d3133e6f88",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2116",
+    "suburb": "Rydalmere",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 186",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2117-eed2c3bddf183d50",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2117",
+    "suburb": "Dundas",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 187",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2117-1cd25b124421aa1b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2117",
+    "suburb": "Dundas Valley",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 188",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2117-ac94c7bc84fa3725",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2117",
+    "suburb": "Oatlands",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 189",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2117-95b87149a5a5d318",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2117",
+    "suburb": "Telopea",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 190",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2118-58d45dc81c59a603",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2118",
+    "suburb": "Carlingford",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 191",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2119-4d56c04a97031412",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2119",
+    "suburb": "Beecroft",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 192",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2119-6a77715411627753",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2119",
+    "suburb": "Cheltenham",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 193",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2120-f3c141d614941c7c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2120",
+    "suburb": "Pennant Hills",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 194",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2120-ed3be9f460993ab8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2120",
+    "suburb": "Thornleigh",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 195",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2120-e49ed2af828fd242",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2120",
+    "suburb": "Westleigh",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 196",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2121-247933417bb3891c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2121",
+    "suburb": "Epping",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 197",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2121-9c4a7c529c425680",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2121",
+    "suburb": "North Epping",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 198",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2122-f831c102361fa4b4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2122",
+    "suburb": "Eastwood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 199",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2122-98fbea4121f69016",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2122",
+    "suburb": "Marsfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 200",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2125-e3a7710ee3bf504b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2125",
+    "suburb": "West Pennant Hills",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 201",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2126-cbe6a7cd7a03284e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2126",
+    "suburb": "Cherrybrook",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 202",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2151-d1da2a9d63f489de",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2151",
+    "suburb": "North Parramatta",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 203",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2151-8c96144e41b42a71",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2151",
+    "suburb": "North Rocks",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 204",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2158-b2dc5047ff027473",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2158",
+    "suburb": "Dural",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 205",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2233-3e3ff86e996171cb",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2233",
+    "suburb": "Engadine",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 206",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2077-743aafb5b79846c8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2077",
+    "suburb": "Asquith",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 207",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2077-ea1a6c973f8065d5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2077",
+    "suburb": "Hornsby",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 208",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2077-269ace48dc09b0b3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2077",
+    "suburb": "Hornsby Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 209",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2077-8b9d2edb459891a0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2077",
+    "suburb": "Waitara",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 210",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2079-53c6bfde8111147d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2079",
+    "suburb": "Mount Colah",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 211",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2080-866bacb99b3c88a6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2080",
+    "suburb": "Mount Kuring-Gai",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 212",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2159-6f54b44a7f23bacc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2159",
+    "suburb": "Galston",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 213",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2166-8a695597991c0b6c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2166",
+    "suburb": "Cabramatta West",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 214",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2166-0dbf765f5112c448",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2166",
+    "suburb": "Canley Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 215",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2168-0b0e81941b92348a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2168",
+    "suburb": "Ashcroft",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 216",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2168-83ca3aab8a2af6ed",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2168",
+    "suburb": "Cartwright",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 217",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2170-87b563b27a4def78",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2170",
+    "suburb": "Casula",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 218",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2170-0b66b74fafe770ce",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2170",
+    "suburb": "Liverpool",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 219",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2170-8043c1401da1755a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2170",
+    "suburb": "Lurnea",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 220",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2170-219c137874c15847",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2170",
+    "suburb": "Mount Pritchard",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 221",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2170-ce6098dea95a1edd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2170",
+    "suburb": "Warwick Farm",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 222",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2176-6d153a0f77369709",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2176",
+    "suburb": "Edensor Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 223",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2176-3284e367a43ab72b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2176",
+    "suburb": "Greenfield Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 224",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2176-86fc51efdec396e4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2176",
+    "suburb": "St Johns Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 225",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2176-b9e7ceed30edf475",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2176",
+    "suburb": "Wakeley",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 226",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2177-b1a5f56fe867d425",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2177",
+    "suburb": "Bonnyrigg",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 227",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2095-e1112f04cff15f59",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2095",
+    "suburb": "Manly",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 228",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2096-aed5022d05648f07",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2096",
+    "suburb": "Curl Curl",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 229",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2096-1e186bdd1d2a5e18",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2096",
+    "suburb": "Freshwater",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 230",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2096-47ddca510952c213",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2096",
+    "suburb": "Queenscliff",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 231",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2097-e45e3060d2736937",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2097",
+    "suburb": "Collaroy",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 232",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2097-2e3cf786fce15a20",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2097",
+    "suburb": "Collaroy Plateau",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 233",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2097-1bba84f552dde37a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2097",
+    "suburb": "Wheeler Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 234",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2099-243ed9009d8a3807",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2099",
+    "suburb": "Cromer",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 235",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2099-4c5f78e5782172cd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2099",
+    "suburb": "Dee Why",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 236",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2099-39f74aecca7d5794",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2099",
+    "suburb": "Narraweena",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 237",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2099-8b29adc65fbc291a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2099",
+    "suburb": "North Curl Curl",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 238",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2100-fa683d7dbed5569a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2100",
+    "suburb": "Allambie Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 239",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2100-ff25973fabf8fcd8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2100",
+    "suburb": "Beacon Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 240",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2100-847fb1b0682b5505",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2100",
+    "suburb": "Brookvale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 241",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2101-ae51b160a6ee5094",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2101",
+    "suburb": "Narrabeen",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 242",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2101-7955af4e509a4d26",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2101",
+    "suburb": "North Narrabeen",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 243",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2102-b688a62dc28fa88d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2102",
+    "suburb": "Warriewood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 244",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2020-9f3a51876876d9e6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2020",
+    "suburb": "Mascot",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 245",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2032-2c639ad814982bab",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2032",
+    "suburb": "Daceyville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 246",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2035-919a3788e2998198",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2035",
+    "suburb": "Maroubra",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 247",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2036-cb921557eef167a0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2036",
+    "suburb": "Chifley",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 248",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2036-2d062d65394dc187",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2036",
+    "suburb": "La Perouse",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 249",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2036-e7ec0d003444fc84",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2036",
+    "suburb": "Little Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 250",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2036-b175e5c5cc4faad4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2036",
+    "suburb": "Malabar",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 251",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2216-c3f7cd3b35a04bcf",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2216",
+    "suburb": "Kyeemagh",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 252",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2225-673c0b9008da09b1",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2225",
+    "suburb": "Oyster Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 253",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2226-5543924ca33f0c46",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2226",
+    "suburb": "Bonnet Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 254",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2226-9e00cfea7cd0d906",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2226",
+    "suburb": "Como",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 255",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2226-eba50c4774f63660",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2226",
+    "suburb": "Jannali",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 256",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2227-b9aa9816f37ac5a8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2227",
+    "suburb": "Gymea",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 257",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2227-02354ff790f4cebd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2227",
+    "suburb": "Gymea Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 258",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2228-a8c8a2ea89632416",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2228",
+    "suburb": "Miranda",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 259",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2228-2ece0b3b5d8c05ab",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2228",
+    "suburb": "Yowie Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 260",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2229-069b37cbe6edfb37",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2229",
+    "suburb": "Caringbah",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 261",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2229-20331c18ee8258f0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2229",
+    "suburb": "Caringbah South",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 262",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2229-7cf23728d8f5e329",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2229",
+    "suburb": "Dolans Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 263",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2229-e2e6fdeb18b9222e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2229",
+    "suburb": "Lilli Pilli",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 264",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2229-3de451d44cd21cb3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2229",
+    "suburb": "Port Hacking",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 265",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2230-928439fb1de18470",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2230",
+    "suburb": "Burraneer",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 266",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2230-869aa2b776a62f83",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2230",
+    "suburb": "Cronulla",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 267",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2230-5dd97d95ef77aba5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2230",
+    "suburb": "Greenhills Beach",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 268",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2230-7922c315f615d0f6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2230",
+    "suburb": "Woolooware",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 269",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2231-ef758d4332c16c48",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2231",
+    "suburb": "Kurnell",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 270",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2232-5ad2b711d52cf351",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2232",
+    "suburb": "Grays Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 271",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2232-5ec8691d0fcb4e4d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2232",
+    "suburb": "Kareela",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 272",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2232-169c3dcd0c96e93f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2232",
+    "suburb": "Kirrawee",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 273",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2232-994df4a05a413f3b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2232",
+    "suburb": "Loftus",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 274",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2232-14d26133a18b9e9b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2232",
+    "suburb": "Sutherland",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 275",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2232-c83efe33e50fcd5a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2232",
+    "suburb": "Woronora",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 276",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2233-0c888ddf7aebc6b8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2233",
+    "suburb": "Woronora Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 277",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2233-da22e2188cc21bc7",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2233",
+    "suburb": "Yarrawarrah",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 278",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2234-1771b2fa9b745972",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2234",
+    "suburb": "Bangor",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 279",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2103-f2d2f1f72e68df39",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2103",
+    "suburb": "Mona Vale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 280",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2105-d2200cd4801cc192",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2105",
+    "suburb": "Church Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 281",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2105-e538874caca7247e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2105",
+    "suburb": "Scotland Island",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 282",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2106-1ed6a831baa2c465",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2106",
+    "suburb": "Newport",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 283",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2107-a4e7cc65fc1a8628",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2107",
+    "suburb": "Avalon Beach",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 284",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2107-bbc20190b5dc6339",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2107",
+    "suburb": "Bilgola Beach",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 285",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2107-d92bcea7f1f99c5b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2107",
+    "suburb": "Bilgola Plateau",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 286",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2107-799ae2187ba89088",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2107",
+    "suburb": "Clareville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 287",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2060-1d2233d7084b364a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2060",
+    "suburb": "North Sydney",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 288",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2060-b0784e5754df6181",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2060",
+    "suburb": "Waverton",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 289",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2065-f9874bcd2747cc0e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2065",
+    "suburb": "Crows Nest",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 290",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2065-9d2d768b207b97ba",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2065",
+    "suburb": "Greenwich",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 291",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2065-494341c53b98e456",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2065",
+    "suburb": "St Leonards",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 292",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2065-920f1ddd8ccb5b25",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2065",
+    "suburb": "Wollstonecraft",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 293",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2066-891d19a854371b17",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2066",
+    "suburb": "Lane Cove",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 294",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2066-2dad41e40ab585d4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2066",
+    "suburb": "Lane Cove North",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 295",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2066-f3f47d5f48a3f4dc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2066",
+    "suburb": "Lane Cove West",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 296",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2066-abefa76aba977752",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2066",
+    "suburb": "Linley Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 297",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2066-4350f9a295a1a725",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2066",
+    "suburb": "Longueville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 298",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2066-56912c10f16b46e2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2066",
+    "suburb": "Northwood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 299",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2066-e67f1f68fdcd14ea",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2066",
+    "suburb": "Riverview",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 300",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2067-ccc562e67f2ed7a2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2067",
+    "suburb": "Chatswood West",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 301",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2068-41de5b2225694fe3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2068",
+    "suburb": "Middle Cove",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 302",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2069-705d08b118e0d6d9",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2069",
+    "suburb": "Castle Cove",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 303",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2069-f05571f09d4dee5e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2069",
+    "suburb": "Roseville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 304",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2069-a4d948a7412af25f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2069",
+    "suburb": "Roseville Chase",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 305",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2070-830235113df80b4b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2070",
+    "suburb": "East Lindfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 306",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2070-4f681a55a0af78b5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2070",
+    "suburb": "Lindfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 307",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2071-037cddf0e4d2f40a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2071",
+    "suburb": "East Killara",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 308",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2087-17c35d71ce5d048c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2087",
+    "suburb": "Forestville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 309",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2087-60c10cc2112a678d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2087",
+    "suburb": "Killarney Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 310",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2092-c5062c902b18563c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2092",
+    "suburb": "Seaforth",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 311",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2093-a50aabd637d94016",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2093",
+    "suburb": "Balgowlah",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 312",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2093-dbf4027908a2bd32",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2093",
+    "suburb": "Balgowlah Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 313",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2093-396da0791967dde7",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2093",
+    "suburb": "Clontarf",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 314",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2093-01349c9151bcd998",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2093",
+    "suburb": "Manly Vale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 315",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2093-345dca2d07a8f8d2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2093",
+    "suburb": "North Balgowlah",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 316",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2094-c4e5952f41c7e3fa",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2094",
+    "suburb": "Fairlight",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 317",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2100-ebe6ffefef3cf271",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2100",
+    "suburb": "North Manly",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 318",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2113-1f0589d4364f9481",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2113",
+    "suburb": "Macquarie Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 319",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2113-81d559986b2b3c92",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2113",
+    "suburb": "North Ryde",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 320",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2142-31310719019a0015",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2142",
+    "suburb": "Granville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 321",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2142-a80c86a4ef674253",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2142",
+    "suburb": "Holroyd",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 322",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2142-5b62719657c988c5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2142",
+    "suburb": "South Granville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 323",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2145-736d52b5bf354206",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2145",
+    "suburb": "Constitution Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 324",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2145-daedecd87c18cef2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2145",
+    "suburb": "Girraween",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 325",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2145-3f6107bfcbc748d7",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2145",
+    "suburb": "Greystanes",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 326",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2145-892d5f71922f0c8a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2145",
+    "suburb": "Mays Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 327",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2145-4d90828503aa3f97",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2145",
+    "suburb": "Pemulwuy",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 328",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2145-37b106e7bcc7e6d7",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2145",
+    "suburb": "Pendle Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 329",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2145-c1f0dd74a02e419f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2145",
+    "suburb": "South Wentworthville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 330",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2145-bfe70779d6c829e6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2145",
+    "suburb": "Wentworthville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 331",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2145-4a16d1e4424a4f98",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2145",
+    "suburb": "Westmead",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 332",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2146-269b615ec179a8fb",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2146",
+    "suburb": "Old Toongabbie",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 333",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2146-0880a995e3c0a03a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2146",
+    "suburb": "Toongabbie",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 334",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2147-8634d4045e4af308",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2147",
+    "suburb": "Lalor Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 335",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2147-610f51a47d534bf4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2147",
+    "suburb": "Seven Hills",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 336",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2148-cb7f96a5194eb8d9",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2148",
+    "suburb": "Huntingwood",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 337",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2148-909e7ffe121fd76c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2148",
+    "suburb": "Prospect",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 338",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2150-76769e304791e1b7",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2150",
+    "suburb": "Parramatta",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 339",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2152-79fe581e033211a3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2152",
+    "suburb": "Northmead",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 340",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2153-81cb3c8bff4ac351",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2153",
+    "suburb": "Baulkham Hills",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 341",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2153-67a69cdfdfe09741",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2153",
+    "suburb": "Winston Hills",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 342",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2160-9abe9eb9d1058c58",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2160",
+    "suburb": "Merrylands",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 343",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2160-547d3bda9a56e4c7",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2160",
+    "suburb": "Merrylands West",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 344",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2161-0436493f00b3464c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2161",
+    "suburb": "Guildford",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 345",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2161-e4dbff325c364944",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2161",
+    "suburb": "Guildford West",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 346",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2161-0e738aba078688d1",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2161",
+    "suburb": "Old Guildford",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 347",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2161-6acbffa74cad870a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2161",
+    "suburb": "Yennora",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 348",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2164-4806450c4bbb5806",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2164",
+    "suburb": "Smithfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 349",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2164-d10a931fbf0848f8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2164",
+    "suburb": "Woodpark",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 350",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2165-4f0b80f3b619cedb",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2165",
+    "suburb": "Fairfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 351",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2165-81b9c90d2abcd4bc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2165",
+    "suburb": "Fairfield East",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 352",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2165-d2832502cd6bdab6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2165",
+    "suburb": "Fairfield Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 353",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2165-d341478b1708a01c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2165",
+    "suburb": "Fairfield West",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 354",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2176-23b726add2e40787",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2176",
+    "suburb": "Prairiewood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 355",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2000-19869420d8701c52",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2000",
+    "suburb": "Barangaroo",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 356",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2000-0056849550c4d809",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2000",
+    "suburb": "Dawes Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 357",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2000-378327b559bd3b6c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2000",
+    "suburb": "Haymarket",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 358",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2000-494ab666e6888bd2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2000",
+    "suburb": "Millers Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 359",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2000-43b8d84fc32fc579",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2000",
+    "suburb": "Sydney",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 360",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2000-cf7dcc72d9bc567c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2000",
+    "suburb": "The Rocks",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 361",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2007-39c751f9d8c574d4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2007",
+    "suburb": "Ultimo",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 362",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2008-d2d6bd494e2028c4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2008",
+    "suburb": "Chippendale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 363",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2008-f739aff79984dab0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2008",
+    "suburb": "Darlington",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 364",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2009-dbcb37ad8228699a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2009",
+    "suburb": "Pyrmont",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 365",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2010-0d660a1839bd7318",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2010",
+    "suburb": "Darlinghurst",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 366",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2010-a1c29dd591fdc687",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2010",
+    "suburb": "Surry Hills",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 367",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2011-02b17e16c314b6e0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2011",
+    "suburb": "Elizabeth Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 368",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2011-fbdcf18420dfce39",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2011",
+    "suburb": "Potts Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 369",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2011-ed9a9645980d75e1",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2011",
+    "suburb": "Rushcutters Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 370",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2011-3114e5a5ae64b177",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2011",
+    "suburb": "Woolloomooloo",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 371",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2015-02f976b2006af0bc",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2015",
+    "suburb": "Alexandria",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 372",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2015-74e79c9aeb8d6021",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2015",
+    "suburb": "Beaconsfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 373",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2015-3d5ba40f18630870",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2015",
+    "suburb": "Eveleigh",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 374",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2016-2db092c40a10dd0d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2016",
+    "suburb": "Redfern",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 375",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2017-7d04c497ce75f86d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2017",
+    "suburb": "Waterloo",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 376",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2017-fca7ff6bd701e3ca",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2017",
+    "suburb": "Zetland",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 377",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2018-fa949fe84e12f819",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2018",
+    "suburb": "Eastlakes",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 378",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2018-26433eed1c06583c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2018",
+    "suburb": "Rosebery",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 379",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2019-9ec238a4817e4d62",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2019",
+    "suburb": "Banksmeadow",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 380",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2019-cdef19bc5468e992",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2019",
+    "suburb": "Botany",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 381",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2021-630fcc5cf6b0b4c8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2021",
+    "suburb": "Centennial Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 382",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2021-92db1b93f9ce5d6d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2021",
+    "suburb": "Moore Park",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 383",
+    "ratingCombination": "A-M"
+  },
+  {
+    "id": "NSW-2021-88e0af940ec234cd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2021",
+    "suburb": "Paddington",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 384",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2022-68a8f2fcff944629",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2022",
+    "suburb": "Bondi Junction",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 385",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2022-c6515e359223b28c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2022",
+    "suburb": "Queens Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 386",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2023-e2c55a58bbdac585",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2023",
+    "suburb": "Bellevue Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 387",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2024-6dfa87bcfc4eb1fd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2024",
+    "suburb": "Bronte",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 388",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2024-a3043b20ab158f03",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2024",
+    "suburb": "Waverley",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 389",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2025-f723667dd9c0007d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2025",
+    "suburb": "Woollahra",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 390",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2026-cd8e4118416b2791",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2026",
+    "suburb": "Bondi",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 391",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2026-ab571eb5737272bf",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2026",
+    "suburb": "Bondi Beach",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 392",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2026-d457f77e4e69002f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2026",
+    "suburb": "North Bondi",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 393",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2026-49fa00954c7717f0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2026",
+    "suburb": "Tamarama",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 394",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2027-6312d366b5b384dd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2027",
+    "suburb": "Darling Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 395",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2027-4d756708fc749a83",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2027",
+    "suburb": "Edgecliff",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 396",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2027-7c896aeaee778673",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2027",
+    "suburb": "Point Piper",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 397",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2028-4c96f679a71e4fc5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2028",
+    "suburb": "Double Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 398",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2029-7bbc60d09628faef",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2029",
+    "suburb": "Rose Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 399",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2030-7c8d487ca51d3fd3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2030",
+    "suburb": "Dover Heights",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 400",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2030-01388a11f8fb55db",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2030",
+    "suburb": "Vaucluse",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 401",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2030-e3a0681588c2a94a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2030",
+    "suburb": "Watsons Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 402",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2031-43fd8a13f3a1cb3e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2031",
+    "suburb": "Clovelly",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 403",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2031-d2eac446230a5305",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2031",
+    "suburb": "Randwick",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 404",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2032-d974edb3ffc2cc1a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2032",
+    "suburb": "Kingsford",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 405",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2033-bd134897cacf2df2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2033",
+    "suburb": "Kensington",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 406",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2034-ada30c932a43a686",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2034",
+    "suburb": "Coogee",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 407",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2034-d213bff6205bd653",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2034",
+    "suburb": "South Coogee",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 408",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2035-83bcff1efbf39e5d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2035",
+    "suburb": "Pagewood",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 409",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2036-8c25d8aaf22793c9",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2036",
+    "suburb": "Eastgardens",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 410",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2036-c8e823b962f73034",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2036",
+    "suburb": "Hillsdale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 411",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2036-5904ddddd10fb750",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2036",
+    "suburb": "Matraville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 412",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2036-2169648f967e9c43",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2036",
+    "suburb": "Phillip Bay",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 413",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2036-547b584da96aa177",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2036",
+    "suburb": "Port Botany",
+    "consolidationClass": "R - sparse / branch",
+    "sourceLocation": "NSW Postcode Coverage row 414",
+    "ratingCombination": "A-R"
+  },
+  {
+    "id": "NSW-2037-a5f93e1b455e3930",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2037",
+    "suburb": "Forest Lodge",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 415",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2037-f93aee57229bea21",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2037",
+    "suburb": "Glebe",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 416",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2038-1d6b498df91f9745",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2038",
+    "suburb": "Annandale",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 417",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2039-f904b600d9029e46",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2039",
+    "suburb": "Rozelle",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 418",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2040-3b0eebf322dbf3d0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2040",
+    "suburb": "Leichhardt",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 419",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2040-f213faf911ef2a67",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2040",
+    "suburb": "Lilyfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 420",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2041-03c97829004d22f2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2041",
+    "suburb": "Balmain",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 421",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2041-430fa7c61cc4c4f4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2041",
+    "suburb": "Balmain East",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 422",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2041-2ae9d3e0de0b71b6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2041",
+    "suburb": "Birchgrove",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 423",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2042-0fa1d6e323f3bcc6",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2042",
+    "suburb": "Enmore",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 424",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2042-38a3dfa47244cbe0",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2042",
+    "suburb": "Newtown",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 425",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2043-8aa6cb7a2424053c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2043",
+    "suburb": "Erskineville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 426",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2044-379dcef141013eed",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2044",
+    "suburb": "St Peters",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 427",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2044-01a2389c33ec088f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2044",
+    "suburb": "Sydenham",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 428",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2044-c4de775f0ab0a1b3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2044",
+    "suburb": "Tempe",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 429",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2045-80b2ca3e25dcbc68",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2045",
+    "suburb": "Haberfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 430",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2046-d2fbe5c6d11c9acd",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2046",
+    "suburb": "Abbotsford",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 431",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2046-3a0f6ea3c626147f",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2046",
+    "suburb": "Canada Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 432",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2046-a883e3a4d8e2cf7e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2046",
+    "suburb": "Chiswick",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 433",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2046-b1db410791845161",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2046",
+    "suburb": "Five Dock",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 434",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2046-8163ca89debf38e3",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2046",
+    "suburb": "Rodd Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 435",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2046-5d23d944d116ae24",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2046",
+    "suburb": "Russell Lea",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 436",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2046-515883bf578f2bcf",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2046",
+    "suburb": "Wareemba",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 437",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2047-328e551bd0c44ba5",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2047",
+    "suburb": "Drummoyne",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 438",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2048-dbf6dc3149760cb4",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2048",
+    "suburb": "Stanmore",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 439",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2049-d43988165af93c8d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2049",
+    "suburb": "Lewisham",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 440",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2049-08ccddc4c6e5c793",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2049",
+    "suburb": "Petersham",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 441",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2050-2e2e6c3ebebb6a3c",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2050",
+    "suburb": "Camperdown",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 442",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2060-07f683e50d91f501",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2060",
+    "suburb": "Lavender Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 443",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2060-2d9ac965fddabb06",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2060",
+    "suburb": "Mcmahons Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 444",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2061-57b32dd54ef10ed8",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2061",
+    "suburb": "Kirribilli",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 445",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2061-8466646ac360eb61",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2061",
+    "suburb": "Milsons Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 446",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2062-c874d94cdd1c7b4a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2062",
+    "suburb": "Cammeray",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 447",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2063-0576f29f4dda592b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2063",
+    "suburb": "Northbridge",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 448",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2064-d26a261cccec4613",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2064",
+    "suburb": "Artarmon",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 449",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2065-0112618cb4b1f46e",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2065",
+    "suburb": "Naremburn",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 450",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2068-68832a6ceed75c3b",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2068",
+    "suburb": "Castlecrag",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 451",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2068-cc3c464608a524f2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2068",
+    "suburb": "North Willoughby",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 452",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2068-6c483b6902662cc2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2068",
+    "suburb": "Willoughby",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 453",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2068-962bec1e33da5227",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2068",
+    "suburb": "Willoughby East",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 454",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2088-303b78b2d38d1c51",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2088",
+    "suburb": "Mosman",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 455",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2089-a972eb22b9a38d58",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2089",
+    "suburb": "Kurraba Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 456",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2089-c48c85cac3ccf986",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2089",
+    "suburb": "Neutral Bay",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 457",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2090-4b04d1662cff9ca2",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2090",
+    "suburb": "Cremorne",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 458",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2090-32992a801b4a7185",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2090",
+    "suburb": "Cremorne Point",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 459",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2130-9124af42f0aefeab",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2130",
+    "suburb": "Summer Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 460",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2131-dc71e15ebed3ea23",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2131",
+    "suburb": "Ashfield",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 461",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2137-fef9fbe7c56e6e15",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2137",
+    "suburb": "Mortlake",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 462",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2193-8aec3651ba29bbf9",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2193",
+    "suburb": "Hurlstone Park",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 463",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2203-612650065dd3e706",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2203",
+    "suburb": "Dulwich Hill",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 464",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2204-bca93038d866928a",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2204",
+    "suburb": "Marrickville",
+    "consolidationClass": "C - concentrated",
+    "sourceLocation": "NSW Postcode Coverage row 465",
+    "ratingCombination": "A-C"
+  },
+  {
+    "id": "NSW-2164-3b3b1154f533ac3d",
+    "state": "NSW",
+    "zone": "A",
+    "postcode": "2164",
+    "suburb": "Wetherill Park",
+    "consolidationClass": "M - mixed / confirm demand",
+    "sourceLocation": "NSW Postcode Coverage row 466",
+    "ratingCombination": "A-M"
+  }
+]

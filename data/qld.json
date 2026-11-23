@@ -1,0 +1,2495 @@
+[
+  {
+    "id": "QLD-4000-39bbd7fe475d4145",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4000",
+    "suburb": "Brisbane City",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "QLD-4114-21c4568460ee3d32",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4114",
+    "suburb": "Woodridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "QLD-4018-b108868a74b4852f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4018",
+    "suburb": "Fitzgibbon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "QLD-4000-142c5ffc1fe15de8",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4000",
+    "suburb": "Petrie Terrace",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "QLD-4114-b617e81288a0c4c8",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4114",
+    "suburb": "Kingston",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "QLD-4018-86dd5c784133a0db",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4018",
+    "suburb": "Taigum",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "QLD-4001-cbf737cc48c95a9d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4001",
+    "suburb": "Brisbane Cbd",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "QLD-4115-8fdf100b9b2c51ae",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4115",
+    "suburb": "Parkinson",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "QLD-4019-ee4f4f3c17c36b60",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4019",
+    "suburb": "Woody Point",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "QLD-4004-22c0573ec6dcd3d0",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4004",
+    "suburb": "Spring Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "QLD-4115-cac1512d8c1ea2fd",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4115",
+    "suburb": "Algester",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "QLD-4019-532e162f089e309f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4019",
+    "suburb": "Margate",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "QLD-4005-b2f38ef15d0a62fc",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4005",
+    "suburb": "New Farm",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "QLD-4116-fd76875df5c6c13a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4116",
+    "suburb": "Drewvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "QLD-4019-13916805aa47499f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4019",
+    "suburb": "Clontarf",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "QLD-4005-bbf607ed81acd5d8",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4005",
+    "suburb": "Teneriffe",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "QLD-4116-331ab617028edea5",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4116",
+    "suburb": "Calamvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "QLD-4020-b15533090be61934",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4020",
+    "suburb": "Redcliffe",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "QLD-4006-246048c993769add",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4006",
+    "suburb": "Fortitude Valley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "QLD-4116-c4f8f1fcf7867188",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4116",
+    "suburb": "Stretton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "QLD-4020-387d091a4cc5b3a6",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4020",
+    "suburb": "Newport",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "QLD-4006-697eb71e54da37fd",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4006",
+    "suburb": "Bowen Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "QLD-4117-f0d6c73e51d95bca",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4117",
+    "suburb": "Berrinba",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "QLD-4020-0b67d25df0206b80",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4020",
+    "suburb": "Scarborough",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "QLD-4006-559d7df6fb9a63d9",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4006",
+    "suburb": "Herston",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "QLD-4117-d21f0e7313f6d3fc",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4117",
+    "suburb": "Karawatha",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "QLD-4021-a7ef2051a1bc613b",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4021",
+    "suburb": "Kippa-ring",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "QLD-4006-f86c93e28b1626d6",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4006",
+    "suburb": "Newstead",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "QLD-4118-e4117f710e40bc5b",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4118",
+    "suburb": "Browns Plains",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "QLD-4022-90ae3685dd8c8844",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4022",
+    "suburb": "Rothwell",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "QLD-4007-78ff0d5ac256bcb0",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4007",
+    "suburb": "Hamilton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "QLD-4118-bbc0317ff18f85a2",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4118",
+    "suburb": "Heritage Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "QLD-4029-0d8887f7a7d8811c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4029",
+    "suburb": "Royal Brisbane Hospital",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "QLD-4007-a859b17dfd079f8c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4007",
+    "suburb": "Ascot",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "QLD-4118-24ef7da4474a4c4f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4118",
+    "suburb": "Hillcrest",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "QLD-4030-296c37c15da94013",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4030",
+    "suburb": "Windsor",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "QLD-4008-cc4a05ca4cce67f8",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4008",
+    "suburb": "Pinkenba",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "QLD-4118-253060c9714ae9ea",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4118",
+    "suburb": "Regents Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "QLD-4030-4e21216c559f8d46",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4030",
+    "suburb": "Lutwyche",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "QLD-4009-a42c17add405205f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4009",
+    "suburb": "Eagle Farm",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "QLD-4118-cd4a5b7ae5d35f65",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4118",
+    "suburb": "Forestdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "QLD-4030-b5bb9527964a16f0",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4030",
+    "suburb": "Wooloowin",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "QLD-4010-a567be554004453a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4010",
+    "suburb": "Albion",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "QLD-4119-8ed40501add07b5b",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4119",
+    "suburb": "Underwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "QLD-4031-fe2ad498d94447f2",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4031",
+    "suburb": "Kedron",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "QLD-4011-b369124cfd39249c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4011",
+    "suburb": "Hendra",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "QLD-4120-6beefcf5eeaa6f3e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4120",
+    "suburb": "Greenslopes",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "QLD-4031-d8ea9a13421e03f0",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4031",
+    "suburb": "Gordon Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "QLD-4011-b9fc2aeec420c022",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4011",
+    "suburb": "Clayfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "QLD-4120-6461eb6839c962d2",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4120",
+    "suburb": "Stones Corner",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "QLD-4032-c8fc6b07ecf483fa",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4032",
+    "suburb": "Chermside",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "QLD-4012-4905cdb887369dba",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4012",
+    "suburb": "Nundah",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "QLD-4121-76962f702bddace9",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4121",
+    "suburb": "Holland Park West",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "QLD-4034-b6f2e1a12ad3d306",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4034",
+    "suburb": "Geebung",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "QLD-4012-a1bb716ac4fb123f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4012",
+    "suburb": "Toombul",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "QLD-4121-b572d933d5a76b12",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4121",
+    "suburb": "Wellers Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "QLD-4034-801f11163fd48d67",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4034",
+    "suburb": "Boondall",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "QLD-4012-ff4620c3ffcf2c7a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4012",
+    "suburb": "Wavell Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "QLD-4121-e0c82a905ed4baef",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4121",
+    "suburb": "Tarragindi",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "QLD-4034-103dac0ca54bf51e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4034",
+    "suburb": "Aspley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "QLD-4013-4f1d72b277dcaec3",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4013",
+    "suburb": "Northgate",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "QLD-4121-adaa0f4b62de6c50",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4121",
+    "suburb": "Holland Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "QLD-4034-6931a895d8e0e90c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4034",
+    "suburb": "Carseldine",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "QLD-4014-d162c46cac4c990d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4014",
+    "suburb": "Virginia",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "QLD-4122-22ec0f464dbc18f4",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4122",
+    "suburb": "Upper Mount Gravatt",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "QLD-4034-ab37474f3388c9d4",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4034",
+    "suburb": "Zillmere",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "QLD-4014-dc2739e46a2690f1",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4014",
+    "suburb": "Banyo",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "QLD-4122-fe2f0aafca58a37a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4122",
+    "suburb": "Wishart",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "QLD-4035-88534b761767872f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4035",
+    "suburb": "Bridgeman Downs",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "QLD-4014-3bc5712296e78087",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4014",
+    "suburb": "Nudgee",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "QLD-4122-84b177b5ac553d7d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4122",
+    "suburb": "Mansfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "QLD-4035-c09efbde18fc4271",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4035",
+    "suburb": "Albany Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "QLD-4059-2816b9fde6d8b20c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4059",
+    "suburb": "Red Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "QLD-4122-76a2eb35b340230d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4122",
+    "suburb": "Mount Gravatt East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "QLD-4036-3ebe384e1e8c32ce",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4036",
+    "suburb": "Bald Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "QLD-4059-e68349e8dff0e128",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4059",
+    "suburb": "Kelvin Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "QLD-4122-9498e02a06a09579",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4122",
+    "suburb": "Mount Gravatt",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "QLD-4037-5ebc66d231123319",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4037",
+    "suburb": "Eatons Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "QLD-4060-88bf555df6fa7496",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4060",
+    "suburb": "Ashgrove",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "QLD-4123-cd73f218a661a528",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4123",
+    "suburb": "Rochedale South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "QLD-4051-a8ec8cf135473609",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4051",
+    "suburb": "Wilston",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "QLD-4061-02f62b16a3da04d3",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4061",
+    "suburb": "The Gap",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "QLD-4123-1c73548caf766b57",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4123",
+    "suburb": "Rochedale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "QLD-4051-97812543d3122fc0",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4051",
+    "suburb": "Newmarket",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "QLD-4064-d74121f882196942",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4064",
+    "suburb": "Milton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "QLD-4127-59aaae59a88830ad",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4127",
+    "suburb": "Slacks Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "QLD-4051-375934c7ff0df81c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4051",
+    "suburb": "Grange",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "QLD-4064-da4d8db23696418d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4064",
+    "suburb": "Paddington",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "QLD-4127-85914651847a61f1",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4127",
+    "suburb": "Springwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "QLD-4051-9e284bf67b9a8959",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4051",
+    "suburb": "Alderley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "QLD-4065-14bee206f541c9a5",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4065",
+    "suburb": "Bardon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "QLD-4127-d045e73ad6bd497d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4127",
+    "suburb": "Daisy Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "QLD-4051-48dcd48c3bff9e1e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4051",
+    "suburb": "Enoggera",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "QLD-4066-c27a4745807aa26e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4066",
+    "suburb": "Auchenflower",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "QLD-4127-0081ef0963f524cf",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4127",
+    "suburb": "Priestdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "QLD-4051-2387d2f1dd9d2944",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4051",
+    "suburb": "Gaythorne",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "QLD-4066-6c44f1e5e433aafd",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4066",
+    "suburb": "Toowong",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "QLD-4128-1ef1c118bdbe2438",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4128",
+    "suburb": "Tanah Merah",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "QLD-4053-c2ab205a2cd97ade",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4053",
+    "suburb": "Stafford",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "QLD-4066-6a6648716ce63973",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4066",
+    "suburb": "Mount Coot-tha",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "QLD-4128-45faf0cd3f4e18ff",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4128",
+    "suburb": "Shailer Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "QLD-4053-d0d858ade6916b78",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4053",
+    "suburb": "Mitchelton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "QLD-4067-876d27477548dfab",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4067",
+    "suburb": "Saint Lucia",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "QLD-4129-2adcae42d8064c3a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4129",
+    "suburb": "Loganholme",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "QLD-4053-2ef7330187a1cffb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4053",
+    "suburb": "Stafford Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "QLD-4068-a561b644b6475510",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4068",
+    "suburb": "Chelmer",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "QLD-4130-350f7f6808485d2e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4130",
+    "suburb": "Cornubia",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "QLD-4053-a8931869de708531",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4053",
+    "suburb": "Everton Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "QLD-4068-44e9f011a317524b",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4068",
+    "suburb": "Indooroopilly",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "QLD-4130-fa82504fce95c613",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4130",
+    "suburb": "Carbrook",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "QLD-4053-e73ee3a7a5e61d52",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4053",
+    "suburb": "Everton Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "QLD-4068-231342f865f1fd1c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4068",
+    "suburb": "Taringa",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "QLD-4131-07012e9a75060366",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4131",
+    "suburb": "Loganlea",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "QLD-4053-116cb5501bdbf43c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4053",
+    "suburb": "Mcdowall",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "QLD-4070-1c70ccc32f2c5afb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4070",
+    "suburb": "Anstead",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "QLD-4131-ea87fffd17ec7add",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4131",
+    "suburb": "Meadowbrook",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "QLD-4054-bf01c92edce68f2d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4054",
+    "suburb": "Keperra",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "QLD-4070-040a18b6e3b9f7d4",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4070",
+    "suburb": "Bellbowrie",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "QLD-4132-659938432f9a5114",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4132",
+    "suburb": "Marsden",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "QLD-4054-640aff42635a59ab",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4054",
+    "suburb": "Arana Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "QLD-4070-3c1e516669561a26",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4070",
+    "suburb": "Moggill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "QLD-4132-468d1178c9e2fa83",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4132",
+    "suburb": "Crestmead",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "QLD-4055-5f43eb2743499fd3",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4055",
+    "suburb": "Ferny Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "QLD-4072-21e7cbd609a8ea56",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4072",
+    "suburb": "University Of Qld",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "QLD-4133-36b7df561a962985",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4133",
+    "suburb": "Waterford West",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "QLD-4055-354cf9ef31014875",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4055",
+    "suburb": "Upper Kedron",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "QLD-4073-89369f09e97614cd",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4073",
+    "suburb": "Seventeen Mile Rocks",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "QLD-4133-038094ce802edd7d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4133",
+    "suburb": "Waterford",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "QLD-4055-0d28527f90ee045b",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4055",
+    "suburb": "Ferny Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "QLD-4073-0fe4a9aafbfac850",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4073",
+    "suburb": "Sinnamon Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "QLD-4133-79432c9892de7cfa",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4133",
+    "suburb": "Logan Reserve",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "QLD-4055-7c7e29cb34758f40",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4055",
+    "suburb": "Bunya",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "QLD-4074-76a4c4f5a0b6cfc0",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4074",
+    "suburb": "Jamboree Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "QLD-4133-91eba3959882ce30",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4133",
+    "suburb": "Chambers Flat",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "QLD-4069-e1baa156e4fb5eca",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4069",
+    "suburb": "Fig Tree Pocket",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "QLD-4074-6c02e62184209e84",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4074",
+    "suburb": "Sumner",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "QLD-4151-67b414e1e81ca7fa",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4151",
+    "suburb": "Coorparoo",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "QLD-4069-9c1c9112a3ad7529",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4069",
+    "suburb": "Chapel Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "QLD-4074-0e66d29903616a3e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4074",
+    "suburb": "Middle Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "QLD-4152-6f959c7a401c9ce9",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4152",
+    "suburb": "Carindale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "QLD-4069-d6e2e54b32176262",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4069",
+    "suburb": "Kenmore",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "QLD-4074-a150bf899744fb4b",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4074",
+    "suburb": "Mount Ommaney",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "QLD-4152-2164d14fd77414e4",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4152",
+    "suburb": "Carina Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "QLD-4069-6a5214a177040f59",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4069",
+    "suburb": "Kenmore Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "QLD-4074-83e182c1125fbd27",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4074",
+    "suburb": "Westlake",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "QLD-4152-6af3cbc82ae271bb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4152",
+    "suburb": "Carina",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "QLD-4069-58db5b7ce26e869c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4069",
+    "suburb": "Brookfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "QLD-4074-96b5ddcd887fe954",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4074",
+    "suburb": "Riverhills",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "QLD-4152-48aa877a0f7b1dd3",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4152",
+    "suburb": "Camp Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "QLD-4069-e8b6af86ebc676eb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4069",
+    "suburb": "Pinjarra Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "QLD-4074-85be8a6c3c103d62",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4074",
+    "suburb": "Jindalee",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 55"
+  },
+  {
+    "id": "QLD-4153-350a61be3c8e6f88",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4153",
+    "suburb": "Belmont",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 55"
+  },
+  {
+    "id": "QLD-4069-331d7deb4436a715",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4069",
+    "suburb": "Pullenvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 55"
+  },
+  {
+    "id": "QLD-4075-246f3f1bca697818",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4075",
+    "suburb": "Oxley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 56"
+  },
+  {
+    "id": "QLD-4154-b06c8e5cb5ee9915",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4154",
+    "suburb": "Gumdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 56"
+  },
+  {
+    "id": "QLD-4069-b4157f6c673aed97",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4069",
+    "suburb": "Upper Brookfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 56"
+  },
+  {
+    "id": "QLD-4075-146575fff927c103",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4075",
+    "suburb": "Sherwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 57"
+  },
+  {
+    "id": "QLD-4154-ebb396e2613dc1ec",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4154",
+    "suburb": "Wakerley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 57"
+  },
+  {
+    "id": "QLD-4500-65007e4cb20350d4",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4500",
+    "suburb": "Brendale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 57"
+  },
+  {
+    "id": "QLD-4075-da2139a92cd9930e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4075",
+    "suburb": "Corinda",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 58"
+  },
+  {
+    "id": "QLD-4154-f07df5a2e19811d1",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4154",
+    "suburb": "Ransome",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 58"
+  },
+  {
+    "id": "QLD-4500-c8fe85db4423c086",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4500",
+    "suburb": "Strathpine",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 58"
+  },
+  {
+    "id": "QLD-4075-4af8a6b63b9d824f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4075",
+    "suburb": "Graceville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 1"
+  },
+  {
+    "id": "QLD-4155-3e64a8012b5bca60",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4155",
+    "suburb": "Chandler",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 1"
+  },
+  {
+    "id": "QLD-4500-f84ac499451b2195",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4500",
+    "suburb": "Warner",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 1"
+  },
+  {
+    "id": "QLD-4076-19b37daf87596c4a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4076",
+    "suburb": "Darra",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 2"
+  },
+  {
+    "id": "QLD-4156-c8346f96ec963d15",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4156",
+    "suburb": "Mackenzie",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 2"
+  },
+  {
+    "id": "QLD-4500-1eeb0cb7cd0b0c46",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4500",
+    "suburb": "Bray Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 2"
+  },
+  {
+    "id": "QLD-4076-aca6f953ac53171d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4076",
+    "suburb": "Wacol",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 3"
+  },
+  {
+    "id": "QLD-4156-36db75f0828ffbb0",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4156",
+    "suburb": "Burbank",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 3"
+  },
+  {
+    "id": "QLD-4500-0ce4619405188f2d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4500",
+    "suburb": "Clear Mountain",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 3"
+  },
+  {
+    "id": "QLD-4077-06126c6297c159f1",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4077",
+    "suburb": "Doolandella",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 4"
+  },
+  {
+    "id": "QLD-4157-4c1c66e2410f4835",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4157",
+    "suburb": "Sheldon",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 4"
+  },
+  {
+    "id": "QLD-4500-40d0322ec30206bd",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4500",
+    "suburb": "Joyner",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 4"
+  },
+  {
+    "id": "QLD-4077-c7344ce0b513415d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4077",
+    "suburb": "Durack",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "QLD-4157-5f8926c6bbc1d587",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4157",
+    "suburb": "Capalaba",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "QLD-4500-f43d05b14247553e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4500",
+    "suburb": "Cashmere",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "QLD-4077-b08a8cb843983fca",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4077",
+    "suburb": "Inala",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "QLD-4158-325c5176380fcc33",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4158",
+    "suburb": "Thorneside",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "QLD-4501-42119832467ad1b1",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4501",
+    "suburb": "Lawnton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "QLD-4077-95ac8708ac692601",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4077",
+    "suburb": "Richlands",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "QLD-4159-18eff0e2db450448",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4159",
+    "suburb": "Birkdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "QLD-4502-0942ad307078dc9a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4502",
+    "suburb": "Petrie",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "QLD-4078-e311a9223bec3006",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4078",
+    "suburb": "Forest Lake",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "QLD-4160-589b5404fc9edb67",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4160",
+    "suburb": "Wellington Point",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "QLD-4503-b413ac2085360b65",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4503",
+    "suburb": "Murrumba Downs",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "QLD-4078-86b972054a943b07",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4078",
+    "suburb": "Ellen Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "QLD-4160-99769200355e51a3",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4160",
+    "suburb": "Ormiston",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "QLD-4503-20ddacc9e9eecbfa",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4503",
+    "suburb": "Griffin",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "QLD-4101-871c88619a24760b",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4101",
+    "suburb": "West End",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "QLD-4161-6fcfb45ee3113e17",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4161",
+    "suburb": "Alexandra Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "QLD-4503-3175c5ddd52c8cf1",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4503",
+    "suburb": "Kallangur",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "QLD-4101-a9f6abf83e12ecbd",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4101",
+    "suburb": "Highgate Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "QLD-4163-8749355d758e216b",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4163",
+    "suburb": "Cleveland",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "QLD-4503-6802032248cd5c6f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4503",
+    "suburb": "Whiteside",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "QLD-4101-82b29d7114bf160d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4101",
+    "suburb": "South Brisbane",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "QLD-4164-025ee8b5999f783a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4164",
+    "suburb": "Thornlands",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "QLD-4503-c155b9f7cf13c7af",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4503",
+    "suburb": "Kurwongbah",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "QLD-4102-b9519dd7aa9b50eb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4102",
+    "suburb": "Buranda",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "QLD-4165-8d27db05199976a2",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4165",
+    "suburb": "Mount Cotton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "QLD-4503-27dc128d45b5513d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4503",
+    "suburb": "Dakabin",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "QLD-4102-1ca9261e66a9d04e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4102",
+    "suburb": "Dutton Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "QLD-4165-5106151aef6b983d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4165",
+    "suburb": "Redland Bay",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "QLD-4504-340b071864137eb3",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4504",
+    "suburb": "Narangba",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "QLD-4102-bf6cef0ec7ec64d5",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4102",
+    "suburb": "Woolloongabba",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "QLD-4165-9259161e2299f9dc",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4165",
+    "suburb": "Victoria Point",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "QLD-4505-97b4543b3c0fbc0e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4505",
+    "suburb": "Burpengary",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "QLD-4103-ce47234e2aa8bae6",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4103",
+    "suburb": "Annerley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "QLD-4169-607590cc49de2d6f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4169",
+    "suburb": "East Brisbane",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "QLD-4506-cafd6772679a9bf9",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4506",
+    "suburb": "Moorina",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "QLD-4103-98e035ec2a6675a1",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4103",
+    "suburb": "Fairfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "QLD-4169-d87a8f111ff84fd7",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4169",
+    "suburb": "Kangaroo Point",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "QLD-4508-55962d05b5fadf11",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4508",
+    "suburb": "Deception Bay",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "QLD-4104-a7d4c0f11a2c4711",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4104",
+    "suburb": "Yeronga",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "QLD-4170-456606fbc8a7ad8a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4170",
+    "suburb": "Seven Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "QLD-4509-b9d50b8476c865df",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4509",
+    "suburb": "Mango Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "QLD-4105-ee0ba5d6b43892e4",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4105",
+    "suburb": "Moorooka",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "QLD-4170-8e9a0a8891b19caa",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4170",
+    "suburb": "Cannon Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "QLD-4205-678550f78ece81e8",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4205",
+    "suburb": "Bethania",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "QLD-4105-93df89db9ef7447c",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4105",
+    "suburb": "Yeerongpilly",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "QLD-4170-8dd9b9ae65e13d62",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4170",
+    "suburb": "Morningside",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "QLD-4207-2edf9225f0a34445",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Edens Landing",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "QLD-4105-d08f5a0c1b3b0590",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4105",
+    "suburb": "Tennyson",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "QLD-4170-80e8cb38ead8870e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4170",
+    "suburb": "Norman Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "QLD-4207-3558f95c1cff2bb6",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Holmview",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "QLD-4106-2c019e7a8c3b7620",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4106",
+    "suburb": "Rocklea",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "QLD-4171-6ed4ba31924a03ec",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4171",
+    "suburb": "Hawthorne",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "QLD-4207-aeca5101b6e2be77",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Bahrs Scrub",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "QLD-4107-a49bc9f408c3db86",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4107",
+    "suburb": "Salisbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "QLD-4171-1e1073816803797a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4171",
+    "suburb": "Balmoral",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "QLD-4207-1d91d571abc0d3a5",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Beenleigh",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "QLD-4108-5370c12e969bd399",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4108",
+    "suburb": "Coopers Plains",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "QLD-4171-6c4cdabc4092baff",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4171",
+    "suburb": "Bulimba",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "QLD-4207-097617869ac942c8",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Eagleby",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "QLD-4108-bf069c1545dcb5e8",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4108",
+    "suburb": "Archerfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "QLD-4172-c56d2aee08ff30a5",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4172",
+    "suburb": "Murarrie",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "QLD-4207-bf798f583438a8f2",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Buccan",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "QLD-4109-499641900e931a3f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4109",
+    "suburb": "Sunnybank Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "QLD-4173-1c40bb0b213b6653",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4173",
+    "suburb": "Tingalpa",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "QLD-4207-ce4ba5bcb0425adc",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Mount Warren Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "QLD-4109-2bf806a15e1a83eb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4109",
+    "suburb": "Sunnybank",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "QLD-4174-1375fd7bccc82b9e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4174",
+    "suburb": "Hemmant",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "QLD-4207-02a816f61805663d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Logan Village",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "QLD-4109-f59504570ebefe1a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4109",
+    "suburb": "Robertson",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "QLD-4178-d8e200bb20f977eb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4178",
+    "suburb": "Wynnum West",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "QLD-4207-5b6acd8bc5c04b86",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Belivah",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "QLD-4109-82b98a7f2c1e479f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4109",
+    "suburb": "Macgregor",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "QLD-4178-fb81b3de210027f9",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4178",
+    "suburb": "Wynnum",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "QLD-4207-277dec5b9a2941b9",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Bannockburn",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "QLD-4110-cb17ad455b3c0a8f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4110",
+    "suburb": "Larapinta",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "QLD-4178-e61493faad922412",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4178",
+    "suburb": "Lytton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "QLD-4207-672d91a2db34100f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Stapylton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "QLD-4110-1aecc278c1d2eeeb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4110",
+    "suburb": "Heathwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "QLD-4178-2997d7af08f54127",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4178",
+    "suburb": "Port Of Brisbane",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "QLD-4207-4a5af272510a35b1",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Windaroo",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "QLD-4110-9a21a366173764da",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4110",
+    "suburb": "Acacia Ridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "QLD-4179-947ad2abfee72dc3",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4179",
+    "suburb": "Manly West",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "QLD-4207-104e04dbdbc31dda",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Yatala",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "QLD-4110-2be147ca4e061260",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4110",
+    "suburb": "Willawong",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "QLD-4179-502c3d6835e9c15f",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4179",
+    "suburb": "Lota",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "QLD-4207-89a57dc5f244fbd0",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4207",
+    "suburb": "Alberton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "QLD-4110-050935b342058dc0",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4110",
+    "suburb": "Pallara",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "QLD-4179-8b365c9377461d9d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4179",
+    "suburb": "Manly",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "QLD-4208-b3f1fdcc8b0550b7",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4208",
+    "suburb": "Ormeau",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "QLD-4111-dc18643d6a01a922",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4111",
+    "suburb": "Nathan",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "QLD-4017-8a342c50372e417d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4017",
+    "suburb": "Deagon",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "QLD-4208-02e4b76249953be7",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4208",
+    "suburb": "Gilberton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "QLD-4112-932cd349400f32bf",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4112",
+    "suburb": "Kuraby",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "QLD-4017-0d12836844fc045e",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4017",
+    "suburb": "Bracken Ridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "QLD-4306-222a18454ef791eb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4306",
+    "suburb": "Mount Crosby",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "QLD-4113-e375c116bafcaafb",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4113",
+    "suburb": "Runcorn",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "QLD-4017-ba86bfb78c44136d",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4017",
+    "suburb": "Sandgate",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "QLD-4306-1ef084e251d26b0a",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4306",
+    "suburb": "Karana Downs",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "QLD-4113-4876cf6db0aeeced",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4113",
+    "suburb": "Eight Mile Plains",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "QLD-4017-37ee628ab2424645",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4017",
+    "suburb": "Shorncliffe",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "QLD-4114-c98d165855fed452",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4114",
+    "suburb": "Logan Central",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "QLD-4017-865550b6efd5b9c4",
+    "state": "QLD",
+    "zone": "B1",
+    "postcode": "4017",
+    "suburb": "Brighton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  }
+]

@@ -1,0 +1,3278 @@
+[
+  {
+    "id": "WA-6000-501973927341ccba",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6000",
+    "suburb": "Perth",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "WA-6154-3ce41d83db3257a3",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6154",
+    "suburb": "Alfred Cove",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "WA-6110-ce94b1f14e3bc7aa",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6110",
+    "suburb": "Gosnells",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "WA-6003-d928e74a3f70d8e4",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6003",
+    "suburb": "Highgate",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "WA-6154-a5c5e3a86521d688",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6154",
+    "suburb": "Booragoon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "WA-6110-6c67b52bd44611a0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6110",
+    "suburb": "Huntingdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "WA-6003-29c9163b82d92ba5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6003",
+    "suburb": "Northbridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "WA-6154-677f285ea06ca81e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6154",
+    "suburb": "Myaree",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "WA-6110-106ed475ad0e3348",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6110",
+    "suburb": "Martin",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "WA-6004-4a4d71c7bf12b3f0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6004",
+    "suburb": "East Perth",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "WA-6954-15a2f81ba86f2088",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6954",
+    "suburb": "Booragoon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "WA-6110-8bf9b9a423bc2e34",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6110",
+    "suburb": "Southern River",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "WA-6803-ca381d03534e7794",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6803",
+    "suburb": "Northbridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "WA-6011-c46bc05fc7f9bd77",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6011",
+    "suburb": "Cottesloe",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "WA-6164-1f493df2cd35db76",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Atwell",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "WA-6832-9c0ae4d19a120fa3",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6832",
+    "suburb": "St Georges Tce",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "WA-6011-9d6301cbbed008f4",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6011",
+    "suburb": "Peppermint Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "WA-6164-faec62916a162d4a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Aubin Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "WA-6865-92d30cec82640b6f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6865",
+    "suburb": "Northbridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "WA-6012-a0c87cd9c04041a5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6012",
+    "suburb": "Mosman Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "WA-6164-114bb9c4f8e2c289",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Banjup",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "WA-6005-9256445f40810b29",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6005",
+    "suburb": "Kings Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "WA-6022-04db6a8c6405b9bb",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6022",
+    "suburb": "Hamersley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "WA-6164-414956d462825817",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Beeliar",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "WA-6005-03ea4661bd647f62",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6005",
+    "suburb": "West Perth",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "WA-6063-ba0b3fa24f6eee48",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6063",
+    "suburb": "Beechboro",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "WA-6164-0e1b1bba4a0aa0ca",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Hammond Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "WA-6006-ea181ae770527a5b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6006",
+    "suburb": "North Perth",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "WA-6104-348c8abef29dd196",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6104",
+    "suburb": "Ascot",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "WA-6164-7863640b0f64a44b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Jandakot",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "WA-6007-acac4eaf36f8e94a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6007",
+    "suburb": "Leederville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "WA-6104-5a2af5c462a1ab8b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6104",
+    "suburb": "Belmont",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "WA-6164-020637c205247d14",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "South Lake",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "WA-6007-2c4fa9a03aa57bca",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6007",
+    "suburb": "West Leederville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "WA-6104-8aaf2b6a8d477303",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6104",
+    "suburb": "Redcliffe",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "WA-6164-68f4d37f7091a8e8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Success",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "WA-6050-743206e6a776af99",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6050",
+    "suburb": "Coolbinia",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "WA-6156-d9828fc247c92d4a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6156",
+    "suburb": "Attadale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "WA-6164-b264a685c32d8c82",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Yangebup",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "WA-6050-c97b90533651b1d1",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6050",
+    "suburb": "Menora",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "WA-6156-76de54f77e3e6e33",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6156",
+    "suburb": "Melville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "WA-6027-af54738d78c28f57",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6027",
+    "suburb": "Beldon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "WA-6050-5a8fde0c5c2a024b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6050",
+    "suburb": "Mount Lawley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "WA-6156-90641f1b5d8fc165",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6156",
+    "suburb": "Willagee",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "WA-6027-260b583fc14fc81a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6027",
+    "suburb": "Connolly",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "WA-6900-846e165ce16bc38c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6900",
+    "suburb": "Leederville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "WA-6156-0e28331368835518",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6156",
+    "suburb": "Willagee Central",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "WA-6027-285505278b40b552",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6027",
+    "suburb": "Edgewater",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "WA-6902-255fe7e5c7e46f24",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6902",
+    "suburb": "Leederville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "WA-6029-cb943b9cedfeeaf2",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6029",
+    "suburb": "Trigg",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "WA-6027-cee10a66dfa4fb27",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6027",
+    "suburb": "Heathridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "WA-6903-6170d3d6b31cdb3c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6903",
+    "suburb": "Leederville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "WA-6063-ac8de6347948c721",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6063",
+    "suburb": "Bennett Springs",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "WA-6027-bd46ecfb2d9532e0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6027",
+    "suburb": "Joondalup",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "WA-6051-a498430e40cbff72",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6051",
+    "suburb": "Maylands",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "WA-6064-17a9703a1f945f43",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6064",
+    "suburb": "Alexander Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "WA-6027-7bba759518cadcb2",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6027",
+    "suburb": "Joondalup Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "WA-6151-4b6d6649e767d0cd",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6151",
+    "suburb": "Kensington",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "WA-6064-4c937a0a141b4496",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6064",
+    "suburb": "Girrawheen",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "WA-6027-40e8337c23c69053",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6027",
+    "suburb": "Mullaloo",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "WA-6151-28dbfb1e8dea416d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6151",
+    "suburb": "South Perth",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "WA-6064-486886467c3e8ed1",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6064",
+    "suburb": "Koondoola",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "WA-6027-1ebd92f99bdd9d28",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6027",
+    "suburb": "Ocean Reef",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "WA-6151-1742a62e339041f6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6151",
+    "suburb": "South Perth Angelo St",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "WA-6064-2f3393227160bd43",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6064",
+    "suburb": "Marangaroo",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "WA-6069-6c3c2119ff20f25c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6069",
+    "suburb": "Aveley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "WA-6931-aaffcdb56286cc89",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6931",
+    "suburb": "Maylands",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "WA-6066-6dc91ed566754e0e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6066",
+    "suburb": "Ballajura",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "WA-6919-9ba19131502107a4",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6919",
+    "suburb": "Joondalup Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "WA-6008-9b8451c0ce90ff1a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6008",
+    "suburb": "Daglish",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "WA-6107-3a2f410bfd54767a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6107",
+    "suburb": "Beckenham",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "WA-6071-7950c603d186811d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6071",
+    "suburb": "Glen Forrest",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "WA-6008-f5f0b7b25d3611c5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6008",
+    "suburb": "Shenton Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "WA-6107-d73b1e92b511126e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6107",
+    "suburb": "Cannington",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "WA-6071-93c21aa9a595af49",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6071",
+    "suburb": "Hovea",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "WA-6008-1ad7158956715d11",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6008",
+    "suburb": "Subiaco",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "WA-6107-0fcd6564288b12aa",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6107",
+    "suburb": "East Cannington",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "WA-6069-ed6b1b9d972ecbe1",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6069",
+    "suburb": "Belhus",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "WA-6008-58012e31be955429",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6008",
+    "suburb": "Subiaco East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "WA-6107-d2187f10c004d6b0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6107",
+    "suburb": "Kenwick",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "WA-6069-0346a7f415383fc6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6069",
+    "suburb": "Brigadoon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "WA-6016-b5deba80551210ce",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6016",
+    "suburb": "Glendalough",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "WA-6107-333cc62180b4f4cf",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6107",
+    "suburb": "Queens Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "WA-6069-8d5c220ef817dc09",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6069",
+    "suburb": "Ellenbrook",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "WA-6016-22896962121d4228",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6016",
+    "suburb": "Mount Hawthorn",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "WA-6107-bc74acf61297892c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6107",
+    "suburb": "Wattle Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "WA-6069-ee2f295e701addce",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6069",
+    "suburb": "Ellenbrook East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "WA-6052-ccb177ea5ed20613",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6052",
+    "suburb": "Bedford",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "WA-6107-6ebecfa6063f2739",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6107",
+    "suburb": "Wilson",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "WA-6069-64d0eb28fb182208",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6069",
+    "suburb": "The Vines",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "WA-6052-45050d44ffa2baf1",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6052",
+    "suburb": "Inglewood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "WA-6149-19eccf050ffbb9f5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6149",
+    "suburb": "Bull Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "WA-6069-94917816334b8057",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6069",
+    "suburb": "Upper Swan",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "WA-6100-0a48995e3edb8380",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6100",
+    "suburb": "Burswood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "WA-6149-6da67342fa0a5541",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6149",
+    "suburb": "Leeming",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "WA-6166-f29ea0bbd4831ccf",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6166",
+    "suburb": "Coogee",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "WA-6100-0a82c23dad0461ba",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6100",
+    "suburb": "Lathlain",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "WA-6150-1fbb0deb9f963c5a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6150",
+    "suburb": "Bateman",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "WA-6166-43890c56551baf3b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6166",
+    "suburb": "Henderson",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "WA-6100-e900305af80ff3a1",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6100",
+    "suburb": "Victoria Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "WA-6150-a771175dd32a2a3c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6150",
+    "suburb": "Murdoch",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "WA-6166-27e64507417240d6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6166",
+    "suburb": "Munster",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "WA-6014-c941697c325295d0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6014",
+    "suburb": "Floreat",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "WA-6150-50216d6e6513e7b4",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6150",
+    "suburb": "Winthrop",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "WA-6166-c844627d3ff5527e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6166",
+    "suburb": "Wattleup",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "WA-6014-e6cb91d699dc4ff7",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6014",
+    "suburb": "Floreat Forum",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "WA-6155-ce7da73046677895",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6155",
+    "suburb": "Canning Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "WA-6028-33dde2fa8044fb2c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6028",
+    "suburb": "Burns Beach",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "WA-6014-6c3732706864470f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6014",
+    "suburb": "Jolimont",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "WA-6155-19533116b04b5cbe",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6155",
+    "suburb": "Canning Vale Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "WA-6028-c7fda948bb3b0945",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6028",
+    "suburb": "Currambine",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "WA-6014-f3e05dcb705617a9",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6014",
+    "suburb": "Wembley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "WA-6155-459cbabc359628b4",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6155",
+    "suburb": "Canning Vale South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "WA-6028-4e2f9faab4fb1f29",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6028",
+    "suburb": "Iluka",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "WA-6060-c95333da8101621c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6060",
+    "suburb": "Dog Swamp",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "WA-6155-637db51dbd14b1a7",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6155",
+    "suburb": "Willetton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "WA-6028-95797084ab53267b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6028",
+    "suburb": "Kinross",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "WA-6060-3de7f92fad61845d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6060",
+    "suburb": "Joondanna",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "WA-6157-aff3ed264dc16d38",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6157",
+    "suburb": "Bicton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "WA-6072-efa4063ee3638d6a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6072",
+    "suburb": "Mahogany Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "WA-6060-df3f1da2bf70fa69",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6060",
+    "suburb": "Tuart Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "WA-6157-425b2334b3dd89b5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6157",
+    "suburb": "Palmyra",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "WA-6112-6ca77f96e7c9445a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Armadale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "WA-6060-49921ddf169314e7",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6060",
+    "suburb": "Yokine",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "WA-6157-0d6212d76506cfb1",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6157",
+    "suburb": "Palmyra Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "WA-6112-b29505c68cb7164e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Bedfordale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "WA-6103-bea9e9704929a57b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6103",
+    "suburb": "Rivervale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "WA-6955-4f40c1b59b364eee",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6955",
+    "suburb": "Willetton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "WA-6112-ec73df06d9d99109",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Brookdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "WA-6913-7efa8cc5f541c015",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6913",
+    "suburb": "Wembley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "WA-6957-624299fded51e0b3",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6957",
+    "suburb": "Palmyra",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "WA-6112-d0dc19c22e288a71",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Forrestdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "WA-6009-d224bc75f22a30bf",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6009",
+    "suburb": "Broadway Nedlands",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "WA-6961-3c31338e8d963640",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6961",
+    "suburb": "Palmyra Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "WA-6112-e37fb13d9133bbcb",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Harrisdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "WA-6009-ae4b8941061396f3",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6009",
+    "suburb": "Crawley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "WA-6970-cbd356576464a8b6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6970",
+    "suburb": "Canning Vale Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "WA-6112-538352c3a8014524",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Haynes",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "WA-6009-38e93a9838b5a937",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6009",
+    "suburb": "Dalkeith",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "WA-6980-a117a6b023f24dc5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6980",
+    "suburb": "Cannington",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "WA-6112-69a461e3daa67982",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Hilbert",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "WA-6009-cf73b1dacdf13f88",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6009",
+    "suburb": "Nedlands",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "WA-6987-4310763c6aaf68bd",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6987",
+    "suburb": "Cannington",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "WA-6112-afb63fa36f075aa0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Mount Nasura",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "WA-6009-be173e39f837b7e3",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6009",
+    "suburb": "Nedlands Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "WA-6020-457a04d878d15c96",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6020",
+    "suburb": "Carine",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "WA-6112-e85ad74f2e52290c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Mount Richon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "WA-6017-5250b6afcf5cbc6f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6017",
+    "suburb": "Herdsman",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "WA-6020-4eddb9b6c45426f7",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6020",
+    "suburb": "Marmion",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "WA-6112-b127ab927ecc27e5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Piara Waters",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "WA-6017-230e6c9a446e5700",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6017",
+    "suburb": "Osborne Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 1"
+  },
+  {
+    "id": "WA-6020-afd22287e5fb4ab8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6020",
+    "suburb": "North Beach",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 1"
+  },
+  {
+    "id": "WA-6112-1e5393cab46fc654",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Seville Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 1"
+  },
+  {
+    "id": "WA-6017-369af8a8aa5ba0e9",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6017",
+    "suburb": "Osborne Park Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 2"
+  },
+  {
+    "id": "WA-6020-77630142c7c2d573",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6020",
+    "suburb": "Sorrento",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 2"
+  },
+  {
+    "id": "WA-6112-99ce67cab74f8ddd",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6112",
+    "suburb": "Wungong",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 2"
+  },
+  {
+    "id": "WA-6053-e424efb3967ac189",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6053",
+    "suburb": "Bayswater",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 3"
+  },
+  {
+    "id": "WA-6020-bb66bd8a3328955b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6020",
+    "suburb": "Watermans Bay",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 3"
+  },
+  {
+    "id": "WA-6111-d908d2354aef316d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6111",
+    "suburb": "Canning Mills",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 3"
+  },
+  {
+    "id": "WA-6060-94315b42f41658d4",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6060",
+    "suburb": "Yokine South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 4"
+  },
+  {
+    "id": "WA-6024-454319f8dcdb0ae3",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6024",
+    "suburb": "Greenwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 4"
+  },
+  {
+    "id": "WA-6111-72e81611b94ea4c6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6111",
+    "suburb": "Champion Lakes",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 4"
+  },
+  {
+    "id": "WA-6101-f1e88727ba2fb888",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6101",
+    "suburb": "Carlisle",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "WA-6024-4dcb136de193eb4a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6024",
+    "suburb": "Warwick",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "WA-6111-bc1f101ff661455c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6111",
+    "suburb": "Karragullen",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "WA-6101-f4f657128c528ef9",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6101",
+    "suburb": "Carlisle North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "WA-6057-40acdff3a4853ab9",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6057",
+    "suburb": "High Wycombe",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "WA-6111-038e4ac44fe7f8c4",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6111",
+    "suburb": "Kelmscott",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "WA-6101-9c939080ded128b5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6101",
+    "suburb": "Carlisle South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "WA-6057-2d6c56fcfe965eda",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6057",
+    "suburb": "Maida Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "WA-6111-6e466cfc2c07e666",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6111",
+    "suburb": "Kelmscott Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "WA-6101-1532e362462875df",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6101",
+    "suburb": "East Victoria Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "WA-6147-27190d48a837c494",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6147",
+    "suburb": "Langford",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "WA-6111-ed2b331db5fc7dba",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6111",
+    "suburb": "Roleystone",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "WA-6152-ed457440f0b54853",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6152",
+    "suburb": "Como",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "WA-6147-5dbe171177cfc609",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6147",
+    "suburb": "Lynwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "WA-6111-5f2439b733103771",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6111",
+    "suburb": "Westfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "WA-6152-4201b13fd0143da0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6152",
+    "suburb": "Karawara",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "WA-6147-4ab2f6adf588b8e6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6147",
+    "suburb": "Parkwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "WA-6991-7603e32359b9ded0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6991",
+    "suburb": "Kelmscott",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "WA-6152-0c1cf80f19b6d25c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6152",
+    "suburb": "Manning",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "WA-6158-e6677d6e41090a62",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6158",
+    "suburb": "East Fremantle",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "WA-6997-ebda54e672974669",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6997",
+    "suburb": "Kelmscott Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "WA-6152-63facab1fb82cc6b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6152",
+    "suburb": "Salter Point",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "WA-6058-fbd8c5bffde2e7f7",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6058",
+    "suburb": "Forrestfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "WA-6065-704c0a7f542e2cb8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Ashby",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "WA-6152-c2cd0e1dc08dc2e7",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6152",
+    "suburb": "Waterford",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "WA-6159-09554b6c04535221",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6159",
+    "suburb": "North Fremantle",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "WA-6065-e241b7b407a38322",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Darch",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "WA-6907-5023a2c74ecbf85a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6907",
+    "suburb": "Nedlands",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "WA-6023-f4b3503e8e136543",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6023",
+    "suburb": "Duncraig",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "WA-6065-f03bdde0cac56376",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Gnangara",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "WA-6909-7045db892d1fe662",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6909",
+    "suburb": "Nedlands",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "WA-6023-0cb400304abd88d4",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6023",
+    "suburb": "Glengarry",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "WA-6065-c162ae59f0e724fd",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Hocking",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "WA-6059-fc88e8b704fbdfb3",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6059",
+    "suburb": "Dianella",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "WA-6055-53b57ad10dd7f5d6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6055",
+    "suburb": "Dayton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "WA-6065-a102fa56d9cadb36",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Jandabup",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "WA-6062-a1df9aa4ae59a72f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6062",
+    "suburb": "Embleton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "WA-6067-c60096802bf81f8a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6067",
+    "suburb": "Cullacabardee",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "WA-6065-f802f316652911a3",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Kingsway",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "WA-6062-8b2582f5f5d0e6ed",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6062",
+    "suburb": "Morley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "WA-6068-7f8111403569f6f8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6068",
+    "suburb": "Whiteman",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "WA-6065-d8736dd2c5492565",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Landsdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "WA-6062-381e69413855593b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6062",
+    "suburb": "Noranda",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "WA-6108-88c4aed1860daa12",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6108",
+    "suburb": "Thornlie",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "WA-6065-2500602078556cb8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Lexia",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "WA-6102-2c8e082ff3c7b701",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6102",
+    "suburb": "Bentley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "WA-6160-22e01ff669765361",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6160",
+    "suburb": "Fremantle",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "WA-6065-c63f4742e8bdde58",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Madeley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "WA-6102-2c7940e83040b85e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6102",
+    "suburb": "Bentley Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "WA-6055-df5dbdf5aec8f1e9",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6055",
+    "suburb": "Bushmead",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "WA-6065-f83529a96b7d850c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Mariginiup",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "WA-6102-435c8e0b347d6733",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6102",
+    "suburb": "St James",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "WA-6055-ff8c6f38bec17ebc",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6055",
+    "suburb": "Caversham",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "WA-6065-fa1cc5ac820617b0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Melaleuca",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "WA-6983-fadfc862a8455483",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6983",
+    "suburb": "Bentley Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "WA-6055-a17363560a2bada6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6055",
+    "suburb": "Guildford",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "WA-6065-070d639dab7126e8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Pearsall",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "WA-6010-b08d0762c337ed8a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6010",
+    "suburb": "Claremont",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "WA-6055-4ab461f8ad251cf6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6055",
+    "suburb": "Hazelmere",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "WA-6065-ca408a0e7d174170",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Pinjar",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "WA-6010-c1cc3f2d1f9eb50b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6010",
+    "suburb": "Claremont North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "WA-6055-1724364cfd697e3a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6055",
+    "suburb": "Henley Brook",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "WA-6065-c46052312ec85339",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Sinagra",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "WA-6010-80624acba1e1674e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6010",
+    "suburb": "Karrakatta",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "WA-6055-d046ffb0e5ade5a2",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6055",
+    "suburb": "South Guildford",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "WA-6065-90727cee6800d2b2",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Tapping",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "WA-6010-ba99156f840c407d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6010",
+    "suburb": "Mount Claremont",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "WA-6055-ba9f04aa4395f9f5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6055",
+    "suburb": "West Swan",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "WA-6065-0cd7e4df4e65904d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Wangara",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "WA-6010-c8001ba35fa3ec1a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6010",
+    "suburb": "Swanbourne",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "WA-6162-d143c7491cb5a875",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6162",
+    "suburb": "Beaconsfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "WA-6065-35392071ce771cdd",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Wangara Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "WA-6102-8e30ec007402b666",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6102",
+    "suburb": "Bentley South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "WA-6162-1bce5584c9b57a67",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6162",
+    "suburb": "South Fremantle",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "WA-6065-125aa79379c7ddb7",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6065",
+    "suburb": "Wanneroo",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "WA-6153-4909e5012dac8f5a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6153",
+    "suburb": "Applecross",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "WA-6162-6a53e29744576e9b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6162",
+    "suburb": "White Gum Valley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "WA-6077-31fa440a329ea827",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6077",
+    "suburb": "Gnangara",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "WA-6153-b6bc5ff619a2def1",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6153",
+    "suburb": "Applecross North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "WA-6163-5093565454054706",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "Bibra Lake",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "WA-6077-89862243037c1f8e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6077",
+    "suburb": "Jandabup",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "WA-6153-36a142030ef0a61f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6153",
+    "suburb": "Ardross",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "WA-6163-cbef6c4dc4e0b19a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "Bibra Lake Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "WA-6078-bb197cea2102109d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6078",
+    "suburb": "Mariginiup",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "WA-6153-f748d0e9403dde33",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6153",
+    "suburb": "Brentwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "WA-6163-33126c051f0c0829",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "Coolbellup",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "WA-6078-c155057c427b40ea",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6078",
+    "suburb": "Pinjar",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "WA-6153-724b3c419c1b9113",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6153",
+    "suburb": "Canning BridgeApplecross",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "WA-6163-2b95ded234302c0c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "Hamilton Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "WA-6079-5f24635e15bce58c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6079",
+    "suburb": "Lexia",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "WA-6153-687531c3f205e2de",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6153",
+    "suburb": "Mount Pleasant",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "WA-6163-ceb4b60194d431d0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "Hilton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "WA-6079-871499f8fce41040",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6079",
+    "suburb": "Melaleuca",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "WA-6916-370827cbf7e769af",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6916",
+    "suburb": "Osborne Park Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "WA-6163-88879e08e995bd78",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "Kardinya",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "WA-6081-1fc5f924c24c6526",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6081",
+    "suburb": "Parkerville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "WA-6953-0df3e12158b9782b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6953",
+    "suburb": "Applecross",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "WA-6163-321d776f69191691",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "North Lake",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "WA-6081-94b39fcfc3046332",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6081",
+    "suburb": "Stoneville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "WA-6015-159173d3d50cefd6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6015",
+    "suburb": "City Beach",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "WA-6163-21e37a840d030f51",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "O'connor",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "WA-6165-706696757d3c3bb3",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6165",
+    "suburb": "Hope Valley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "WA-6018-f3ca67193dd0810d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6018",
+    "suburb": "Churchlands",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "WA-6163-7e19169736f99568",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "Samson",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "WA-6165-8b1288143171a4c0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6165",
+    "suburb": "Naval Base",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "WA-6018-1b0861254e18f8f9",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6018",
+    "suburb": "Doubleview",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 40"
+  },
+  {
+    "id": "WA-6163-d1d11abd651a3f1b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "Spearwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 40"
+  },
+  {
+    "id": "WA-6947-a79c1f5955932d18",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6947",
+    "suburb": "Wangara Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 40"
+  },
+  {
+    "id": "WA-6018-27bfe85beb6909bc",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6018",
+    "suburb": "Gwelup",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 41"
+  },
+  {
+    "id": "WA-6965-af49d3e0604d012d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6965",
+    "suburb": "Bibra Lake Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 41"
+  },
+  {
+    "id": "WA-6031-89a2b958c43a5c52",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6031",
+    "suburb": "Banksia Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 41"
+  },
+  {
+    "id": "WA-6018-b2da7fe8e92df082",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6018",
+    "suburb": "Gwelup Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 42"
+  },
+  {
+    "id": "WA-6026-2d40635e8ff2eba5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6026",
+    "suburb": "Kingsley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 42"
+  },
+  {
+    "id": "WA-6031-f9eab1d51555e1ab",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6031",
+    "suburb": "Carramar",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 42"
+  },
+  {
+    "id": "WA-6018-64011b217f2b48a0",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6018",
+    "suburb": "Innaloo",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 43"
+  },
+  {
+    "id": "WA-6026-5ad51685329a45ea",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6026",
+    "suburb": "Woodvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 43"
+  },
+  {
+    "id": "WA-6031-4dd731e1d9b14a69",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6031",
+    "suburb": "Neerabup",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 43"
+  },
+  {
+    "id": "WA-6018-7dc7bea36ee93f23",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6018",
+    "suburb": "Karrinyup",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 44"
+  },
+  {
+    "id": "WA-6055-435d89bb0e0282a5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6055",
+    "suburb": "Brabham",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 44"
+  },
+  {
+    "id": "WA-6121-5b293dc2fbb46da8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6121",
+    "suburb": "Oakford",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 44"
+  },
+  {
+    "id": "WA-6018-607fb94be9da6d12",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6018",
+    "suburb": "Woodlands",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 45"
+  },
+  {
+    "id": "WA-6109-f8f2d3a57f1038f8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6109",
+    "suburb": "Maddington",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 45"
+  },
+  {
+    "id": "WA-6121-19e0e974a378de18",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6121",
+    "suburb": "Oldbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 45"
+  },
+  {
+    "id": "WA-6019-de2f24d6c052e0d6",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6019",
+    "suburb": "Scarborough",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 46"
+  },
+  {
+    "id": "WA-6109-913013cb4090f653",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6109",
+    "suburb": "Orange Grove",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 46"
+  },
+  {
+    "id": "WA-6167-73b81124951af7a2",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Anketell",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 46"
+  },
+  {
+    "id": "WA-6019-980d6bc86ef4c3fd",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6019",
+    "suburb": "Wembley Downs",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 47"
+  },
+  {
+    "id": "WA-6163-782d58782233253a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6163",
+    "suburb": "North Coogee",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 47"
+  },
+  {
+    "id": "WA-6167-ad4e2d37896eca61",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Bertram",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 47"
+  },
+  {
+    "id": "WA-6021-3728d3fbb3452534",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6021",
+    "suburb": "Balcatta",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 48"
+  },
+  {
+    "id": "WA-6025-b7d4402484a8c7ae",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6025",
+    "suburb": "Craigie",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 48"
+  },
+  {
+    "id": "WA-6167-5da45a238bbe7d24",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Calista",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 48"
+  },
+  {
+    "id": "WA-6021-3981484438a80ce8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6021",
+    "suburb": "Stirling",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 49"
+  },
+  {
+    "id": "WA-6025-427d289f8bc3f08a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6025",
+    "suburb": "Hillarys",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 49"
+  },
+  {
+    "id": "WA-6167-f9a9539268345c5d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Casuarina",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 49"
+  },
+  {
+    "id": "WA-6054-7719527ac7fe3cba",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6054",
+    "suburb": "Ashfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 50"
+  },
+  {
+    "id": "WA-6025-2f056d1ca95b6edd",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6025",
+    "suburb": "Kallaroo",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 50"
+  },
+  {
+    "id": "WA-6167-84bd7644578b1b87",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Kwinana Beach",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 50"
+  },
+  {
+    "id": "WA-6054-9ff342930ebe795f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6054",
+    "suburb": "Bassendean",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 51"
+  },
+  {
+    "id": "WA-6025-08ef1b8d83e5e0d8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6025",
+    "suburb": "Padbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 51"
+  },
+  {
+    "id": "WA-6167-2f8faca0f03d4006",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Kwinana Town Centre",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 51"
+  },
+  {
+    "id": "WA-6054-62f55d616f979f48",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6054",
+    "suburb": "Bassendean Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 52"
+  },
+  {
+    "id": "WA-6056-bc582730d9caf1e5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Baskerville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 52"
+  },
+  {
+    "id": "WA-6167-1ac1a58a5d4618af",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Mandogalup",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 52"
+  },
+  {
+    "id": "WA-6054-844db5bfcfd3d88a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6054",
+    "suburb": "Eden Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 53"
+  },
+  {
+    "id": "WA-6056-ddf47a787ce2dbbc",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Bellevue",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 53"
+  },
+  {
+    "id": "WA-6167-06059708929abf15",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Medina",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 53"
+  },
+  {
+    "id": "WA-6054-6834ee3d791ad732",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6054",
+    "suburb": "Kiara",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 54"
+  },
+  {
+    "id": "WA-6056-9aea06dcc68c4d9f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Boya",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 54"
+  },
+  {
+    "id": "WA-6167-a8b12d60d431ef2e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Orelia",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 54"
+  },
+  {
+    "id": "WA-6054-80e37db7bfa35b6e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6054",
+    "suburb": "Lockridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 55"
+  },
+  {
+    "id": "WA-6056-f46ac8aeb79c512a",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Greenmount",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 55"
+  },
+  {
+    "id": "WA-6167-51a1a1b1d28096a7",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Parmelia",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 55"
+  },
+  {
+    "id": "WA-6061-e9a62944f30b3ac5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6061",
+    "suburb": "Balga",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 56"
+  },
+  {
+    "id": "WA-6056-3c63e6692e160c15",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Helena Valley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 56"
+  },
+  {
+    "id": "WA-6167-1940ae0b5ad9f9c8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Postans",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 56"
+  },
+  {
+    "id": "WA-6061-8fc250ca63dd183b",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6061",
+    "suburb": "Mirrabooka",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 57"
+  },
+  {
+    "id": "WA-6056-c20c13187ecea594",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Herne Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 57"
+  },
+  {
+    "id": "WA-6167-93c34bcf64ea27ce",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "The Spectacles",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 57"
+  },
+  {
+    "id": "WA-6061-7a32ed7fc918a6b8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6061",
+    "suburb": "Nollamara",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 58"
+  },
+  {
+    "id": "WA-6056-9cb3a56285ba4486",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Jane Brook",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 58"
+  },
+  {
+    "id": "WA-6167-18c088b73d5cec0c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6167",
+    "suburb": "Wandi",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 58"
+  },
+  {
+    "id": "WA-6061-7019b72116328e41",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6061",
+    "suburb": "Westminster",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 1"
+  },
+  {
+    "id": "WA-6056-ee636b0c882038e7",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Koongamia",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 1"
+  },
+  {
+    "id": "WA-6030-fcef7ae5ea962bfc",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6030",
+    "suburb": "Clarkson",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 1"
+  },
+  {
+    "id": "WA-6105-94dc0a1bd97cb51c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6105",
+    "suburb": "Cloverdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 2"
+  },
+  {
+    "id": "WA-6056-67b5d9b7edb9a65c",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Middle Swan",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 2"
+  },
+  {
+    "id": "WA-6030-1bf51cb95b8fbe04",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6030",
+    "suburb": "Merriwa",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 2"
+  },
+  {
+    "id": "WA-6105-f0c84b3f4851de55",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6105",
+    "suburb": "Kewdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 3"
+  },
+  {
+    "id": "WA-6056-51b1da28d8ea1b81",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Midland",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 3"
+  },
+  {
+    "id": "WA-6030-77726a043f5569f5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6030",
+    "suburb": "Mindarie",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 3"
+  },
+  {
+    "id": "WA-6105-09a525d393bfb9e2",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6105",
+    "suburb": "Perth Airport",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 4"
+  },
+  {
+    "id": "WA-6056-01bc195bb3a62f9e",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Midvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 4"
+  },
+  {
+    "id": "WA-6030-9bfaa0621e507f19",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6030",
+    "suburb": "Quinns Rocks",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 4"
+  },
+  {
+    "id": "WA-6106-50fd362953635d39",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6106",
+    "suburb": "Welshpool",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 5"
+  },
+  {
+    "id": "WA-6056-45ed832e8a20edca",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Millendon",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 5"
+  },
+  {
+    "id": "WA-6030-b5824d519d5baf3f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6030",
+    "suburb": "Ridgewood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 5"
+  },
+  {
+    "id": "WA-6106-8842834ea5687d47",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6106",
+    "suburb": "Welshpool Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 6"
+  },
+  {
+    "id": "WA-6056-0d74729cc00ac5ff",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Red Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 6"
+  },
+  {
+    "id": "WA-6030-0689467927bd9b9f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6030",
+    "suburb": "Tamala Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 6"
+  },
+  {
+    "id": "WA-6918-9188eac6ca324871",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6918",
+    "suburb": "Innaloo",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 7"
+  },
+  {
+    "id": "WA-6056-3ca3de61e1425b7f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Stratton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 7"
+  },
+  {
+    "id": "WA-6161-961f92ee1097e72d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6161",
+    "suburb": "Rottnest Island",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 7"
+  },
+  {
+    "id": "WA-6942-788e1e8794c58d5f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6942",
+    "suburb": "Bassendean Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 8"
+  },
+  {
+    "id": "WA-6056-6d81b21fe1c6f30d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Swan View",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 8"
+  },
+  {
+    "id": "WA-6074-ab75b202cc75d134",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6074",
+    "suburb": "Sawyers Valley",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 8"
+  },
+  {
+    "id": "WA-6986-68e47511502fc533",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6986",
+    "suburb": "Welshpool Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 9"
+  },
+  {
+    "id": "WA-6056-724480b0bdafe7a2",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Viveash",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 9"
+  },
+  {
+    "id": "WA-6122-e1e99ec78b90b6b5",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6122",
+    "suburb": "Byford",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 9"
+  },
+  {
+    "id": "WA-6090-84aa35bbfcee2514",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6090",
+    "suburb": "Malaga",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 10"
+  },
+  {
+    "id": "WA-6056-f5a6627452181219",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6056",
+    "suburb": "Woodbridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 10"
+  },
+  {
+    "id": "WA-6122-4f8713c6d5dd1e96",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6122",
+    "suburb": "Cardup",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 10"
+  },
+  {
+    "id": "WA-6148-3a1849137fd7c07f",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6148",
+    "suburb": "Ferndale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 11"
+  },
+  {
+    "id": "WA-6164-e803257ab48e0012",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Cockburn Central",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 11"
+  },
+  {
+    "id": "WA-6122-89bec7dbc47b7fb4",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6122",
+    "suburb": "Darling Downs",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 11"
+  },
+  {
+    "id": "WA-6148-33085171d5120425",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6148",
+    "suburb": "Riverton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 12"
+  },
+  {
+    "id": "WA-6164-6024d831044800df",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6164",
+    "suburb": "Treeby",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 12"
+  },
+  {
+    "id": "WA-6122-02a7c513e87d0201",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6122",
+    "suburb": "Karrakup",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 12"
+  },
+  {
+    "id": "WA-6148-216350cfb9495b14",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6148",
+    "suburb": "Rossmoyne",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 13"
+  },
+  {
+    "id": "WA-6923-cb3ddc6c3ae873b8",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6923",
+    "suburb": "Hillarys",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 13"
+  },
+  {
+    "id": "WA-6148-1c5bc2e362a1a139",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6148",
+    "suburb": "Shelley",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 14"
+  },
+  {
+    "id": "WA-6070-5eceb900d1fb0b9d",
+    "state": "WA",
+    "zone": "A",
+    "postcode": "6070",
+    "suburb": "Darlington",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 14"
+  }
+]

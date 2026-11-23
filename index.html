@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#faf9f8">
+  <title>Australian Suburb Pronunciation Library | Move My Stuff</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="#directory"><img src="./assets/mms-logo.png" width="1536" height="393" alt="Move My Stuff"></a>
+      <nav aria-label="Main navigation">
+        <a href="#directory" aria-current="page">Suburbs</a>
+        <a href="#names">General names</a>
+        <a href="#practice">Practice</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="wrap" tabindex="-1">
+    <section id="directory" aria-labelledby="directory-title">
+      <h1 id="directory-title">Australian Suburb<br class="desktop-break"> Pronunciation Library</h1>
+      <p class="intro">Learn how to pronounce Australian suburb names with confidence.</p>
+
+      <div class="filters">
+        <label for="query">Search by suburb or postcode</label>
+        <div class="search">
+          <span aria-hidden="true" class="magnifier"></span>
+          <input id="query" type="search" placeholder="e.g. Werribee or 3030" autocomplete="off">
+        </div>
+        <div id="states" class="states" role="group" aria-label="Filter by state"></div>
+        <label class="check guide-filter"><input id="with-guides" type="checkbox"> Show only sourced guides</label>
+      </div>
+
+      <div class="results-heading">
+        <h2>Suburbs and localities</h2>
+        <p id="results-status" role="status">Loading localities…</p>
+      </div>
+      <p class="audio-note">Listen plays at normal speed. Slow plays at 70%. Draft guides are generated from spelling and may differ from local usage.</p>
+      <div id="results" class="results" aria-label="Search results"></div>
+      <nav id="pages" aria-label="Results pagination" hidden>
+        <button type="button" id="previous">Previous</button>
+        <span id="page-number"></span>
+        <button type="button" id="next-page">Next</button>
+      </nav>
+    </section>
+
+    <section id="names" aria-labelledby="names-title" hidden>
+      <h1 id="names-title">General names</h1>
+      <p class="intro">Look up given names used in Australia. When speaking with someone, follow the pronunciation they use.</p>
+      <div class="filters names-filters">
+        <div>
+          <label for="name-query">Search by name</label>
+          <div class="search">
+            <span aria-hidden="true" class="magnifier"></span>
+            <input id="name-query" type="search" placeholder="e.g. Dusan, Олена or Siobhán" autocomplete="off">
+          </div>
+        </div>
+        <div>
+          <label for="name-language">Pronunciation language</label>
+          <select id="name-language"><option value="">All languages</option></select>
+        </div>
+      </div>
+      <div class="results-heading">
+        <h2>Given names</h2>
+        <p id="names-status" role="status">Loading names…</p>
+      </div>
+      <p class="audio-note">Written guides approximate the sounds in English. Listen uses device speech. Slow plays at 70% in the local preview.</p>
+      <div id="names-results" class="results" aria-label="Name search results"></div>
+    </section>
+
+    <section id="practice" aria-labelledby="practice-title" hidden>
+      <h1 id="practice-title">Pronunciation Practice</h1>
+      <p class="intro">Say the name aloud, then reveal the pronunciation and listen.</p>
+      <div class="filters practice-filters">
+        <div><label for="practice-state">Choose a state</label><select id="practice-state"></select></div>
+        <label class="check"><input id="verified-only" type="checkbox" checked> Verified pronunciations only</label>
+      </div>
+      <div class="practice-card">
+        <div id="practice-name" aria-live="polite"></div>
+        <button type="button" class="primary" id="reveal">Reveal Pronunciation</button>
+        <div id="answer" aria-live="polite"></div>
+        <div class="actions" id="practice-actions">
+          <button type="button" class="primary" id="next-suburb">Next Suburb</button>
+          <button type="button" id="skip">Skip</button>
+          <button type="button" id="shuffle">Shuffle</button>
+        </div>
+      </div>
+    </section>
+    <p id="load-error" role="alert" hidden></p>
+    <noscript>Enable JavaScript to search the directory and use practice mode.</noscript>
+  </main>
+  <div id="playback-notice" class="playback-notice" role="status" aria-atomic="true"></div>
+  <footer class="wrap">Move My Stuff</footer>
+  <template id="row-template">
+    <article class="row">
+      <div><h3 class="locality"></h3><p class="location"></p></div>
+      <div class="pronunciation"></div>
+      <div class="actions audio-controls"></div>
+    </article>
+  </template>
+</body>
+</html>

@@ -1,0 +1,4349 @@
+[
+  {
+    "id": "VIC-3000-f30db8974dee73ec",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3000",
+    "suburb": "Melbourne CBD",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "VIC-3073-f7beb35859c5ee80",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3073",
+    "suburb": "Reservoir",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "VIC-3150-2376403e922e37d3",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3150",
+    "suburb": "Brandon Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 5"
+  },
+  {
+    "id": "VIC-3001-4fb4a778dd4b608d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3001",
+    "suburb": "Melbourne GPO",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "VIC-3073-b61cba9a9e97f6f8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3073",
+    "suburb": "Keon Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "VIC-3150-cc88d69d262ea0f3",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3150",
+    "suburb": "Glen Waverley",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 6"
+  },
+  {
+    "id": "VIC-3002-a3e2d2023aa1195a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3002",
+    "suburb": "East Melbourne",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "VIC-3074-ae773f4ee62d1877",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3074",
+    "suburb": "Thomastown",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "VIC-3151-7820bf0bb156edff",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3151",
+    "suburb": "Burwood Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 7"
+  },
+  {
+    "id": "VIC-3003-e9a8c57e20281acf",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3003",
+    "suburb": "West Melbourne",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "VIC-3075-b7f7ac2145536077",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3075",
+    "suburb": "Lalor",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "VIC-3151-020464b2c79bb031",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3151",
+    "suburb": "Burwood East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 8"
+  },
+  {
+    "id": "VIC-3005-06fd07695ec852c5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3005",
+    "suburb": "World Trade Centre",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "VIC-3076-f8c5b585467ba5fb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3076",
+    "suburb": "Epping Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "VIC-3152-4595b7073d652923",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3152",
+    "suburb": "Wantirna South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 9"
+  },
+  {
+    "id": "VIC-3006-455d64b7569a5ae0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3006",
+    "suburb": "South Wharf",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "VIC-3076-1bdf02e805740451",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3076",
+    "suburb": "Epping",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "VIC-3152-664683203da29f7f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3152",
+    "suburb": "Knox City Centre",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 10"
+  },
+  {
+    "id": "VIC-3006-58879eee725c6b16",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3006",
+    "suburb": "Southbank",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "VIC-3078-55cf12d50313832b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3078",
+    "suburb": "Alphington",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "VIC-3152-d5525deb883db597",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3152",
+    "suburb": "Wantirna",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 11"
+  },
+  {
+    "id": "VIC-3008-18a0d1a6e3647c43",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3008",
+    "suburb": "Docklands",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "VIC-3078-28fbfc4ed8731593",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3078",
+    "suburb": "Fairfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "VIC-3152-b3bd13698323caef",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3152",
+    "suburb": "Studfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 12"
+  },
+  {
+    "id": "VIC-3010-6da7703c67e27702",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3010",
+    "suburb": "University Of Melbourne",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "VIC-3079-58cc93505f509b41",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3079",
+    "suburb": "Ivanhoe",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "VIC-3153-95637994a687aa1a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3153",
+    "suburb": "Bayswater North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 13"
+  },
+  {
+    "id": "VIC-3011-c860da91a864e9ab",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3011",
+    "suburb": "Seddon",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "VIC-3079-6d34a2de09d2336c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3079",
+    "suburb": "Ivanhoe East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "VIC-3153-ecc20d85b34c98ed",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3153",
+    "suburb": "Bayswater",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 14"
+  },
+  {
+    "id": "VIC-3011-34437074a039abf4",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3011",
+    "suburb": "Seddon West",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "VIC-3079-a5f24d56b4794e9d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3079",
+    "suburb": "Ivanhoe North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "VIC-3154-6f787b7feee2b99f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3154",
+    "suburb": "The Basin",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 15"
+  },
+  {
+    "id": "VIC-3011-7beb11e055696690",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3011",
+    "suburb": "Footscray",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "VIC-3081-c215d620586b1cca",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3081",
+    "suburb": "Heidelberg West",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "VIC-3155-58e78d9ac5b0a6f7",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3155",
+    "suburb": "Boronia",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 16"
+  },
+  {
+    "id": "VIC-3012-95a4598ae7a961f6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3012",
+    "suburb": "Maidstone",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "VIC-3081-0c7ff817c353ceaf",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3081",
+    "suburb": "Heidelberg Rgh",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "VIC-3156-3852410158198ca7",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3156",
+    "suburb": "Lysterfield South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 17"
+  },
+  {
+    "id": "VIC-3012-aa05852006bc65b5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3012",
+    "suburb": "Tottenham",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "VIC-3081-b5f590e4b47f7217",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3081",
+    "suburb": "Bellfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "VIC-3156-b4f3e373415096f6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3156",
+    "suburb": "Lysterfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 18"
+  },
+  {
+    "id": "VIC-3012-8426d8e6c43f7cdc",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3012",
+    "suburb": "West Footscray",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "VIC-3081-1333dbdd3f97bb7c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3081",
+    "suburb": "Heidelberg Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "VIC-3156-b4ef51570af4b870",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3156",
+    "suburb": "Mountain Gate",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 19"
+  },
+  {
+    "id": "VIC-3012-e753070ac5419b68",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3012",
+    "suburb": "Brooklyn",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "VIC-3082-b95fd1991bf0d4ad",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3082",
+    "suburb": "Mill Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "VIC-3156-8c56d5eb49e9bf24",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3156",
+    "suburb": "Upper Ferntree Gully",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 20"
+  },
+  {
+    "id": "VIC-3012-48ac5f35c58cc49f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3012",
+    "suburb": "Kingsville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "VIC-3083-767568f123013365",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3083",
+    "suburb": "Kingsbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "VIC-3156-c950f41edec78fe6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3156",
+    "suburb": "Ferntree Gully",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 21"
+  },
+  {
+    "id": "VIC-3013-9d5f513177857c69",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3013",
+    "suburb": "Yarraville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "VIC-3083-214fa3b102858c52",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3083",
+    "suburb": "Bundoora",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "VIC-3158-bad126f02cb2570a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3158",
+    "suburb": "Upwey",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 22"
+  },
+  {
+    "id": "VIC-3013-7275cf19b5d40431",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3013",
+    "suburb": "Yarraville West",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "VIC-3083-3d720a560f7eae64",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3083",
+    "suburb": "La Trobe University",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "VIC-3160-6066a57daf80de47",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3160",
+    "suburb": "Tecoma",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 23"
+  },
+  {
+    "id": "VIC-3015-5ffff340b73a8a32",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3015",
+    "suburb": "Newport",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "VIC-3084-5fa0ef6ba7922158",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3084",
+    "suburb": "Viewbank",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "VIC-3160-6e3d1759099d054d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3160",
+    "suburb": "Belgrave Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 24"
+  },
+  {
+    "id": "VIC-3015-354e6cb15e77acfd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3015",
+    "suburb": "Spotswood",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "VIC-3084-491c294caf719f7f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3084",
+    "suburb": "Banyule",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "VIC-3160-9cb41660c854508c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3160",
+    "suburb": "Belgrave",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 25"
+  },
+  {
+    "id": "VIC-3015-a37c80dfed879378",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3015",
+    "suburb": "South Kingsville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "VIC-3084-e57c61160a0c1235",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3084",
+    "suburb": "Rosanna",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "VIC-3161-90a89c50d01c8289",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3161",
+    "suburb": "Caulfield North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 26"
+  },
+  {
+    "id": "VIC-3016-853042dd195a6081",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3016",
+    "suburb": "Williamstown North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "VIC-3084-0b81933c7c686fcd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3084",
+    "suburb": "Heidelberg",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "VIC-3161-27ecbf507103296c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3161",
+    "suburb": "Caulfield Junction",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 27"
+  },
+  {
+    "id": "VIC-3016-ca6872ff06d940c6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3016",
+    "suburb": "Williamstown",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "VIC-3084-17b3b8c400098b40",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3084",
+    "suburb": "Eaglemont",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "VIC-3162-1e1f464027c645d5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3162",
+    "suburb": "Caulfield South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 28"
+  },
+  {
+    "id": "VIC-3018-91908a433e01888b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3018",
+    "suburb": "Seaholme",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "VIC-3085-ce4607871e3fed02",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3085",
+    "suburb": "Yallambie",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "VIC-3162-e3c78aea7c374854",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3162",
+    "suburb": "Hopetoun Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 29"
+  },
+  {
+    "id": "VIC-3018-2fbdb6b708e73a8e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3018",
+    "suburb": "Altona",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "VIC-3085-1268a94a01c3de54",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3085",
+    "suburb": "Macleod West",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "VIC-3162-4a517dc3aef73193",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3162",
+    "suburb": "Caulfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 30"
+  },
+  {
+    "id": "VIC-3019-055948aa24183491",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3019",
+    "suburb": "Braybrook",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "VIC-3085-aa80369540b59c0d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3085",
+    "suburb": "Macleod",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "VIC-3163-c3f45ce36e7742b8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3163",
+    "suburb": "Glen Huntly",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 31"
+  },
+  {
+    "id": "VIC-3019-ca6dcf2c5d54d226",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3019",
+    "suburb": "Robinson",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "VIC-3087-71ed883ad06857a3",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3087",
+    "suburb": "Watsonia North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "VIC-3163-96f9dd26b0cd1ac2",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3163",
+    "suburb": "Carnegie",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 32"
+  },
+  {
+    "id": "VIC-3020-b6c0d0caf0f74c37",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3020",
+    "suburb": "Sunshine West",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "VIC-3087-ff205a063da15403",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3087",
+    "suburb": "Watsonia",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "VIC-3163-ceaf31265a422452",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3163",
+    "suburb": "Booran Road Po",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 33"
+  },
+  {
+    "id": "VIC-3020-11874fafaa6b4d14",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3020",
+    "suburb": "Albion",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "VIC-3088-7ae088ee0b8d83ed",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3088",
+    "suburb": "Saint Helena",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "VIC-3163-354d04c68ce9d28f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3163",
+    "suburb": "Murrumbeena",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 34"
+  },
+  {
+    "id": "VIC-3020-d6afac21923f3211",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3020",
+    "suburb": "Glengala",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "VIC-3088-4b1ff99967757dfb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3088",
+    "suburb": "Briar Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "VIC-3164-0959108df18a1002",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3164",
+    "suburb": "Dandenong South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 35"
+  },
+  {
+    "id": "VIC-3020-2eea0aca774fee24",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3020",
+    "suburb": "Sunshine North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "VIC-3088-c5f59ff001a2b9a5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3088",
+    "suburb": "Greensborough",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "VIC-3165-3fd2daf1d9bd44b9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3165",
+    "suburb": "Coatesville",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 36"
+  },
+  {
+    "id": "VIC-3020-f0f4c9c7dd5a9c3a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3020",
+    "suburb": "Sunshine",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "VIC-3088-855223d166ba9b52",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3088",
+    "suburb": "St Helena",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "VIC-3165-7c933e7b37651738",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3165",
+    "suburb": "Bentleigh East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 37"
+  },
+  {
+    "id": "VIC-3021-d1226ea48fd08ccf",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3021",
+    "suburb": "Albanvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "VIC-3089-d76b27e504705137",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3089",
+    "suburb": "Diamond Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "VIC-3166-008dc1ce0787a2f1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3166",
+    "suburb": "Oakleigh East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 38"
+  },
+  {
+    "id": "VIC-3021-77a331a1dab3ee78",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3021",
+    "suburb": "St Albans",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "VIC-3090-14ee39e80c28cf33",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3090",
+    "suburb": "Plenty",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "VIC-3166-62f5978633a2b37f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3166",
+    "suburb": "Oakleigh",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 39"
+  },
+  {
+    "id": "VIC-3021-dcc0bb00e6726c5a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3021",
+    "suburb": "Kealba",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "VIC-3091-ba7a56caf8b7e9ef",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3091",
+    "suburb": "Yarrambat",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "VIC-3166-dcde81dba2450692",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3166",
+    "suburb": "Huntingdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 40"
+  },
+  {
+    "id": "VIC-3021-544d60910db400ac",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3021",
+    "suburb": "Kings Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "VIC-3093-12b06ae2845b794c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3093",
+    "suburb": "Lower Plenty",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "VIC-3166-50969a69e768e64a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3166",
+    "suburb": "Hughesdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 41"
+  },
+  {
+    "id": "VIC-3022-4f95239940fa86e9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3022",
+    "suburb": "Deer Park East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "VIC-3094-7ed2c38eb70967f9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3094",
+    "suburb": "Montmorency",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "VIC-3167-3b31115483f050e3",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3167",
+    "suburb": "Oakleigh South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 42"
+  },
+  {
+    "id": "VIC-3022-3a8ab46ac2cea75b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3022",
+    "suburb": "Ardeer",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "VIC-3095-d4246cef4d9edb6f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3095",
+    "suburb": "Research",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "VIC-3168-8700d4fd813e2e11",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3168",
+    "suburb": "Notting Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 43"
+  },
+  {
+    "id": "VIC-3023-c72a3f937e8f4541",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3023",
+    "suburb": "Deer Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "VIC-3095-c4f67e4f1789ba6c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3095",
+    "suburb": "Eltham",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "VIC-3168-4e014fa15000a1dd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3168",
+    "suburb": "Clayton",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 44"
+  },
+  {
+    "id": "VIC-3023-7c12b1ee2344f2b9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3023",
+    "suburb": "Ravenhall",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "VIC-3095-0de8a429b90cbaf6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3095",
+    "suburb": "Eltham North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "VIC-3169-00c9bd37319fdf52",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3169",
+    "suburb": "Clarinda",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 45"
+  },
+  {
+    "id": "VIC-3023-6bd0fb3e71b8a8d5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3023",
+    "suburb": "Deer Park North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "VIC-3096-98d287e1d0ed0a0f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3096",
+    "suburb": "Wattle Glen",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "VIC-3169-a3d914468235e701",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3169",
+    "suburb": "Clayton South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 46"
+  },
+  {
+    "id": "VIC-3023-2157a96dfc26c359",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3023",
+    "suburb": "Burnside",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "VIC-3097-8c411780c5ccb601",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3097",
+    "suburb": "Bend Of Islands",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "VIC-3170-48afa271bf96fc9e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3170",
+    "suburb": "Waverley Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 47"
+  },
+  {
+    "id": "VIC-3023-70e1976fb5dfd54f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3023",
+    "suburb": "Cairnlea",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "VIC-3097-33a902afbcbc9428",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3097",
+    "suburb": "Kangaroo Ground",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "VIC-3170-a9dc193383e9b6ea",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3170",
+    "suburb": "Mulgrave",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 48"
+  },
+  {
+    "id": "VIC-3023-21f24b0af68f924a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3023",
+    "suburb": "Burnside Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "VIC-3097-dcbe5e3a51784749",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3097",
+    "suburb": "Watsons Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "VIC-3171-5d734dbec30ab8df",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3171",
+    "suburb": "Sandown Village",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 49"
+  },
+  {
+    "id": "VIC-3023-38a04572da30198f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3023",
+    "suburb": "Caroline Springs",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "VIC-3099-e737b602ef079412",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3099",
+    "suburb": "Hurstbridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "VIC-3171-ea4b947e5a9f3001",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3171",
+    "suburb": "Springvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 50"
+  },
+  {
+    "id": "VIC-3023-c0d8a32cd2513e6b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3023",
+    "suburb": "Fraser Rise",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "VIC-3099-f59261cc17807e6d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3099",
+    "suburb": "Cottles Bridge",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "VIC-3172-a05e39a77af16764",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3172",
+    "suburb": "Springvale South",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 51"
+  },
+  {
+    "id": "VIC-3024-db32bbee1e969f13",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3024",
+    "suburb": "Mount Cottrell",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "VIC-3099-b722e169a0399c03",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3099",
+    "suburb": "Nutfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "VIC-3172-f395e73fa0a9738e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3172",
+    "suburb": "Dingley Village",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 52"
+  },
+  {
+    "id": "VIC-3025-baea805428168be7",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3025",
+    "suburb": "Altona North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "VIC-3101-8a46fe6e443a820c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3101",
+    "suburb": "Kew",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "VIC-3173-16fcbe57a377d576",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3173",
+    "suburb": "Keysborough",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 53"
+  },
+  {
+    "id": "VIC-3025-00195ebb412b0bae",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3025",
+    "suburb": "Altona Gate",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "VIC-3101-ac663c929a05f957",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3101",
+    "suburb": "Cotham",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "VIC-3174-03c10beef4ede38c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3174",
+    "suburb": "Noble Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 54"
+  },
+  {
+    "id": "VIC-3025-97f38ba5a109ade3",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3025",
+    "suburb": "Altona East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 55"
+  },
+  {
+    "id": "VIC-3102-7d2d7a05b7ebf6cd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3102",
+    "suburb": "Kew East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 55"
+  },
+  {
+    "id": "VIC-3174-2820eaa664fe327e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3174",
+    "suburb": "Noble Park North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 55"
+  },
+  {
+    "id": "VIC-3026-082a7d871a2043df",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3026",
+    "suburb": "Laverton North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 56"
+  },
+  {
+    "id": "VIC-3103-ae993af9d4162530",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3103",
+    "suburb": "Balwyn",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 56"
+  },
+  {
+    "id": "VIC-3175-eae6f0f220c87b93",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3175",
+    "suburb": "Dandenong East",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 56"
+  },
+  {
+    "id": "VIC-3027-5659fc72cb3584bd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3027",
+    "suburb": "Williams Landing",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 57"
+  },
+  {
+    "id": "VIC-3103-b5debb3dbb4c0182",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3103",
+    "suburb": "Stradbroke Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 57"
+  },
+  {
+    "id": "VIC-3175-e3e0a6cc2073178b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3175",
+    "suburb": "Dunearn",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 57"
+  },
+  {
+    "id": "VIC-3028-e2077ff71f87dd0b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3028",
+    "suburb": "Altona Meadows",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 58"
+  },
+  {
+    "id": "VIC-3103-6f5d7b65e4b769de",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3103",
+    "suburb": "Deepdene",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 58"
+  },
+  {
+    "id": "VIC-3175-44ecc427a2eef50b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3175",
+    "suburb": "Dandenong North",
+    "consolidationClass": null,
+    "sourceLocation": "page 2, text line 58"
+  },
+  {
+    "id": "VIC-3028-0472b7ded5b0fcd0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3028",
+    "suburb": "Laverton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 1"
+  },
+  {
+    "id": "VIC-3103-cfa1116209825a55",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3103",
+    "suburb": "Balwyn East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 1"
+  },
+  {
+    "id": "VIC-3175-290a0e03ff7facca",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3175",
+    "suburb": "Dandenong",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 1"
+  },
+  {
+    "id": "VIC-3028-c2f4bf59298e95dd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3028",
+    "suburb": "Seabrook",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 2"
+  },
+  {
+    "id": "VIC-3104-ebf8f3c0e5a60a2b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3104",
+    "suburb": "Balwyn North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 2"
+  },
+  {
+    "id": "VIC-3175-020f5ea6f7ef4c43",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3175",
+    "suburb": "Bangholme",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 2"
+  },
+  {
+    "id": "VIC-3029-0b156aa71cbbd462",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3029",
+    "suburb": "Truganina",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 3"
+  },
+  {
+    "id": "VIC-3104-3e6bc0e3aa28bc89",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3104",
+    "suburb": "Greythorn",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 3"
+  },
+  {
+    "id": "VIC-3176-8326bbfc6e92415d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3176",
+    "suburb": "Scoresby Bc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 3"
+  },
+  {
+    "id": "VIC-3029-eb7bd763e171e0db",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3029",
+    "suburb": "Hoppers Crossing",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 4"
+  },
+  {
+    "id": "VIC-3105-93e789a8d73c1446",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3105",
+    "suburb": "Bulleen",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 4"
+  },
+  {
+    "id": "VIC-3177-ad0c6758c6fcb53a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3177",
+    "suburb": "Doveton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 4"
+  },
+  {
+    "id": "VIC-3029-d35d532aef0d58b7",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3029",
+    "suburb": "Tarneit",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "VIC-3106-8a042acebf70c8cb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3106",
+    "suburb": "Templestowe",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "VIC-3177-437b184578213718",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3177",
+    "suburb": "Eumemmerring",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 5"
+  },
+  {
+    "id": "VIC-3030-6f5883ec09398584",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3030",
+    "suburb": "Point Cook",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "VIC-3107-d654522b606b804c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3107",
+    "suburb": "Templestowe Lower",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "VIC-3178-cee4aef6fda9e0b8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3178",
+    "suburb": "Rowville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 6"
+  },
+  {
+    "id": "VIC-3030-5fffa9756c0e13ac",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3030",
+    "suburb": "Werribee",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "VIC-3108-73f158a5f83a976b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3108",
+    "suburb": "Doncaster",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "VIC-3179-d9c387b460fb8d38",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3179",
+    "suburb": "Scoresby",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 7"
+  },
+  {
+    "id": "VIC-3030-35a8bc8b20c10ff8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3030",
+    "suburb": "Derrimut",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "VIC-3109-e99696b49d42453a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3109",
+    "suburb": "Tunstall Square Po",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "VIC-3180-7465e9db924c5782",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3180",
+    "suburb": "Knoxfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 8"
+  },
+  {
+    "id": "VIC-3030-ed7deb1e57517057",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3030",
+    "suburb": "Werribee South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "VIC-3109-68832db5c818f7eb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3109",
+    "suburb": "Doncaster East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "VIC-3181-57c4480f7c69e52e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3181",
+    "suburb": "Prahran",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 9"
+  },
+  {
+    "id": "VIC-3031-6243cd891da01871",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3031",
+    "suburb": "Flemington",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "VIC-3109-2d16ce1a13db852c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3109",
+    "suburb": "Doncaster Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "VIC-3181-572c832c011318eb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3181",
+    "suburb": "Windsor",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 10"
+  },
+  {
+    "id": "VIC-3031-353cd16fb58bad55",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3031",
+    "suburb": "Kensington",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "VIC-3110-529e3e4f3c8626c6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3110",
+    "suburb": "Nunawading Bc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "VIC-3181-e7e7d70fb1131e92",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3181",
+    "suburb": "Prahran East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 11"
+  },
+  {
+    "id": "VIC-3032-860e06dce0c6c121",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3032",
+    "suburb": "Maribyrnong",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "VIC-3111-ad479a45ae656b39",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3111",
+    "suburb": "Donvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "VIC-3182-7ee219f41372077f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3182",
+    "suburb": "St Kilda West",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 12"
+  },
+  {
+    "id": "VIC-3032-8803900b9064a537",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3032",
+    "suburb": "Highpoint City",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "VIC-3113-6e49be8043a9fa27",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3113",
+    "suburb": "Warrandyte",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "VIC-3182-df953a77a71122d6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3182",
+    "suburb": "St Kilda South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 13"
+  },
+  {
+    "id": "VIC-3032-789a9d096e0400c8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3032",
+    "suburb": "Travancore",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "VIC-3113-62d7f8edb99c03fe",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3113",
+    "suburb": "North Warrandyte",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "VIC-3182-6cfddf0b15a38ffd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3182",
+    "suburb": "St Kilda",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 14"
+  },
+  {
+    "id": "VIC-3032-a9ed320821354058",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3032",
+    "suburb": "Ascot Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "VIC-3114-7038c73df70fe01c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3114",
+    "suburb": "Park Orchards",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "VIC-3183-4cd615510a5b5db8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3183",
+    "suburb": "St Kilda East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 15"
+  },
+  {
+    "id": "VIC-3033-c61c52d2bfba9835",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3033",
+    "suburb": "Keilor East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "VIC-3115-3dbf5854272213c7",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3115",
+    "suburb": "Wonga Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "VIC-3183-5a64efb21399bc73",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3183",
+    "suburb": "Balaclava",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 16"
+  },
+  {
+    "id": "VIC-3034-38343270dfe491ab",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3034",
+    "suburb": "Avondale Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "VIC-3116-693a5bd322652443",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3116",
+    "suburb": "Chirnside Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "VIC-3184-9c23231377840144",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3184",
+    "suburb": "Elwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 17"
+  },
+  {
+    "id": "VIC-3036-1b4bb103045abfe1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3036",
+    "suburb": "Keilor North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "VIC-3121-a23863e6a906e474",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3121",
+    "suburb": "Burnley",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "VIC-3184-6ce7a76bb19e1b01",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3184",
+    "suburb": "Brighton Road",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 18"
+  },
+  {
+    "id": "VIC-3036-f855b7f6b2d80d59",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3036",
+    "suburb": "Keilor",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "VIC-3121-00961cbe08b3694f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3121",
+    "suburb": "Cremorne",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "VIC-3185-e117e3e418d7629d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3185",
+    "suburb": "Elsternwick",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 19"
+  },
+  {
+    "id": "VIC-3037-1cdede2427c2ad57",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3037",
+    "suburb": "Hillside",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "VIC-3121-1b0d82686aa543fa",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3121",
+    "suburb": "Richmond",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "VIC-3185-5a0d4a9c51c7eb1f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3185",
+    "suburb": "Gardenvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 20"
+  },
+  {
+    "id": "VIC-3037-e63bc942a4aa27d8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3037",
+    "suburb": "Calder Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "VIC-3121-f70d7fcd1b305d40",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3121",
+    "suburb": "Richmond East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "VIC-3185-146ec7ec8f48ba34",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3185",
+    "suburb": "Ripponlea",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 21"
+  },
+  {
+    "id": "VIC-3037-ec9d7098656f6ab0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3037",
+    "suburb": "Sydenham",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "VIC-3121-9fe7bcd5919fd7b9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3121",
+    "suburb": "Burnley North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "VIC-3186-b79d3d96effde848",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3186",
+    "suburb": "Dendy",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 22"
+  },
+  {
+    "id": "VIC-3037-909b21e6f404a6b8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3037",
+    "suburb": "Taylors Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "VIC-3121-4f4e22224087e3c9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3121",
+    "suburb": "Richmond South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "VIC-3186-306a8fe9ff808460",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3186",
+    "suburb": "Brighton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 23"
+  },
+  {
+    "id": "VIC-3037-f52527fd89bb610f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3037",
+    "suburb": "Delahey",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "VIC-3121-3e4d6d11f4a2d177",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3121",
+    "suburb": "Richmond North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "VIC-3186-bd5fd04a9413ec34",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3186",
+    "suburb": "Brighton North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 24"
+  },
+  {
+    "id": "VIC-3038-38d4c1063cf061f8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3038",
+    "suburb": "Keilor Downs",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "VIC-3122-0f4c81035275ede4",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3122",
+    "suburb": "Glenferrie South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "VIC-3186-e3d857ab0869f597",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3186",
+    "suburb": "Were Street Po",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 25"
+  },
+  {
+    "id": "VIC-3038-d760455767de1faf",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3038",
+    "suburb": "Watergardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "VIC-3122-cef361274822c945",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3122",
+    "suburb": "Auburn South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "VIC-3187-da320952f246b792",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3187",
+    "suburb": "North Road",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 26"
+  },
+  {
+    "id": "VIC-3038-ef6f34e8247620cc",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3038",
+    "suburb": "Taylors Lakes",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "VIC-3122-0df67cc79b1dc136",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3122",
+    "suburb": "Hawthorn",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "VIC-3187-93a11587c5603314",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3187",
+    "suburb": "Brighton East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 27"
+  },
+  {
+    "id": "VIC-3038-0e8e2088f2290278",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3038",
+    "suburb": "Keilor Lodge",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "VIC-3122-c2879ac5d5a986f1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3122",
+    "suburb": "Hawthorn North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "VIC-3188-2b4d77502fd2c2c9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3188",
+    "suburb": "Hampton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 28"
+  },
+  {
+    "id": "VIC-3039-c7865c3f617fbfad",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3039",
+    "suburb": "Moonee Ponds",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "VIC-3122-cdcc2795ed79a3a5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3122",
+    "suburb": "Hawthorn West",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "VIC-3188-6ee36366b3ffd1c1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3188",
+    "suburb": "Hampton East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 29"
+  },
+  {
+    "id": "VIC-3040-e2a38a0e34dee9c6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3040",
+    "suburb": "Essendon",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "VIC-3123-95dbde1021fbd461",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3123",
+    "suburb": "Auburn",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "VIC-3188-9aabd1209c4456e1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3188",
+    "suburb": "Hampton North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 30"
+  },
+  {
+    "id": "VIC-3040-0938e5ac1599b8fa",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3040",
+    "suburb": "Aberfeldie",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "VIC-3123-947a20aa971087df",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3123",
+    "suburb": "Hawthorn East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "VIC-3189-f758abb9eb5c0172",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3189",
+    "suburb": "Moorabbin",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 31"
+  },
+  {
+    "id": "VIC-3040-cb88ad81867dc347",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3040",
+    "suburb": "Essendon West",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "VIC-3124-0d349ace52d91f98",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3124",
+    "suburb": "Camberwell North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "VIC-3189-89969d89a37f0c18",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3189",
+    "suburb": "Moorabbin East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 32"
+  },
+  {
+    "id": "VIC-3041-2460d061461a06e2",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3041",
+    "suburb": "Strathmore",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "VIC-3124-0b7f1dbca3b00114",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3124",
+    "suburb": "Camberwell",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "VIC-3189-c0618b7f21347501",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3189",
+    "suburb": "Wishart",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 33"
+  },
+  {
+    "id": "VIC-3041-83f2d2111ce48cda",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3041",
+    "suburb": "Strathmore Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "VIC-3124-1664d266214b838a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3124",
+    "suburb": "Camberwell West",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "VIC-3190-0df11ae8930a316c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3190",
+    "suburb": "Highett",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 34"
+  },
+  {
+    "id": "VIC-3041-6f40d75bacbb1847",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3041",
+    "suburb": "Essendon North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "VIC-3124-69f91d700bceb37b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3124",
+    "suburb": "Camberwell South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "VIC-3191-7f3fd18c9a1cee5e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3191",
+    "suburb": "Sandringham",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 35"
+  },
+  {
+    "id": "VIC-3041-841a7c64cc01374d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3041",
+    "suburb": "Essendon Fields",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "VIC-3124-746e1e7604e6dda9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3124",
+    "suburb": "Hartwell",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "VIC-3192-ed4d12e525853dac",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3192",
+    "suburb": "Cheltenham",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 36"
+  },
+  {
+    "id": "VIC-3041-fe7a84056849116d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3041",
+    "suburb": "Cross Keys",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "VIC-3124-37e45ee22870d7df",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3124",
+    "suburb": "Middle Camberwell",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "VIC-3192-f5259e4767f6c0cd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3192",
+    "suburb": "Cheltenham East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 37"
+  },
+  {
+    "id": "VIC-3042-cdddf37ffd4ba69e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3042",
+    "suburb": "Keilor Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "VIC-3125-0f5889007a8822fb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3125",
+    "suburb": "Burwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "VIC-3192-21380e178ad3d785",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3192",
+    "suburb": "Southland Centre",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 38"
+  },
+  {
+    "id": "VIC-3042-1e6f21cc805df57c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3042",
+    "suburb": "Niddrie North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "VIC-3125-cb6c06485c1e32e6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3125",
+    "suburb": "Surrey Hills South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "VIC-3193-db1f034d70df2a8e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3193",
+    "suburb": "Beaumaris",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 39"
+  },
+  {
+    "id": "VIC-3042-42cebeac9de2dc0e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3042",
+    "suburb": "Airport West",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 40"
+  },
+  {
+    "id": "VIC-3125-3dd76acf5c4b7626",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3125",
+    "suburb": "Bennettswood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 40"
+  },
+  {
+    "id": "VIC-3193-479f0c9685e27713",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3193",
+    "suburb": "Black Rock North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 40"
+  },
+  {
+    "id": "VIC-3042-11641ddc5ba2f97e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3042",
+    "suburb": "Niddrie",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 41"
+  },
+  {
+    "id": "VIC-3126-19ad1c2cee2e5cfa",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3126",
+    "suburb": "Canterbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 41"
+  },
+  {
+    "id": "VIC-3193-5b9eecc6de0dba95",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3193",
+    "suburb": "Black Rock",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 41"
+  },
+  {
+    "id": "VIC-3043-32a26e4b10a04639",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3043",
+    "suburb": "Gowanbrae",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 42"
+  },
+  {
+    "id": "VIC-3126-bf94189841069d0f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3126",
+    "suburb": "Camberwell East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 42"
+  },
+  {
+    "id": "VIC-3193-08fddc5e9f37e698",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3193",
+    "suburb": "Cromer",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 42"
+  },
+  {
+    "id": "VIC-3043-9d7e0acde1386374",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3043",
+    "suburb": "Tullamarine",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 43"
+  },
+  {
+    "id": "VIC-3127-4710146fe258ff97",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3127",
+    "suburb": "Surrey Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 43"
+  },
+  {
+    "id": "VIC-3194-fab343859a1fcd4f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3194",
+    "suburb": "Mentone",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 43"
+  },
+  {
+    "id": "VIC-3043-85631daa1c5126c1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3043",
+    "suburb": "Gladstone Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 44"
+  },
+  {
+    "id": "VIC-3127-b73fadcd0725584c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3127",
+    "suburb": "Surrey Hills North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 44"
+  },
+  {
+    "id": "VIC-3194-b6bcf25242204b41",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3194",
+    "suburb": "Mentone East",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 44"
+  },
+  {
+    "id": "VIC-3044-6ca812b914675902",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3044",
+    "suburb": "Pascoe Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 45"
+  },
+  {
+    "id": "VIC-3127-5b23ebd679f6c2f8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3127",
+    "suburb": "Mont Albert",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 45"
+  },
+  {
+    "id": "VIC-3194-2d2005d0af3cc8ce",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3194",
+    "suburb": "Moorabbin Airport",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 45"
+  },
+  {
+    "id": "VIC-3044-b3239793e6756037",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3044",
+    "suburb": "Pascoe Vale South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 46"
+  },
+  {
+    "id": "VIC-3128-e0a22657f4ec0523",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3128",
+    "suburb": "Box Hill South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 46"
+  },
+  {
+    "id": "VIC-3195-d76c0569f795a440",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3195",
+    "suburb": "Braeside",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 46"
+  },
+  {
+    "id": "VIC-3045-11582c8f1ba8f09c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3045",
+    "suburb": "Melbourne Airport",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 47"
+  },
+  {
+    "id": "VIC-3128-d7e1801aa70f3550",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3128",
+    "suburb": "Box Hill Central",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 47"
+  },
+  {
+    "id": "VIC-3195-017c59b1d7ffae28",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3195",
+    "suburb": "Mordialloc",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 47"
+  },
+  {
+    "id": "VIC-3046-3ce58ae85d7398e1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3046",
+    "suburb": "Oak Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 48"
+  },
+  {
+    "id": "VIC-3128-0525079b9e0fc035",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3128",
+    "suburb": "Box Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 48"
+  },
+  {
+    "id": "VIC-3195-090f0cade4a88ae6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3195",
+    "suburb": "Waterways",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 48"
+  },
+  {
+    "id": "VIC-3046-33383e4c9f8836cf",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3046",
+    "suburb": "Glenroy",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 49"
+  },
+  {
+    "id": "VIC-3128-a9c3ee10e3a927b4",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3128",
+    "suburb": "Wattle Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 49"
+  },
+  {
+    "id": "VIC-3195-e7c38386b94b6971",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3195",
+    "suburb": "Aspendale Gardens",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 49"
+  },
+  {
+    "id": "VIC-3046-93710b0813df29b5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3046",
+    "suburb": "Hadfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 50"
+  },
+  {
+    "id": "VIC-3128-e5ea9703f824e248",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3128",
+    "suburb": "Houston",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 50"
+  },
+  {
+    "id": "VIC-3195-c914360348b9979e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3195",
+    "suburb": "Parkdale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 50"
+  },
+  {
+    "id": "VIC-3047-d7c68d1c8f034409",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3047",
+    "suburb": "Dallas",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 51"
+  },
+  {
+    "id": "VIC-3129-46662011606c54e6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3129",
+    "suburb": "Box Hill North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 51"
+  },
+  {
+    "id": "VIC-3195-e5b743f5e51e2ca7",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3195",
+    "suburb": "Aspendale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 51"
+  },
+  {
+    "id": "VIC-3047-ad10e3288f2beb63",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3047",
+    "suburb": "Broadmeadows",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 52"
+  },
+  {
+    "id": "VIC-3129-5fb474043c9b6b33",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3129",
+    "suburb": "Kerrimuir",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 52"
+  },
+  {
+    "id": "VIC-3196-c064d6700e5a6fab",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3196",
+    "suburb": "Chelsea Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 52"
+  },
+  {
+    "id": "VIC-3047-85da4fdfd3a7d71d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3047",
+    "suburb": "Jacana",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 53"
+  },
+  {
+    "id": "VIC-3129-cb89e4933621e97e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3129",
+    "suburb": "Mont Albert North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 53"
+  },
+  {
+    "id": "VIC-3196-3ec1c9d38e107366",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3196",
+    "suburb": "Edithvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 53"
+  },
+  {
+    "id": "VIC-3048-709a69955769c1e5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3048",
+    "suburb": "Coolaroo",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 54"
+  },
+  {
+    "id": "VIC-3130-949d892ef95b9861",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3130",
+    "suburb": "Blackburn North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 54"
+  },
+  {
+    "id": "VIC-3196-cd52e03e69feb1cb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3196",
+    "suburb": "Bonbeach",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 54"
+  },
+  {
+    "id": "VIC-3048-133d2820a3b9903c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3048",
+    "suburb": "Meadow Heights",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 55"
+  },
+  {
+    "id": "VIC-3130-70a602adf5d3e17f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3130",
+    "suburb": "Blackburn South",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 55"
+  },
+  {
+    "id": "VIC-3196-0e8b97e0db3c90ed",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3196",
+    "suburb": "Chelsea",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 55"
+  },
+  {
+    "id": "VIC-3049-62753819dfec1e1a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3049",
+    "suburb": "Westmeadows",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 56"
+  },
+  {
+    "id": "VIC-3130-0d8819ecdb1e3cc0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3130",
+    "suburb": "Blackburn",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 56"
+  },
+  {
+    "id": "VIC-3197-ad90b1072b1f037d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3197",
+    "suburb": "Carrum",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 56"
+  },
+  {
+    "id": "VIC-3049-4c753bd65d347c2e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3049",
+    "suburb": "Attwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 57"
+  },
+  {
+    "id": "VIC-3130-f8fc5a9790d73483",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3130",
+    "suburb": "Laburnum",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 57"
+  },
+  {
+    "id": "VIC-3197-fd841b28d1edb9a0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3197",
+    "suburb": "Patterson Lakes",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 57"
+  },
+  {
+    "id": "VIC-3050-2a6b5e1b0794c32d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3050",
+    "suburb": "Royal Melbourne Hospital",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 58"
+  },
+  {
+    "id": "VIC-3131-d7f8ffed83fdd69f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3131",
+    "suburb": "Forest Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 58"
+  },
+  {
+    "id": "VIC-3198-a6e00b26a0ce242a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3198",
+    "suburb": "Belvedere Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 58"
+  },
+  {
+    "id": "VIC-3051-b7b65309beaccdcd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3051",
+    "suburb": "North Melbourne",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 59"
+  },
+  {
+    "id": "VIC-3131-d1aafbf9d4560125",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3131",
+    "suburb": "Brentford Square",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 59"
+  },
+  {
+    "id": "VIC-3198-4a2e2ae522a30433",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3198",
+    "suburb": "Seaford",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 59"
+  },
+  {
+    "id": "VIC-3051-e715f48bacafcf97",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3051",
+    "suburb": "Hotham Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 60"
+  },
+  {
+    "id": "VIC-3131-994a4954c0c0d1d6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3131",
+    "suburb": "Nunawading",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 60"
+  },
+  {
+    "id": "VIC-3202-9c38a85c387cd7f2",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3202",
+    "suburb": "Heatherton",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 60"
+  },
+  {
+    "id": "VIC-3052-0130184a6d47d9e5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3052",
+    "suburb": "Parkville",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 61"
+  },
+  {
+    "id": "VIC-3132-40e19bbea78ae370",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3132",
+    "suburb": "Mitcham North",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 61"
+  },
+  {
+    "id": "VIC-3204-cdbf2af86458532a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3204",
+    "suburb": "Ormond",
+    "consolidationClass": null,
+    "sourceLocation": "page 3, text line 61"
+  },
+  {
+    "id": "VIC-3052-1ef34fe9486d94c8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3052",
+    "suburb": "Melbourne University",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 1"
+  },
+  {
+    "id": "VIC-3132-c18aa5b79a5aecd8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3132",
+    "suburb": "Mitcham",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 1"
+  },
+  {
+    "id": "VIC-3204-1f99b680b0e22cd0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3204",
+    "suburb": "Patterson",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 1"
+  },
+  {
+    "id": "VIC-3053-8108f4ffa181f696",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3053",
+    "suburb": "Carlton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 2"
+  },
+  {
+    "id": "VIC-3132-5f87248b4acde5da",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3132",
+    "suburb": "Rangeview",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 2"
+  },
+  {
+    "id": "VIC-3204-c8ef567c758759da",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3204",
+    "suburb": "Bentleigh",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 2"
+  },
+  {
+    "id": "VIC-3053-5553086ca7718344",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3053",
+    "suburb": "Carlton South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 3"
+  },
+  {
+    "id": "VIC-3133-c337924a673f4314",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3133",
+    "suburb": "Vermont",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 3"
+  },
+  {
+    "id": "VIC-3204-40e49d29ff1726ec",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3204",
+    "suburb": "Mckinnon",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 3"
+  },
+  {
+    "id": "VIC-3054-7f456c5f3297b2ce",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3054",
+    "suburb": "Princes Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 4"
+  },
+  {
+    "id": "VIC-3133-2d8a4ff88fffd985",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3133",
+    "suburb": "Vermont South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 4"
+  },
+  {
+    "id": "VIC-3205-ddaab846221827da",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3205",
+    "suburb": "South Melbourne Dc",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 4"
+  },
+  {
+    "id": "VIC-3054-e401694156252cb5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3054",
+    "suburb": "Carlton North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 5"
+  },
+  {
+    "id": "VIC-3134-8df54c77fb5f7cd2",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3134",
+    "suburb": "Warrandyte South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 5"
+  },
+  {
+    "id": "VIC-3205-382f6c4e731d72aa",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3205",
+    "suburb": "South Melbourne",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 5"
+  },
+  {
+    "id": "VIC-3055-9608c73b60698423",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3055",
+    "suburb": "Brunswick South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 6"
+  },
+  {
+    "id": "VIC-3134-22254e45c6d87be8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3134",
+    "suburb": "Heathwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 6"
+  },
+  {
+    "id": "VIC-3206-ca0fac20d6d291d4",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3206",
+    "suburb": "Albert Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 6"
+  },
+  {
+    "id": "VIC-3055-aea9f7af153061d7",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3055",
+    "suburb": "Brunswick West",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 7"
+  },
+  {
+    "id": "VIC-3134-0c4eceef487a3e3f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3134",
+    "suburb": "Warranwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 7"
+  },
+  {
+    "id": "VIC-3206-50b6689f5bed9e9d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3206",
+    "suburb": "Middle Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 7"
+  },
+  {
+    "id": "VIC-3055-bfb30e88e32a9c2e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3055",
+    "suburb": "Moreland West",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 8"
+  },
+  {
+    "id": "VIC-3134-6974e0d3430cca9e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3134",
+    "suburb": "Ringwood North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 8"
+  },
+  {
+    "id": "VIC-3207-f0fc4e95b716c528",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3207",
+    "suburb": "Garden City",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 8"
+  },
+  {
+    "id": "VIC-3055-ad39e6e2256cd179",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3055",
+    "suburb": "Moonee Vale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 9"
+  },
+  {
+    "id": "VIC-3134-80f0cb5045d8391a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3134",
+    "suburb": "Ringwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 9"
+  },
+  {
+    "id": "VIC-3207-744470384daa075b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3207",
+    "suburb": "Port Melbourne",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 9"
+  },
+  {
+    "id": "VIC-3056-99f20744735640a9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3056",
+    "suburb": "Brunswick",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 10"
+  },
+  {
+    "id": "VIC-3135-07c7a591e3f2ed0b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3135",
+    "suburb": "Bedford Road",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 10"
+  },
+  {
+    "id": "VIC-3335-3aafeac1bea1397e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3335",
+    "suburb": "Plumpton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 10"
+  },
+  {
+    "id": "VIC-3056-4b0a9ec5cf062713",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3056",
+    "suburb": "Brunswick North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 11"
+  },
+  {
+    "id": "VIC-3135-7d810f8dcf2fafc0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3135",
+    "suburb": "Ringwood East",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 11"
+  },
+  {
+    "id": "VIC-3335-259eb8b50e9871d8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3335",
+    "suburb": "Rockbank",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 11"
+  },
+  {
+    "id": "VIC-3056-d78d13010d17f7cd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3056",
+    "suburb": "Brunswick Lower",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 12"
+  },
+  {
+    "id": "VIC-3135-77ca7a0ce922f822",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3135",
+    "suburb": "Heathmont",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 12"
+  },
+  {
+    "id": "VIC-3337-3f730c53a3d2c347",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3337",
+    "suburb": "Melton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 12"
+  },
+  {
+    "id": "VIC-3057-225fa034e03de45b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3057",
+    "suburb": "Sumner",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 13"
+  },
+  {
+    "id": "VIC-3136-6e8679bb24d6f495",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3136",
+    "suburb": "Croydon North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 13"
+  },
+  {
+    "id": "VIC-3337-702fda78e6320080",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3337",
+    "suburb": "Kurunjang",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 13"
+  },
+  {
+    "id": "VIC-3057-148915693dec6bb1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3057",
+    "suburb": "Brunswick East",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 14"
+  },
+  {
+    "id": "VIC-3136-8928e7f06144496a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3136",
+    "suburb": "Croydon South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 14"
+  },
+  {
+    "id": "VIC-3338-06d68c9d31c8c036",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3338",
+    "suburb": "Melton South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 14"
+  },
+  {
+    "id": "VIC-3058-5e93cdedace046a6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3058",
+    "suburb": "Coburg North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 15"
+  },
+  {
+    "id": "VIC-3136-2f4c1a3e36db483f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3136",
+    "suburb": "Croydon Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 15"
+  },
+  {
+    "id": "VIC-3427-61d81c97ae34fd0f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3427",
+    "suburb": "Diggers Rest",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 15"
+  },
+  {
+    "id": "VIC-3058-4a8bb363cdef1f8e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3058",
+    "suburb": "Moreland",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 16"
+  },
+  {
+    "id": "VIC-3136-ca486e261496dabd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3136",
+    "suburb": "Croydon",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 16"
+  },
+  {
+    "id": "VIC-3428-eb4279900a20c04a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3428",
+    "suburb": "Bulla",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 16"
+  },
+  {
+    "id": "VIC-3058-621a0bc6ff5ebf04",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3058",
+    "suburb": "Batman",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 17"
+  },
+  {
+    "id": "VIC-3137-4df25fc2b571f416",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3137",
+    "suburb": "Kilsyth",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 17"
+  },
+  {
+    "id": "VIC-3429-284931e88caf85aa",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3429",
+    "suburb": "Sunbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 17"
+  },
+  {
+    "id": "VIC-3058-2ec2165a4dfa90a9",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3058",
+    "suburb": "Merlynston",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 18"
+  },
+  {
+    "id": "VIC-3137-7ff3b393a1eec2fc",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3137",
+    "suburb": "Kilsyth South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 18"
+  },
+  {
+    "id": "VIC-3429-bf0eb9dd57fd83f6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3429",
+    "suburb": "Wildwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 18"
+  },
+  {
+    "id": "VIC-3058-21c5293ce3a2b434",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3058",
+    "suburb": "Coburg",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 19"
+  },
+  {
+    "id": "VIC-3138-ad03634a88993683",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3138",
+    "suburb": "Mooroolbark",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 19"
+  },
+  {
+    "id": "VIC-3750-2d3433889f0e10da",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3750",
+    "suburb": "Wollert",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 19"
+  },
+  {
+    "id": "VIC-3059-21f5226345bda7bb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3059",
+    "suburb": "Greenvale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 20"
+  },
+  {
+    "id": "VIC-3140-4acfb3d997e56def",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3140",
+    "suburb": "Lilydale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 20"
+  },
+  {
+    "id": "VIC-3751-391145a9a5600213",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3751",
+    "suburb": "Woodstock",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 20"
+  },
+  {
+    "id": "VIC-3060-c1b4b7d5a09147d3",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3060",
+    "suburb": "Fawkner",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 21"
+  },
+  {
+    "id": "VIC-3141-83f9a88a7e8168c0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3141",
+    "suburb": "South Yarra",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 21"
+  },
+  {
+    "id": "VIC-3752-682d23c824409843",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3752",
+    "suburb": "South Morang",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 21"
+  },
+  {
+    "id": "VIC-3061-25bd09421fa2d9cb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3061",
+    "suburb": "Campbellfield",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 22"
+  },
+  {
+    "id": "VIC-3142-3359911c862da830",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3142",
+    "suburb": "Toorak",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 22"
+  },
+  {
+    "id": "VIC-3754-345d78344a0f7639",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3754",
+    "suburb": "Mernda",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 22"
+  },
+  {
+    "id": "VIC-3062-e126a52b52eb023b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3062",
+    "suburb": "Somerton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 23"
+  },
+  {
+    "id": "VIC-3142-338a3b48a45b7b1d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3142",
+    "suburb": "Hawksburn",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 23"
+  },
+  {
+    "id": "VIC-3754-b01c7f19a8d6d9c2",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3754",
+    "suburb": "Doreen",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 23"
+  },
+  {
+    "id": "VIC-3063-d59ef628da3c2063",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3063",
+    "suburb": "Yuroke",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 24"
+  },
+  {
+    "id": "VIC-3143-1139eaf5e57b3be3",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3143",
+    "suburb": "Armadale",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 24"
+  },
+  {
+    "id": "VIC-3755-0a18d206e3166e97",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3755",
+    "suburb": "Yan Yean",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 24"
+  },
+  {
+    "id": "VIC-3063-4670ea0039f551b0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3063",
+    "suburb": "Oaklands Junction",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 25"
+  },
+  {
+    "id": "VIC-3143-030527d3af75d9af",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3143",
+    "suburb": "Armadale North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 25"
+  },
+  {
+    "id": "VIC-3757-2694dad50766460e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3757",
+    "suburb": "Whittlesea",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 25"
+  },
+  {
+    "id": "VIC-3064-4fa8dd7b6fc3e465",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3064",
+    "suburb": "Kalkallo",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 26"
+  },
+  {
+    "id": "VIC-3144-28d1e5b489b380fb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3144",
+    "suburb": "Kooyong",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 26"
+  },
+  {
+    "id": "VIC-3759-ef83f3143a57bf9e",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3759",
+    "suburb": "Panton Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 26"
+  },
+  {
+    "id": "VIC-3064-bb4082b2ba346865",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3064",
+    "suburb": "Mickleham",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 27"
+  },
+  {
+    "id": "VIC-3144-a0230dcc546b34a4",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3144",
+    "suburb": "Malvern",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 27"
+  },
+  {
+    "id": "VIC-3760-c014fb5e4db96261",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3760",
+    "suburb": "Smiths Gully",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 27"
+  },
+  {
+    "id": "VIC-3064-f8c19150dff9c57f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3064",
+    "suburb": "Donnybrook",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 28"
+  },
+  {
+    "id": "VIC-3144-9a5b460bc7ae32ba",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3144",
+    "suburb": "Malvern North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 28"
+  },
+  {
+    "id": "VIC-3765-68be4963184b5e9a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3765",
+    "suburb": "Montrose",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 28"
+  },
+  {
+    "id": "VIC-3064-29552c9b26a0ffde",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3064",
+    "suburb": "Roxburgh Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 29"
+  },
+  {
+    "id": "VIC-3145-f4e1c0b4228743c1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3145",
+    "suburb": "Malvern East",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 29"
+  },
+  {
+    "id": "VIC-3766-1a5044acbf0cf4fa",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3766",
+    "suburb": "Kalorama",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 29"
+  },
+  {
+    "id": "VIC-3064-ce506815ac7cb81d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3064",
+    "suburb": "Craigieburn",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 30"
+  },
+  {
+    "id": "VIC-3145-8387f5fee2b3a7d7",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3145",
+    "suburb": "Darling",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 30"
+  },
+  {
+    "id": "VIC-3785-fc0c3ca360d9e066",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3785",
+    "suburb": "Tremont",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 30"
+  },
+  {
+    "id": "VIC-3065-8a579a95f53c25bd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3065",
+    "suburb": "Fitzroy",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 31"
+  },
+  {
+    "id": "VIC-3145-dc6956546ec696eb",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3145",
+    "suburb": "Caulfield East",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 31"
+  },
+  {
+    "id": "VIC-3786-16967a089ed7bc34",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3786",
+    "suburb": "Ferny Creek",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 31"
+  },
+  {
+    "id": "VIC-3066-3f418f9a185a1d21",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3066",
+    "suburb": "Collingwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 32"
+  },
+  {
+    "id": "VIC-3145-ee632736a0cdabf7",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3145",
+    "suburb": "Central Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 32"
+  },
+  {
+    "id": "VIC-3789-4ad9568486ac74d8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3789",
+    "suburb": "Sherbrooke",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 32"
+  },
+  {
+    "id": "VIC-3066-ecc73abdf4d187c5",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3066",
+    "suburb": "Collingwood North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 33"
+  },
+  {
+    "id": "VIC-3145-d29c36a40a77b7d4",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3145",
+    "suburb": "Darling South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 33"
+  },
+  {
+    "id": "VIC-3800-794032ae05381f19",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3800",
+    "suburb": "Monash University",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 33"
+  },
+  {
+    "id": "VIC-3067-88bbb4f878798d88",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3067",
+    "suburb": "Abbotsford",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 34"
+  },
+  {
+    "id": "VIC-3145-b535aab6879be057",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3145",
+    "suburb": "Wattletree Road Po",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 34"
+  },
+  {
+    "id": "VIC-3802-9aae2adf6992980f",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3802",
+    "suburb": "Endeavour Hills",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 34"
+  },
+  {
+    "id": "VIC-3068-049be51df726c16c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3068",
+    "suburb": "Fitzroy North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 35"
+  },
+  {
+    "id": "VIC-3146-4ebc8272b50a1652",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3146",
+    "suburb": "Glen Iris",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 35"
+  },
+  {
+    "id": "VIC-3803-ffad0074f1e24ff6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3803",
+    "suburb": "Hallam",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 35"
+  },
+  {
+    "id": "VIC-3068-52e868f7d3df7028",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3068",
+    "suburb": "Clifton Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 36"
+  },
+  {
+    "id": "VIC-3146-4e3522adb8d58dfa",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3146",
+    "suburb": "Tooronga",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 36"
+  },
+  {
+    "id": "VIC-3804-6fddbf5b91acea00",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3804",
+    "suburb": "Narre Warren North",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 36"
+  },
+  {
+    "id": "VIC-3070-fc18d92c06919c50",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3070",
+    "suburb": "Northcote South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 37"
+  },
+  {
+    "id": "VIC-3147-42d4593fd7173a65",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3147",
+    "suburb": "Ashwood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 37"
+  },
+  {
+    "id": "VIC-3960-079fc40c52925393",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3960",
+    "suburb": "Wonga",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 37"
+  },
+  {
+    "id": "VIC-3070-abfe9812d2292a43",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3070",
+    "suburb": "Northcote",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 38"
+  },
+  {
+    "id": "VIC-3147-fd7626040f9d82af",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3147",
+    "suburb": "Ashburton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 38"
+  },
+  {
+    "id": "VIC-3976-25d54ab6f70790d1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3976",
+    "suburb": "Hampton Park",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 38"
+  },
+  {
+    "id": "VIC-3071-a6752b829022f590",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3071",
+    "suburb": "Thornbury",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 39"
+  },
+  {
+    "id": "VIC-3148-46fa60940a1a0347",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3148",
+    "suburb": "Jordanville",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 39"
+  },
+  {
+    "id": "VIC-8003-8e2da7d79824895d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "8003",
+    "suburb": "Collins Street East",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 39"
+  },
+  {
+    "id": "VIC-3072-9b1d3f26445d7693",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3072",
+    "suburb": "Preston",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 40"
+  },
+  {
+    "id": "VIC-3148-2fef4ac9977afd04",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3148",
+    "suburb": "Holmesglen",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 40"
+  },
+  {
+    "id": "VIC-8004-e1188283693d3ab3",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "8004",
+    "suburb": "St Kilda Road",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 40"
+  },
+  {
+    "id": "VIC-3072-a5aa591f180539d8",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3072",
+    "suburb": "Regent West",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 41"
+  },
+  {
+    "id": "VIC-3148-a7c3f07e578da15b",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3148",
+    "suburb": "Chadstone",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 41"
+  },
+  {
+    "id": "VIC-8006-d858a9e2e09098b6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "8006",
+    "suburb": "Abeckett Street",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 41"
+  },
+  {
+    "id": "VIC-3072-94abe1afe8093014",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3072",
+    "suburb": "Gilberton",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 42"
+  },
+  {
+    "id": "VIC-3148-5ece6ca32d19b3e1",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3148",
+    "suburb": "Chadstone Centre",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 42"
+  },
+  {
+    "id": "VIC-8007-c85f061b4d077f0a",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "8007",
+    "suburb": "Collins Street West",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 42"
+  },
+  {
+    "id": "VIC-3072-401782db99bdca48",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3072",
+    "suburb": "Preston South",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 43"
+  },
+  {
+    "id": "VIC-3149-edbe9cf33dffaee6",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3149",
+    "suburb": "Syndal",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 43"
+  },
+  {
+    "id": "VIC-8008-971206caabf5b82d",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "8008",
+    "suburb": "St Kilda Road Central",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 43"
+  },
+  {
+    "id": "VIC-3072-a2683fdd99b7a822",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3072",
+    "suburb": "Preston West",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 44"
+  },
+  {
+    "id": "VIC-3149-b8434295388c18c0",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3149",
+    "suburb": "Pinewood",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 44"
+  },
+  {
+    "id": "VIC-8009-2bd2bca6c38f5205",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "8009",
+    "suburb": "Flinders Lane",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 44"
+  },
+  {
+    "id": "VIC-3072-68cf2faa4275844c",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3072",
+    "suburb": "Northland Centre",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 45"
+  },
+  {
+    "id": "VIC-3149-a113147356d522fd",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3149",
+    "suburb": "Mount Waverley",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 45"
+  },
+  {
+    "id": "VIC-8010-1e881af498797244",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "8010",
+    "suburb": "Law Courts",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 45"
+  },
+  {
+    "id": "VIC-3072-da775fa0a9e2e7a4",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3072",
+    "suburb": "Preston Lower",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 46"
+  },
+  {
+    "id": "VIC-3150-7657c97f07338bab",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "3150",
+    "suburb": "Wheelers Hill",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 46"
+  },
+  {
+    "id": "VIC-8011-a7a5f3ac09e38a09",
+    "state": "VIC",
+    "zone": "A",
+    "postcode": "8011",
+    "suburb": "Little Lonsdale Street",
+    "consolidationClass": null,
+    "sourceLocation": "page 4, text line 46"
+  }
+]

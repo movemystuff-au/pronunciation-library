@@ -27,11 +27,11 @@ python3 scripts/validation/import_sources.py "/path/to/pdf-directory" "/path/to/
 python3 scripts/validation/validate.py
 ```
 
-The importer regenerates the five state files and the source audit while retaining the separate pronunciation guides. If coverage changes, review the new source totals and zone boundaries before updating the validator. See [the validation report](VALIDATION.md).
+The importer regenerates the five state files and the source audit while retaining the pronunciation master. If coverage changes, review the new source totals and zone boundaries before updating the validator. See [the validation report](VALIDATION.md).
 
 ## Add or review pronunciations
 
-Add guides to `data/pronunciations.json` under the state code and exact source locality name. Records with the same state and name share a guide. An omitted sourced guide uses the separate draft guide and stays marked Draft · Needs Review. Regenerate drafts after adding or replacing state data with `python3 scripts/build_draft_guides.py` in an environment with `piper-tts`. The generator uses eSpeak NG’s British English phonemiser as a non-rhotic spelling approximation. Drafts may be wrong for local names and are never used as speech input.
+Add guides to `data/pronunciations.json` under the state code and exact source locality name. Records with the same state and name share a guide. An omitted sourced guide uses the separate draft guide and stays marked Draft · Needs Review. Generate candidate drafts outside the repository with `python3 scripts/build_draft_guides.py /tmp/locality-drafts.json` in an environment with `piper-tts`. The master includes the existing draft spellings. The older draft file is retained as the pre-review baseline. The generator uses eSpeak NG’s British English phonemiser as a non-rhotic spelling approximation. Drafts may be wrong for local names and are never used as speech input.
 
 - **Verified** requires a written guide and a source that supports the local pronunciation.
 - **Provisional** is for an evidence-based guide still awaiting confirmation.
@@ -48,3 +48,5 @@ The General names tab lists given names with documented use in Australia. Search
 Registration sources include the [NSW Registry top 100 series](https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2) and [South Australian registration records from 1944 to 2013](https://zenodo.org/records/11580348), republished by Pete Jones from South Australian Government data under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Other entries cite Australian sport, university, arts and community profiles.
 
 The macOS preview uses installed voices for each language. The preview reads Serbian and Bosnian Latin spellings with a Croatian voice and labels the result as approximate. Irish names use an explicitly marked Australian English approximation in this preview. In the static version, the browser tries the name’s language first and uses a configured approximation where available. A person’s own pronunciation takes precedence over the guide.
+
+The [local review workflow](scripts/review/README.md) covers evidence, corrections, audio review and the pilot. See also the [baseline audit](PRONUNCIATION-AUDIT.md).

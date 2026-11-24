@@ -565,16 +565,19 @@
     "id": "name-ar-034",
     "name": "Aisha",
     "nativeSpelling": "عائشة",
-    "language": "Arabic",
-    "locale": "ar",
-    "phonetic": "AA-ee-shah",
+    "nativeLocale": "ar",
+    "language": "Australian English",
+    "locale": "en-AU",
+    "phonetic": "eye-EE-shuh",
+    "ipa": "aɪˈiːʃə",
+    "speechOverride": "eye Eesha",
     "aliases": [
       "Ayesha",
       "Aysha",
       "Aishah"
     ],
     "verificationStatus": "provisional",
-    "verificationSource": "https://forvo.com/word/%D8%B9%D8%A7%D8%A6%D8%B4%D8%A9/",
+    "verificationSource": "https://dictionary.cambridge.org/pronunciation/english/aisha",
     "australianUsage": {
       "label": "NSW Top 100, 2016 · Aisha spelling",
       "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"
@@ -1096,7 +1099,8 @@
     "locale": "en-AU",
     "phonetic": "uh-LEE-yuh",
     "aliases": [],
-    "verificationStatus": "provisional",
+    "verificationStatus": "verified",
+    "verificationSource": "https://www.behindthename.com/name/aaliyah",
     "australianUsage": {
       "label": "NSW Top 100, 2025 · Aaliyah spelling",
       "url": "https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2"

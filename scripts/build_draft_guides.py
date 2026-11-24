@@ -1,4 +1,5 @@
 """Build clearly labelled draft respellings from eSpeak NG, without audio."""
+import argparse
 import json
 from pathlib import Path
 import re
@@ -45,13 +46,20 @@ def respell(ipa):
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("output", type=Path, help="Write draft candidates outside the repository")
+    args = parser.parse_args()
+    output_path = args.output.resolve()
+    if output_path.is_relative_to(ROOT):
+        parser.error("Write candidates outside the repository and review them before importing.")
     engine = EspeakPhonemizer()
     guides = json.loads((ROOT / "data/pronunciations.json").read_text())
     output = {}
     for state, sourced in guides.items():
         rows = json.loads((ROOT / f"data/{state.lower()}.json").read_text())
         drafts = output[state] = {}
-        for name in sorted({row["suburb"] for row in rows} - sourced.keys()):
+        protected = {name for name, entry in sourced.items() if entry.get("verificationSource")}
+        for name in sorted({row["suburb"] for row in rows} - protected):
             words = re.findall(r"[\w]+(?:['’][\w]+)*", name)
             expanded = ["Saint" if i == 0 and word == "St" else "Street" if word == "St"
                         else ABBREVIATIONS.get(word.lower(), word) for i, word in enumerate(words)]
@@ -60,9 +68,8 @@ def main():
                 clauses = engine.phonemize("en-gb-x-rp", word)
                 sounds.append(respell("".join(clauses[0])) or word)
             drafts[name] = " ".join(sounds)
-    (ROOT / "data/draft-guides.json").write_text(
-        json.dumps(output, ensure_ascii=False, indent=2) + "\n"
-    )
+    with output_path.open("x", encoding="utf-8") as handle:
+        handle.write(json.dumps(output, ensure_ascii=False, indent=2) + "\n")
 
 
 if __name__ == "__main__":

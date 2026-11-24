@@ -8,6 +8,7 @@ const slowRate = .70;
 const localPreview = ['localhost', '127.0.0.1'].includes(location.hostname);
 
 let records = [];
+let directoryRecords = [];
 let state = 'ALL';
 let page = 0;
 let practiceQueue = [];
@@ -80,7 +81,8 @@ function speak(record, rate, version, recordingFailed) {
   const accent = desired ? `Using a ${record.language ?? 'Australian English'} device voice.`
     : fallback ? 'Using another device voice as an approximation.'
       : 'Requesting Australian English device speech.';
-  const review = record.verificationStatus === 'verified' ? '' : ' This pronunciation still needs verification.';
+  const review = record.state ? ' Synthesised playback may differ from local usage.'
+    : record.verificationStatus === 'verified' ? '' : ' This pronunciation still needs verification.';
   const speed = rate === 1 ? 'Normal speed.' : 'Slow speed requested (70%).';
   notify(`${recordingFailed ? 'Recording unavailable. ' : ''}${speed} ${accent}${review}`);
   synthesis.speak(utterance);
@@ -100,27 +102,29 @@ async function play(record, rate) {
   stopPlayback();
   lastRate = rate;
   const version = playbackVersion;
-  if (!record.audioUrl && !localPreview) {
+  const recording = !record.state || ['approved', 'source_recording'].includes(record.audioStatus)
+    ? record.audioUrl : null;
+  if (!recording && !localPreview) {
     speak(record, rate, version, false);
     return;
   }
   try {
-    const source = record.audioUrl ?? `./__local_audio/${encodeURIComponent(record.id)}`;
+    const source = recording ?? `./__local_audio/${encodeURIComponent(record.id)}`;
     audio = new Audio(source);
     audio.playbackRate = rate;
     audio.preservesPitch = true;
     await audio.play();
     if (version !== playbackVersion) return;
     const speed = rate === 1 ? 'Normal speed' : 'Slow speed (70%)';
-    const voiceLabel = record.audioUrl ? 'Speaker recording.'
+    const voiceLabel = recording ? (record.audioStatus === 'approved' ? 'Reviewed recording.' : 'Speaker recording.')
       : record.fallbackLocale ? 'Approximate device pronunciation.'
-        : `${record.language ?? 'Australian English'} device voice.`;
+        : `${record.language ?? 'Australian English'} device voice.${record.state ? ' Synthesised playback may differ from local usage.' : ''}`;
     notify(`${speed}. ${voiceLabel}`);
   } catch {
     if (version !== playbackVersion) return;
     audio?.pause();
     audio = undefined;
-    speak(record, rate, version, Boolean(record.audioUrl));
+    speak(record, rate, version, Boolean(recording));
   }
 }
 
@@ -169,17 +173,18 @@ function normalise(value) {
 
 function searchRank(record, query) {
   const name = record.searchName;
-  const postcode = record.postcode;
-  if (name === query || postcode === query) return 0;
-  if (name.startsWith(query) || postcode.startsWith(query)) return 1;
-  if (query.split(' ').every(term => name.includes(term) || postcode.includes(term))) return 2;
+  const postcodes = record.postcodes;
+  if (name === query || postcodes.includes(query)) return 0;
+  if (name.startsWith(query) || postcodes.some(code => code.startsWith(query))) return 1;
+  if (query.split(' ').every(term => name.includes(term) ||
+      postcodes.some(code => code.includes(term)))) return 2;
   return Infinity;
 }
 
 function renderDirectory() {
   const query = normalise($('query').value);
   const withGuides = $('with-guides').checked;
-  const matches = records.filter(r => (state === 'ALL' || r.state === state) &&
+  const matches = directoryRecords.filter(r => (state === 'ALL' || r.state === state) &&
       (!withGuides || Boolean(r.verificationSource)))
     .map(record => ({ record, rank: searchRank(record, query) }))
     .filter(result => Number.isFinite(result.rank))
@@ -194,7 +199,7 @@ function renderDirectory() {
   for (const { record } of matches.slice(start, start + pageSize)) {
     const row = $('row-template').content.cloneNode(true);
     row.querySelector('.locality').textContent = record.suburb;
-    row.querySelector('.location').textContent = `${record.postcode} · ${states[record.state]}`;
+    row.querySelector('.location').textContent = `${record.postcodes.join(', ')} · ${states[record.state]}`;
     row.querySelector('.pronunciation').append(pronunciation(record));
     row.querySelector('.audio-controls').append(...audioControls(record));
     rows.append(row);
@@ -289,7 +294,7 @@ async function initialiseNames() {
         const location = row.querySelector('.location');
         if (record.nativeSpelling !== record.name) {
           const spelling = element('span', record.nativeSpelling);
-          spelling.lang = record.locale;
+          spelling.lang = record.nativeLocale ?? record.locale;
           location.append(spelling, ' · ');
         }
         location.append(record.language);
@@ -320,16 +325,26 @@ async function initialise() {
   window.addEventListener('hashchange', showView);
   const groups = Object.keys(states).slice(1);
   try {
-    const [guides, drafts, ...datasets] = await Promise.all([
-      loadJson('pronunciations'), loadJson('draft-guides'), ...groups.map(code => loadJson(code.toLowerCase()))
+    const [guides, ...datasets] = await Promise.all([
+      loadJson('pronunciations'), ...groups.map(code => loadJson(code.toLowerCase()))
     ]);
     records = datasets.flat().map(record => ({
-      phonetic: drafts[record.state]?.[record.suburb] ?? null, speechOverride: null, audioUrl: null,
+      phonetic: null, speechOverride: null, audioUrl: null,
       verificationStatus: 'needs_review', verificationSource: null,
       ...record, ...guides[record.state]?.[record.suburb],
       searchName: normalise(record.suburb)
     })).sort((a, b) => a.suburb.localeCompare(b.suburb, 'en-AU') ||
       a.postcode.localeCompare(b.postcode) || a.state.localeCompare(b.state));
+
+    const byLocality = new Map();
+    for (const record of records) {
+      const key = JSON.stringify([record.state, record.suburb]);
+      if (!byLocality.has(key)) byLocality.set(key, { ...record, postcodes: new Set() });
+      byLocality.get(key).postcodes.add(record.postcode);
+    }
+    directoryRecords = [...byLocality.values()].map(record => ({
+      ...record, postcodes: [...record.postcodes]
+    }));
 
     for (const [code, label] of Object.entries(states)) {
       const tab = button(code === 'ALL' ? label : code, () => {

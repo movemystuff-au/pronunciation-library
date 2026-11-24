@@ -25,7 +25,8 @@ ENTRIES = {
 }
 for name in json.loads((ROOT / "data/names.json").read_text()):
     locale = name.get("fallbackLocale", name["locale"])
-    ENTRIES[name["id"]] = (NAME_VOICES[locale], name.get("fallbackText", name["nativeSpelling"]))
+    text = name.get("fallbackText") or name.get("speechOverride") or name["nativeSpelling"]
+    ENTRIES[name["id"]] = (NAME_VOICES[locale], text)
 
 
 @lru_cache(maxsize=128)
@@ -66,10 +67,14 @@ class PreviewHandler(SimpleHTTPRequestHandler):
             pass
 
 
+class PreviewServer(ThreadingHTTPServer):
+    request_queue_size = 32
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--port", default=8765, type=int)
     args = parser.parse_args()
-    with ThreadingHTTPServer(("127.0.0.1", args.port), partial(PreviewHandler, directory=ROOT)) as server:
+    with PreviewServer(("127.0.0.1", args.port), partial(PreviewHandler, directory=ROOT)) as server:
         print(f"Preview at http://127.0.0.1:{args.port}/", flush=True)
         server.serve_forever()

@@ -1,4 +1,4 @@
-"""Serve the static library locally, with optional macOS Australian speech."""
+"""Serve the static library locally, with optional macOS speech."""
 from functools import lru_cache, partial
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 import argparse
@@ -13,13 +13,13 @@ ROOT = Path(__file__).resolve().parents[1]
 ROUTE = "/__local_audio/"
 GUIDES = json.loads((ROOT / "data/pronunciations.json").read_text())
 NAME_VOICES = {
-    "ar": "Majed", "el-GR": "Melina", "en-AU": "Karen", "hi-IN": "Lekha",
+    "ar": "Majed", "el-GR": "Melina", "en-AU": "Daniel", "hi-IN": "Lekha",
     "hr-HR": "Lana", "ja-JP": "Kyoko", "ko-KR": "Yuna", "pl-PL": "Zosia",
     "ru-RU": "Milena", "tr-TR": "Yelda", "uk-UA": "Lesya", "vi-VN": "Linh",
     "zh-CN": "Tingting",
 }
 ENTRIES = {
-    row["id"]: ("Karen", GUIDES[state].get(row["suburb"], {}).get("speechOverride") or row["suburb"])
+    row["id"]: ("Daniel", GUIDES[state].get(row["suburb"], {}).get("speechOverride") or row["suburb"])
     for state in GUIDES
     for row in json.loads((ROOT / f"data/{state.lower()}.json").read_text())
 }
@@ -55,7 +55,7 @@ class PreviewHandler(SimpleHTTPRequestHandler):
         try:
             clip = render(*entry)
         except (OSError, ValueError, subprocess.SubprocessError):
-            return self.send_error(503, "Local Australian voice unavailable")
+            return self.send_error(503, "Local voice unavailable")
         self.send_response(200)
         self.send_header("Content-Type", "audio/wav")
         self.send_header("Content-Length", str(len(clip)))

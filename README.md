@@ -10,7 +10,7 @@ From the repository root, run:
 python3 scripts/preview.py
 ```
 
-Open [the local library](http://127.0.0.1:8765/). Serve the files over HTTP so the browser can load the JSON datasets. The app runs without a build step. On a Mac with the Australian Karen voice installed, the optional preview server produces speech on demand at a normal conversational rate. Both buttons play the same audio clip. The preview binds to this machine only. GitHub Pages serves the static files and uses browser speech for names without a recording.
+Open [the local library](http://127.0.0.1:8765/). Serve the files over HTTP so the browser can load the JSON datasets. The app runs without a build step. On a Mac with the British English Daniel voice installed, the optional preview server produces speech on demand at a normal conversational rate. Both buttons play the same audio clip. The preview binds to this machine only. GitHub Pages serves the static files and uses browser speech for entries without a recording. English playback requires an English (United Kingdom) voice. Names with a designated non-English pronunciation use that language when available.
 
 ## Publish on GitHub Pages
 
@@ -39,7 +39,7 @@ Add guides to `data/pronunciations.json` under the state code and exact source l
 
 Use hyphens to separate syllables and capitals to mark the stressed syllable. Prefer ABC pronunciation resources, Australian dictionary entries and local recordings. Where appropriate, consult the relevant local language organisation or naming authority. Record sourced variants when more than one pronunciation is in use.
 
-Use `speechOverride` only after listening to the result and confirming it against the source. For a recording cleared for playback, add its HTTPS URL or a relative path under `./audio/verified/` as `audioUrl`. A verified recording takes precedence over device speech. Recordings play at the original pace or at 70% speed. If a recording is unavailable, the library uses device speech and prefers an Australian English voice. Device speech can differ from local usage. See [recording credits](audio/README.md).
+Use `speechOverride` only after listening to the result and confirming it against the source. For a recording cleared for playback, add its HTTPS URL or a relative path under `./audio/verified/` as `audioUrl`. A verified recording takes precedence over device speech. Recordings play at the original pace or at 70% speed. If a recording is unavailable, the library uses device speech and requires a British English voice for English playback. Device speech can differ from local usage. See [recording credits](audio/README.md).
 
 ## General names
 
@@ -47,6 +47,6 @@ The General names tab lists given names with documented use in Australia. Search
 
 Registration sources include the [NSW Registry top 100 series](https://www.data.nsw.gov.au/data/en/dataset/popular-baby-names-from-1952/resource/2adcb228-9101-4c95-a786-b3216539b4a2) and [South Australian registration records from 1944 to 2013](https://zenodo.org/records/11580348), republished by Pete Jones from South Australian Government data under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Other entries cite Australian sport, university, arts and community profiles.
 
-The macOS preview uses installed voices for each language. The preview reads Serbian and Bosnian Latin spellings with a Croatian voice and labels the result as approximate. Irish names use an explicitly marked Australian English approximation in this preview. In the static version, the browser tries the name’s language first and uses a configured approximation where available. A person’s own pronunciation takes precedence over the guide.
+The macOS preview uses installed voices for each language. The preview reads Serbian and Bosnian Latin spellings with a Croatian voice and labels the result as approximate. Irish names use an explicitly marked British English approximation in this preview. In the static version, the browser tries the name’s language first and uses a configured approximation where available. A person’s own pronunciation takes precedence over the guide.
 
 The [local review workflow](scripts/review/README.md) covers evidence, corrections, audio review and the pilot. See also the [baseline audit](PRONUNCIATION-AUDIT.md).

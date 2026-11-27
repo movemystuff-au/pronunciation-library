@@ -53,6 +53,10 @@ function stopPlayback() {
   notify('');
 }
 
+function isEnglish(locale) {
+  return !locale || /^en(?:[-_]|$)/i.test(locale);
+}
+
 function speak(record, rate, version, recordingFailed) {
   if (!synthesis || !window.SpeechSynthesisUtterance) {
     notify(recordingFailed ? 'The recording could not be played.' : 'Speech playback is unavailable in this browser.');
@@ -60,27 +64,31 @@ function speak(record, rate, version, recordingFailed) {
   }
   const available = synthesis.getVoices();
   if (available.length) voices = available;
-  const locale = record.locale ?? 'en-AU';
-  const desired = findVoice(locale, Boolean(record.locale));
-  const fallback = !desired && (record.fallbackLocale
-    ? findVoice(record.fallbackLocale, true)
-    : !record.locale && findVoice('en', true));
-  if (record.locale && !desired && !fallback) {
+  const english = isEnglish(record.locale);
+  const locale = english ? 'en-GB' : record.locale;
+  const desired = findVoice(locale, !english);
+  const fallback = !desired && record.fallbackLocale
+    ? findVoice(isEnglish(record.fallbackLocale) ? 'en-GB' : record.fallbackLocale, false)
+    : undefined;
+  if (!desired && !fallback) {
+    if (english) {
+      notify('A British English voice is unavailable on this device. Install an English (United Kingdom) voice to use device speech.');
+      return;
+    }
     notify(`No ${record.language} voice is available on this device. Try the pronunciation source for ${record.name}.`);
     return;
   }
   const text = fallback && record.fallbackText ||
     record.speechOverride || record.nativeSpelling || record.suburb;
   utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = desired?.lang || fallback?.lang || locale;
-  if (desired || fallback) utterance.voice = desired || fallback;
+  utterance.voice = desired || fallback;
+  utterance.lang = utterance.voice.lang;
   utterance.rate = rate;
   utterance.onerror = () => {
     if (version === playbackVersion) notify('Device speech could not be played.');
   };
-  const accent = desired ? `Using a ${record.language ?? 'Australian English'} device voice.`
-    : fallback ? 'Using another device voice as an approximation.'
-      : 'Requesting Australian English device speech.';
+  const accent = desired ? `Using a ${english ? 'British English' : record.language} device voice.`
+    : 'Using another device voice as an approximation.';
   const review = record.state ? ' Synthesised playback may differ from local usage.'
     : record.verificationStatus === 'verified' ? '' : ' This pronunciation still needs verification.';
   const speed = rate === 1 ? 'Normal speed.' : 'Slow speed requested (70%).';
@@ -118,7 +126,7 @@ async function play(record, rate) {
     const speed = rate === 1 ? 'Normal speed' : 'Slow speed (70%)';
     const voiceLabel = recording ? (record.audioStatus === 'approved' ? 'Reviewed recording.' : 'Speaker recording.')
       : record.fallbackLocale ? 'Approximate device pronunciation.'
-        : `${record.language ?? 'Australian English'} device voice.${record.state ? ' Synthesised playback may differ from local usage.' : ''}`;
+        : `${isEnglish(record.locale) ? 'British English' : record.language} device voice.${record.state ? ' Synthesised playback may differ from local usage.' : ''}`;
     notify(`${speed}. ${voiceLabel}`);
   } catch {
     if (version !== playbackVersion) return;

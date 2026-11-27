@@ -22,9 +22,12 @@ async function check() {
           return super.pause();
         }
       };
-      const fakeVoice = { name: 'Australian test voice', lang: 'en-AU', default: true };
+      window.testVoices = [
+        { name: 'US default test voice', lang: 'en-US', default: true },
+        { name: 'British test voice', lang: 'en-GB', default: false }
+      ];
       Object.defineProperty(window, 'speechSynthesis', { value: {
-        getVoices: () => [fakeVoice],
+        getVoices: () => window.testVoices,
         addEventListener: () => {},
         cancel: () => {},
         speak: utterance => window.speechEvents.push([utterance.text, utterance.lang, utterance.rate])
@@ -73,8 +76,13 @@ async function check() {
     await search.fill('bondi');
     await bondi.click();
     await page.waitForFunction(() => window.speechEvents.length === 1);
-    assert.deepEqual(await page.evaluate(() => window.speechEvents[0]), ['Bondi', 'en-AU', 1]);
+    assert.deepEqual(await page.evaluate(() => window.speechEvents[0]), ['Bondi', 'en-GB', 1]);
     assert.match(await page.locator('#playback-notice').textContent(), /Recording unavailable.*Synthesised playback/);
+
+    await page.evaluate(() => { window.testVoices.pop(); });
+    await bondi.click();
+    await page.waitForFunction(() => document.querySelector('#playback-notice').textContent.includes('British English voice is unavailable'));
+    assert.equal(await page.evaluate(() => window.speechEvents.length), 1);
 
     await page.unroute('**/audio/verified/bondi.wav');
     await page.route('**/data/pronunciations.json', async route => {
